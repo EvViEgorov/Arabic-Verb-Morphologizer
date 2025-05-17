@@ -1,6 +1,6 @@
 import re
 
-cons = 'bcdfghjklmnpqrstvwxyzǯšṯḏkqḍṭṣḏˀġḫḥˁ'
+cons = 'bdfhklmnqrstwyzǮšṯḏḍṭṣẓˀġḫḥˁ'
 vowels = 'aiuāīū'
 def after_asterisk_form(word):
     word = re.sub(rf'([{cons}])(awa|wu)([{cons}]{{2}})', r'\1u\3', word)
