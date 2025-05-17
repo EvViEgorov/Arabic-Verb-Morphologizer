@@ -1,0 +1,459 @@
+
+
+1
+
+
+perf
+
+faˁTla	faˁTlā	faˁTlū
+faˁTlat	faˁTlatā	faˁTlna
+faˁTlta	faˁTltumā	faˁTltum
+faˁTlti	faˁTltumā	faˁTltunna
+faˁTltu	faˁTlnā	faˁTlnā
+
+juss
+
+yafˁTl	yafˁTlā	yafˁTlū
+tafˁTl	tafˁTlā	yafˁTlna
+tafˁTl	tafˁTlā	tafˁTlū
+tafˁTlī	tafˁTlā	tafˁTlna
+ˀafˁTl	nafˁTl	nafˁTl
+
+impf
+
+yafˁTlu	yafˁTlāni	yafˁTlūna
+tafˁTlu	tafˁTlāni	yafˁTlna
+tafˁTlu	tafˁTlāni	tafˁTlūna
+tafˁTlī	tafˁTlāni	tafˁTlna
+ˀafˁTlu	nafˁTlu	nafˁTlu
+
+subj
+
+yafˁTla	yafˁTlā	yafˁTlū
+tafˁTla	tafˁTlā	yafˁTlna
+tafˁTla	tafˁTlā	tafˁTlū
+tafˁTlī	tafˁTlā	tafˁTlna
+ˀafˁTla	nafˁTla	nafˁTla
+
+impv
+
+fˁTl	fˁTlā	fˁTlū
+fˁTlī	fˁTlā	fˁTlna
+
+actp
+
+fāˁil	
+pasp
+
+mafˁūl	
+masd
+
+DICTIONARY FORM
+
+
+2
+
+
+perf
+
+faˁˁala	faˁˁalā	faˁˁalū
+faˁˁalat	faˁˁalatā	faˁˁalna
+faˁˁalta	faˁˁaltumā	faˁˁaltum
+faˁˁalti	faˁˁaltumā	faˁˁaltunna
+faˁˁaltu	faˁˁalnā	faˁˁalnā
+
+juss
+
+yufaˁˁil	yufaˁˁilā	yufaˁˁilū
+tufaˁˁil	tufaˁˁilā	yufaˁˁilna
+tufaˁˁil	tufaˁˁilā	tufaˁˁilū
+tufaˁˁilī	tufaˁˁilā	tufaˁˁilna
+ˀufaˁˁil	nufaˁˁil	nufaˁˁil
+
+impf
+
+yufaˁˁilu	yufaˁˁilāni	yufaˁˁilūna
+tufaˁˁilu	tufaˁˁilāni	yufaˁˁilna
+tufaˁˁilu	tufaˁˁilāni	tufaˁˁilūna
+tufaˁˁilī	tufaˁˁilāni	tufaˁˁilna
+ˀufaˁˁilu	nufaˁˁilu	nufaˁˁilu
+
+subj
+
+yufaˁˁila	yufaˁˁilā	yufaˁˁilū
+tufaˁˁila	tufaˁˁilā	yufaˁˁilna
+tufaˁˁila	tufaˁˁilā	tufaˁˁilū
+tufaˁˁilī	tufaˁˁilā	tufaˁˁilna
+ˀufaˁˁila	nufaˁˁila	nufaˁˁila
+
+impv
+
+faˁˁil	faˁˁilā	faˁˁilū
+faˁˁilī	faˁˁilā	faˁˁilna
+
+actp
+
+mufaˁˁil	
+pasp
+
+mufaˁˁal	
+masd
+
+tafˁīl
+
+
+3
+
+
+perf
+
+fāˁala	fāˁalā	fāˁalū
+fāˁalat	fāˁalatā	fāˁalna
+fāˁalta	fāˁaltumā	fāˁaltum
+fāˁalti	fāˁaltumā	fāˁaltunna
+fāˁaltu	fāˁalnā	fāˁalnā
+
+juss
+
+yufāˁil	yufāˁilā	yufāˁilū
+tufāˁil	tufāˁilā	yufāˁilna
+tufāˁil	tufāˁilā	tufāˁilū
+tufāˁilī	tufāˁilā	tufāˁilna
+ˀufāˁil	nufāˁil	nufāˁil
+
+impf
+
+yufāˁilu	yufāˁilāni	yufāˁilūna
+tufāˁilu	tufāˁilāni	yufāˁilna
+tufāˁilu	tufāˁilāni	tufāˁilūna
+tufāˁilī	tufāˁilāni	tufāˁilna
+ˀufāˁilu	nufāˁilu	nufāˁilu
+
+subj
+
+yufāˁila	yufāˁilā	yufāˁilū
+tufāˁila	tufāˁilā	yufāˁilna
+tufāˁila	tufāˁilā	tufāˁilū
+tufāˁilī	tufāˁilā	tufāˁilna
+ˀufāˁila	nufāˁila	nufāˁila
+
+impv
+
+fāˁil	fāˁilā	fāˁilū
+fāˁilī	fāˁilā	fāˁilna
+
+actp
+
+mufāˁil	
+pasp
+
+mufāˁal	
+masd
+
+fiˁāl / mufāˁalat
+
+
+4
+
+
+perf
+
+ˀafˁala	ˀafˁalā	ˀafˁalū
+ˀafˁalat	ˀafˁalatā	ˀafˁalna
+ˀafˁalta	ˀafˁaltumā	ˀafˁaltum
+ˀafˁalti	ˀafˁaltumā	ˀafˁaltunna
+ˀafˁaltu	ˀafˁalnā	ˀafˁalnā
+
+juss
+
+yufˁil	yufˁilā	yufˁilū
+tufˁil	tufˁilā	yufˁilna
+tufˁil	tufˁilā	tufˁilū
+tufˁilī	tufˁilā	tufˁilna
+ˀufˁil	nufˁil	nufˁil
+
+impf
+
+yufˁilu	yufˁilāni	yufˁilūna
+tufˁilu	tufˁilāni	yufˁilna
+tufˁilu	tufˁilāni	tufˁilūna
+tufˁilī	tufˁilāni	tufˁilna
+ˀufˁilu	nufˁilu	nufˁilu
+
+subj
+
+yufˁila	yufˁilā	yufˁilū
+tufˁila	tufˁilā	yufˁilna
+tufˁila	tufˁilā	tufˁilū
+tufˁilī	tufˁilā	tufˁilna
+ˀufˁila	nufˁila	nufˁila
+
+impv
+
+ˀafˁil	ˀafˁilā	ˀafˁilū
+ˀafˁilī	ˀafˁilā	ˀafˁilna
+
+actp
+
+mufˁil	
+pasp
+
+mufˁal	
+masd
+
+ˀifˁāl
+
+
+5
+
+
+perf
+
+tafaˁˁala	tafaˁˁalā	tafaˁˁalū
+tafaˁˁalat	tafaˁˁalatā	tafaˁˁalna
+tafaˁˁalta	tafaˁˁaltumā	tafaˁˁaltum
+tafaˁˁalti	tafaˁˁaltumā	tafaˁˁaltunna
+tafaˁˁaltu	tafaˁˁalnā	tafaˁˁalnā
+
+juss
+
+yatafaˁˁal	yatafaˁˁalā	yatafaˁˁalū
+tatafaˁˁal	tatafaˁˁalā	yatafaˁˁalna
+tatafaˁˁal	tatafaˁˁalā	tatafaˁˁalū
+tatafaˁˁalī	tatafaˁˁalā	tatafaˁˁalna
+ˀatafaˁˁal	natafaˁˁal	natafaˁˁal
+
+impf
+
+yatafaˁˁalu	yatafaˁˁalāni	yatafaˁˁalūna
+tatafaˁˁalu	tatafaˁˁalāni	yatafaˁˁalna
+tatafaˁˁalu	tatafaˁˁalāni	tatafaˁˁalūna
+tatafaˁˁalī	tatafaˁˁalāni	tatafaˁˁalna
+ˀatafaˁˁalu	natafaˁˁalu	natafaˁˁalu
+
+subj
+
+yatafaˁˁala	yatafaˁˁalā	yatafaˁˁalū
+tatafaˁˁala	tatafaˁˁalā	yatafaˁˁalna
+tatafaˁˁala	tatafaˁˁalā	tatafaˁˁalū
+tatafaˁˁalī	tatafaˁˁalā	tatafaˁˁalna
+ˀatafaˁˁala	natafaˁˁala	natafaˁˁala
+
+impv
+
+tafaˁˁal	tafaˁˁalā	tafaˁˁalū
+tafaˁˁalī	tafaˁˁalā	tafaˁˁalna
+
+actp
+
+mutafaˁˁil	
+pasp
+
+mutafaˁˁal	
+masd
+
+tafaˁˁul
+
+
+6
+
+
+perf
+
+tafāˁala	tafāˁalā	tafāˁalū
+tafāˁalat	tafāˁalatā	tafāˁalna
+tafāˁalta	tafāˁaltumā	tafāˁaltum
+tafāˁalti	tafāˁaltumā	tafāˁaltunna
+tafāˁaltu	tafāˁalnā	tafāˁalnā
+
+juss
+
+yatafāˁal	yatafāˁalā	yatafāˁalū
+tatafāˁal	tatafāˁalā	yatafāˁalna
+tatafāˁal	tatafāˁalā	tatafāˁalū
+tatafāˁalī	tatafāˁalā	tatafāˁalna
+ˀatafāˁal	natafāˁal	natafāˁal
+
+impf
+
+yatafāˁalu	yatafāˁalāni	yatafāˁalūna
+tatafāˁalu	tatafāˁalāni	yatafāˁalna
+tatafāˁalu	tatafāˁalāni	tatafāˁalūna
+tatafāˁalī	tatafāˁalāni	tatafāˁalna
+ˀatafāˁalu	natafāˁalu	natafāˁalu
+
+subj
+
+yatafāˁala	yatafāˁalā	yatafāˁalū
+tatafāˁala	tatafāˁalā	yatafāˁalna
+tatafāˁala	tatafāˁalā	tatafāˁalū
+tatafāˁalī	tatafāˁalā	tatafāˁalna
+ˀatafāˁala	natafāˁala	natafāˁala
+
+impv
+
+tafāˁal	tafāˁalā	tafāˁalū
+tafāˁalī	tafāˁalā	tafāˁalna
+
+actp
+
+mutafāˁil	
+pasp
+
+mutafāˁal	
+masd
+
+tafāˁul
+
+
+7
+
+
+perf
+
+faˁala	faˁalā	faˁalū
+faˁalat	faˁalatā	faˁalna
+faˁalta	faˁaltumā	faˁaltum
+faˁalti	faˁaltumā	faˁaltunna
+faˁaltu	faˁalnā	faˁalnā
+
+juss
+
+yafaˁil	yafaˁilā	yafaˁilū
+tafaˁil	tafaˁilā	yafaˁilna
+tafaˁil	tafaˁilā	tafaˁilū
+tafaˁilī	tafaˁilā	tafaˁilna
+ˀafaˁil	nafaˁil	nafaˁil
+
+impf
+
+yafaˁilu	yafaˁilāni	yafaˁilūna
+tafaˁilu	tafaˁilāni	yafaˁilna
+tafaˁilu	tafaˁilāni	tafaˁilūna
+tafaˁilī	tafaˁilāni	tafaˁilna
+ˀafaˁilu	nafaˁilu	nafaˁilu
+
+subj
+
+yafaˁila	yafaˁilā	yafaˁilū
+tafaˁila	tafaˁilā	yafaˁilna
+tafaˁila	tafaˁilā	tafaˁilū
+tafaˁilī	tafaˁilā	tafaˁilna
+ˀafaˁila	nafaˁila	nafaˁila
+
+impv
+
+faˁil	faˁilā	faˁilū
+faˁilī	faˁilā	faˁilna
+
+actp
+
+munfaˁil	
+pasp
+
+munfaˁal	
+masd
+
+infiˁāl
+
+
+8
+
+
+perf
+
+ftaˁala	ftaˁalā	ftaˁalū
+ftaˁalat	ftaˁalatā	ftaˁalna
+ftaˁalta	ftaˁaltumā	ftaˁaltum
+ftaˁalti	ftaˁaltumā	ftaˁaltunna
+ftaˁaltu	ftaˁalnā	ftaˁalnā
+
+juss
+
+yaftaˁil	yaftaˁilā	yaftaˁilū
+taftaˁil	taftaˁilā	yaftaˁilna
+taftaˁil	taftaˁilā	taftaˁilū
+taftaˁilī	taftaˁilā	taftaˁilna
+ˀaftaˁil	naftaˁil	naftaˁil
+
+impf
+
+yaftaˁilu	yaftaˁilāni	yaftaˁilūna
+taftaˁilu	taftaˁilāni	yaftaˁilna
+taftaˁilu	taftaˁilāni	taftaˁilūna
+taftaˁilī	taftaˁilāni	taftaˁilna
+ˀaftaˁilu	naftaˁilu	naftaˁilu
+
+subj
+
+yaftaˁila	yaftaˁilā	yaftaˁilū
+taftaˁila	taftaˁilā	yaftaˁilna
+taftaˁila	taftaˁilā	taftaˁilū
+taftaˁilī	taftaˁilā	taftaˁilna
+ˀaftaˁila	naftaˁila	naftaˁila
+
+impv
+
+ftaˁil	ftaˁilā	ftaˁilū
+ftaˁilī	ftaˁilā	ftaˁilna
+
+actp
+
+muftaˁil	
+pasp
+
+muftaˁal	
+masd
+
+iftiˁāl
+
+
+10
+
+
+perf
+
+stafˁala	stafˁalā	stafˁalū
+stafˁalat	stafˁalatā	stafˁalna
+stafˁalta	stafˁaltumā	stafˁaltum
+stafˁalti	stafˁaltumā	stafˁaltunna
+stafˁaltu	stafˁalnā	stafˁalnā
+
+juss
+
+yastafˁil	yastafˁilā	yastafˁilū
+tastafˁil	tastafˁilā	yastafˁilna
+tastafˁil	tastafˁilā	tastafˁilū
+tastafˁilī	tastafˁilā	tastafˁilna
+ˀastafˁil	nastafˁil	nastafˁil
+
+impf
+
+yastafˁilu	yastafˁilāni	yastafˁilūna
+tastafˁilu	tastafˁilāni	yastafˁilna
+tastafˁilu	tastafˁilāni	tastafˁilūna
+tastafˁilī	tastafˁilāni	tastafˁilna
+ˀastafˁilu	nastafˁilu	nastafˁilu
+
+subj
+
+yastafˁila	yastafˁilā	yastafˁilū
+tastafˁila	tastafˁilā	yastafˁilna
+tastafˁila	tastafˁilā	tastafˁilū
+tastafˁilī	tastafˁilā	tastafˁilna
+ˀastafˁila	nastafˁila	nastafˁila
+
+impv
+
+stafˁil	stafˁilā	stafˁilū
+stafˁilī	stafˁilā	stafˁilna
+
+actp
+
+mustafˁil	
+pasp
+
+mustafˁal	
+masd
+
+ˀistifˁāl

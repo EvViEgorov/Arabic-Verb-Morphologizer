@@ -1,1 +1,1 @@
-def get_root(wordform: str, gram: dict) -> tuple:
+def get_root(wordform: str) -> tuple:
