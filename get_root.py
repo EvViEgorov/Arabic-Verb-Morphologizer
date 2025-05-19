@@ -1,4 +1,4 @@
-from build_form import consonants, build_paradigm
+from build_form import consonants, build_paradigm, build_wordform
 from itertools import product
 
 weak_origin = {
@@ -37,12 +37,22 @@ def get_roots(wordform: str) -> list: # получаем все возможны
     return roots
 
 
+def get_dict_form(root: str, gram: tuple) -> list:
+    dict_forms = []
+    if gram[0][0] == '1':
+        dict_forms.append(build_wordform(root, (gram[0], 'perf', '3msg')))
+    else:
+        for form in {'1aa', '1ai', '1au', '1ia', '1uu'}:
+            dict_forms.append(build_wordform(root, (form, 'perf', '3msg')))
+    return dict_forms
+
+
 def get_forms(wordform) -> dict:
     poss_forms = dict()
     for root in get_roots(wordform):
         paradigm = build_paradigm(root)
         for k, v in paradigm.items():
             if v == wordform:
-                poss_forms[k] = v
-
+                for dict_form in get_dict_form(root, k):
+                    poss_forms[k] = dict_form
     return poss_forms
