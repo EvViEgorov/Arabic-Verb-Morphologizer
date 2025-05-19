@@ -219,7 +219,7 @@ def build_wordform(root: str, gram_cat: tuple) -> str: # строим слово
 
     # переходы со слабыми
     if 'w' in root or 'y' in root or root[1] == root[2]:
-        wordform = after_asterisk_form(wordform, root)
+        wordform = after_asterisk_form(wordform, root, gram_cat)
 
     # вставляем протезу
     wordform = prothesis(wordform)

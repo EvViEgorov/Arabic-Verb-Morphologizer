@@ -4,7 +4,7 @@ cons = 'bdfhklmnqrstwyzǮšṯḏḍṭṣẓˀġḫḥˁ'
 vowels = 'aiuāīū'
 
 
-def after_asterisk_form(word: str, root: str) -> str:
+def after_asterisk_form(word: str, root: str, gram: tuple) -> str:
 
     # ОБЩИЕ ПЕРЕХОДЫ:
     # -awa| -> -ā|    -awi| -> -ā|    -aya| -> -ā|    -ayu| -> -ā|

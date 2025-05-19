@@ -5,47 +5,47 @@
 
 perf
 
-sāra	sārā	sārū
-sārat	sāratā	sirna
-sirta	sirtumā	sirtum
-sirti	sirtumā	sirtunna
-sirtu	sirnā	sirnā
+waqafa	waqafā	waqafū
+waqafat	waqafatā	waqafna
+waqafta	waqaftumā	waqaftum
+waqafti	waqaftumā	waqaftunna
+waqaftu	waqafnā	waqafnā
 
 juss
 
-yasir	yasīrā	yasīrū
-tasir	tasīrā	yasirna
-tasir	tasīrā	tasīrū
-tasīrī	tasīrā	tasirna
-ˀasir	nasir	nasir
+yawqaf	yawqafā	yawqafū
+tawqaf	tawqafā	yawqafna
+tawqaf	tawqafā	tawqafū
+tawqafī	tawqafā	tawqafna
+ˀawqaf	nawqaf	nawqaf
 
 impf
 
-yasīru	yasīrāni	yasīrūna
-tasīru	tasīrāni	yasirna
-tasīru	tasīrāni	tasīrūna
-tasīrīna	tasīrāni	tasirna
-ˀasīru	nasīru	nasīru
+yawqafu	yawqafāni	yawqafūna
+tawqafu	tawqafāni	yawqafna
+tawqafu	tawqafāni	tawqafūna
+tawqafīna	tawqafāni	tawqafna
+ˀawqafu	nawqafu	nawqafu
 
 subj
 
-yasīra	yasīrā	yasīrū
-tasīra	tasīrā	yasirna
-tasīra	tasīrā	tasīrū
-tasīrī	tasīrā	tasirna
-ˀasīra	nasīra	nasīra
+yawqafa	yawqafā	yawqafū
+tawqafa	tawqafā	yawqafna
+tawqafa	tawqafā	tawqafū
+tawqafī	tawqafā	tawqafna
+ˀawqafa	nawqafa	nawqafa
 
 impv
 
-isyar	isyarā	isyarū
-isyarī	isyarā	isyarna
+iwqaf	iwqafā	iwqafū
+iwqafī	iwqafā	iwqafna
 
 actp
 
-sāyir	
+wāqif	
 pasp
 
-masyūr	
+mawqūf	
 masd
 
 DICTIONARY FORM
@@ -56,47 +56,47 @@ DICTIONARY FORM
 
 perf
 
-sāra	sārā	sārū
-sārat	sāratā	sirna
-sirta	sirtumā	sirtum
-sirti	sirtumā	sirtunna
-sirtu	sirnā	sirnā
+waqafa	waqafā	waqafū
+waqafat	waqafatā	waqafna
+waqafta	waqaftumā	waqaftum
+waqafti	waqaftumā	waqaftunna
+waqaftu	waqafnā	waqafnā
 
 juss
 
-yasir	yasīrā	yasīrū
-tasir	tasīrā	yasirna
-tasir	tasīrā	tasīrū
-tasīrī	tasīrā	tasirna
-ˀasir	nasir	nasir
+yawqif	yawqifā	yawqifū
+tawqif	tawqifā	yawqifna
+tawqif	tawqifā	tawqifū
+tawqifī	tawqifā	tawqifna
+ˀawqif	nawqif	nawqif
 
 impf
 
-yasīru	yasīrāni	yasīrūna
-tasīru	tasīrāni	yasirna
-tasīru	tasīrāni	tasīrūna
-tasīrīna	tasīrāni	tasirna
-ˀasīru	nasīru	nasīru
+yawqifu	yawqifāni	yawqifūna
+tawqifu	tawqifāni	yawqifna
+tawqifu	tawqifāni	tawqifūna
+tawqifīna	tawqifāni	tawqifna
+ˀawqifu	nawqifu	nawqifu
 
 subj
 
-yasīra	yasīrā	yasīrū
-tasīra	tasīrā	yasirna
-tasīra	tasīrā	tasīrū
-tasīrī	tasīrā	tasirna
-ˀasīra	nasīra	nasīra
+yawqifa	yawqifā	yawqifū
+tawqifa	tawqifā	yawqifna
+tawqifa	tawqifā	tawqifū
+tawqifī	tawqifā	tawqifna
+ˀawqifa	nawqifa	nawqifa
 
 impv
 
-isyir	isyirā	isyirū
-isyirī	isyirā	isyirna
+iwqif	iwqifā	iwqifū
+iwqifī	iwqifā	iwqifna
 
 actp
 
-sāyir	
+wāqif	
 pasp
 
-masyūr	
+mawqūf	
 masd
 
 DICTIONARY FORM
@@ -107,47 +107,47 @@ DICTIONARY FORM
 
 perf
 
-sāra	sārā	sārū
-sārat	sāratā	sirna
-sirta	sirtumā	sirtum
-sirti	sirtumā	sirtunna
-sirtu	sirnā	sirnā
+waqafa	waqafā	waqafū
+waqafat	waqafatā	waqafna
+waqafta	waqaftumā	waqaftum
+waqafti	waqaftumā	waqaftunna
+waqaftu	waqafnā	waqafnā
 
 juss
 
-yasyur	yasyurā	yasyurū
-tasyur	tasyurā	yasyurna
-tasyur	tasyurā	tasyurū
-tasyurī	tasyurā	tasyurna
-ˀasyur	nasyur	nasyur
+yawquf	yawqufā	yawqufū
+tawquf	tawqufā	yawqufna
+tawquf	tawqufā	tawqufū
+tawqufī	tawqufā	tawqufna
+ˀawquf	nawquf	nawquf
 
 impf
 
-yasyuru	yasyurāni	yasyurūna
-tasyuru	tasyurāni	yasyurna
-tasyuru	tasyurāni	tasyurūna
-tasyurīna	tasyurāni	tasyurna
-ˀasyuru	nasyuru	nasyuru
+yawqufu	yawqufāni	yawqufūna
+tawqufu	tawqufāni	yawqufna
+tawqufu	tawqufāni	tawqufūna
+tawqufīna	tawqufāni	tawqufna
+ˀawqufu	nawqufu	nawqufu
 
 subj
 
-yasyura	yasyurā	yasyurū
-tasyura	tasyurā	yasyurna
-tasyura	tasyurā	tasyurū
-tasyurī	tasyurā	tasyurna
-ˀasyura	nasyura	nasyura
+yawqufa	yawqufā	yawqufū
+tawqufa	tawqufā	yawqufna
+tawqufa	tawqufā	tawqufū
+tawqufī	tawqufā	tawqufna
+ˀawqufa	nawqufa	nawqufa
 
 impv
 
-usyur	usyurā	usyurū
-usyurī	usyurā	usyurna
+uwquf	uwqufā	uwqufū
+uwqufī	uwqufā	uwqufna
 
 actp
 
-sāyir	
+wāqif	
 pasp
 
-masyūr	
+mawqūf	
 masd
 
 DICTIONARY FORM
@@ -158,47 +158,47 @@ DICTIONARY FORM
 
 perf
 
-sayira	sayirā	sayirū
-sayirat	sayiratā	sayirna
-sayirta	sayirtumā	sayirtum
-sayirti	sayirtumā	sayirtunna
-sayirtu	sayirnā	sayirnā
+waqifa	waqifā	waqifū
+waqifat	waqifatā	waqifna
+waqifta	waqiftumā	waqiftum
+waqifti	waqiftumā	waqiftunna
+waqiftu	waqifnā	waqifnā
 
 juss
 
-yasir	yasīrā	yasīrū
-tasir	tasīrā	yasirna
-tasir	tasīrā	tasīrū
-tasīrī	tasīrā	tasirna
-ˀasir	nasir	nasir
+yawqaf	yawqafā	yawqafū
+tawqaf	tawqafā	yawqafna
+tawqaf	tawqafā	tawqafū
+tawqafī	tawqafā	tawqafna
+ˀawqaf	nawqaf	nawqaf
 
 impf
 
-yasīru	yasīrāni	yasīrūna
-tasīru	tasīrāni	yasirna
-tasīru	tasīrāni	tasīrūna
-tasīrīna	tasīrāni	tasirna
-ˀasīru	nasīru	nasīru
+yawqafu	yawqafāni	yawqafūna
+tawqafu	tawqafāni	yawqafna
+tawqafu	tawqafāni	tawqafūna
+tawqafīna	tawqafāni	tawqafna
+ˀawqafu	nawqafu	nawqafu
 
 subj
 
-yasīra	yasīrā	yasīrū
-tasīra	tasīrā	yasirna
-tasīra	tasīrā	tasīrū
-tasīrī	tasīrā	tasirna
-ˀasīra	nasīra	nasīra
+yawqafa	yawqafā	yawqafū
+tawqafa	tawqafā	yawqafna
+tawqafa	tawqafā	tawqafū
+tawqafī	tawqafā	tawqafna
+ˀawqafa	nawqafa	nawqafa
 
 impv
 
-isyar	isyarā	isyarū
-isyarī	isyarā	isyarna
+iwqaf	iwqafā	iwqafū
+iwqafī	iwqafā	iwqafna
 
 actp
 
-sāyir	
+wāqif	
 pasp
 
-masyūr	
+mawqūf	
 masd
 
 DICTIONARY FORM
@@ -209,47 +209,47 @@ DICTIONARY FORM
 
 perf
 
-sāra	sārā	sārū
-sārat	sāratā	sayurna
-sayurta	sayurtumā	sayurtum
-sayurti	sayurtumā	sayurtunna
-sayurtu	sayurnā	sayurnā
+waqufa	waqufā	waqufū
+waqufat	waqufatā	waqufna
+waqufta	waquftumā	waquftum
+waqufti	waquftumā	waquftunna
+waquftu	waqufnā	waqufnā
 
 juss
 
-yasyur	yasyurā	yasyurū
-tasyur	tasyurā	yasyurna
-tasyur	tasyurā	tasyurū
-tasyurī	tasyurā	tasyurna
-ˀasyur	nasyur	nasyur
+yawquf	yawqufā	yawqufū
+tawquf	tawqufā	yawqufna
+tawquf	tawqufā	tawqufū
+tawqufī	tawqufā	tawqufna
+ˀawquf	nawquf	nawquf
 
 impf
 
-yasyuru	yasyurāni	yasyurūna
-tasyuru	tasyurāni	yasyurna
-tasyuru	tasyurāni	tasyurūna
-tasyurīna	tasyurāni	tasyurna
-ˀasyuru	nasyuru	nasyuru
+yawqufu	yawqufāni	yawqufūna
+tawqufu	tawqufāni	yawqufna
+tawqufu	tawqufāni	tawqufūna
+tawqufīna	tawqufāni	tawqufna
+ˀawqufu	nawqufu	nawqufu
 
 subj
 
-yasyura	yasyurā	yasyurū
-tasyura	tasyurā	yasyurna
-tasyura	tasyurā	tasyurū
-tasyurī	tasyurā	tasyurna
-ˀasyura	nasyura	nasyura
+yawqufa	yawqufā	yawqufū
+tawqufa	tawqufā	yawqufna
+tawqufa	tawqufā	tawqufū
+tawqufī	tawqufā	tawqufna
+ˀawqufa	nawqufa	nawqufa
 
 impv
 
-usyur	usyurā	usyurū
-usyurī	usyurā	usyurna
+uwquf	uwqufā	uwqufū
+uwqufī	uwqufā	uwqufna
 
 actp
 
-sāyir	
+wāqif	
 pasp
 
-masyūr	
+mawqūf	
 masd
 
 DICTIONARY FORM
@@ -260,50 +260,50 @@ DICTIONARY FORM
 
 perf
 
-sayīra	sayīrā	sayīrū
-sayīrat	sayīratā	sayirna
-sayirta	sayirtumā	sayirtum
-sayirti	sayirtumā	sayirtunna
-sayirtu	sayirnā	sayirnā
+waqqafa	waqqafā	waqqafū
+waqqafat	waqqafatā	waqqafna
+waqqafta	waqqaftumā	waqqaftum
+waqqafti	waqqaftumā	waqqaftunna
+waqqaftu	waqqafnā	waqqafnā
 
 juss
 
-yusayir	yusayīrā	yusayīrū
-tusayir	tusayīrā	yusayirna
-tusayir	tusayīrā	tusayīrū
-tusayīrī	tusayīrā	tusayirna
-ˀusayir	nusayir	nusayir
+yuwaqqif	yuwaqqifā	yuwaqqifū
+tuwaqqif	tuwaqqifā	yuwaqqifna
+tuwaqqif	tuwaqqifā	tuwaqqifū
+tuwaqqifī	tuwaqqifā	tuwaqqifna
+ˀuwaqqif	nuwaqqif	nuwaqqif
 
 impf
 
-yusayīru	yusayīrāni	yusayīrūna
-tusayīru	tusayīrāni	yusayirna
-tusayīru	tusayīrāni	tusayīrūna
-tusayīrīna	tusayīrāni	tusayirna
-ˀusayīru	nusayīru	nusayīru
+yuwaqqifu	yuwaqqifāni	yuwaqqifūna
+tuwaqqifu	tuwaqqifāni	yuwaqqifna
+tuwaqqifu	tuwaqqifāni	tuwaqqifūna
+tuwaqqifīna	tuwaqqifāni	tuwaqqifna
+ˀuwaqqifu	nuwaqqifu	nuwaqqifu
 
 subj
 
-yusayīra	yusayīrā	yusayīrū
-tusayīra	tusayīrā	yusayirna
-tusayīra	tusayīrā	tusayīrū
-tusayīrī	tusayīrā	tusayirna
-ˀusayīra	nusayīra	nusayīra
+yuwaqqifa	yuwaqqifā	yuwaqqifū
+tuwaqqifa	tuwaqqifā	yuwaqqifna
+tuwaqqifa	tuwaqqifā	tuwaqqifū
+tuwaqqifī	tuwaqqifā	tuwaqqifna
+ˀuwaqqifa	nuwaqqifa	nuwaqqifa
 
 impv
 
-sayir	sayīrā	sayīrū
-sayīrī	sayīrā	sayirna
+waqqif	waqqifā	waqqifū
+waqqifī	waqqifā	waqqifna
 
 actp
 
-musayir	
+muwaqqif	
 pasp
 
-musayir	
+muwaqqaf	
 masd
 
-tasyīr
+tawqīf
 
 
 3
@@ -311,50 +311,50 @@ tasyīr
 
 perf
 
-sāyara	sāyarā	sāyarū
-sāyarat	sāyaratā	sāyarna
-sāyarta	sāyartumā	sāyartum
-sāyarti	sāyartumā	sāyartunna
-sāyartu	sāyarnā	sāyarnā
+wāqafa	wāqafā	wāqafū
+wāqafat	wāqafatā	wāqafna
+wāqafta	wāqaftumā	wāqaftum
+wāqafti	wāqaftumā	wāqaftunna
+wāqaftu	wāqafnā	wāqafnā
 
 juss
 
-yusāyir	yusāyirā	yusāyirū
-tusāyir	tusāyirā	yusāyirna
-tusāyir	tusāyirā	tusāyirū
-tusāyirī	tusāyirā	tusāyirna
-ˀusāyir	nusāyir	nusāyir
+yuwāqif	yuwāqifā	yuwāqifū
+tuwāqif	tuwāqifā	yuwāqifna
+tuwāqif	tuwāqifā	tuwāqifū
+tuwāqifī	tuwāqifā	tuwāqifna
+ˀuwāqif	nuwāqif	nuwāqif
 
 impf
 
-yusāyiru	yusāyirāni	yusāyirūna
-tusāyiru	tusāyirāni	yusāyirna
-tusāyiru	tusāyirāni	tusāyirūna
-tusāyirīna	tusāyirāni	tusāyirna
-ˀusāyiru	nusāyiru	nusāyiru
+yuwāqifu	yuwāqifāni	yuwāqifūna
+tuwāqifu	tuwāqifāni	yuwāqifna
+tuwāqifu	tuwāqifāni	tuwāqifūna
+tuwāqifīna	tuwāqifāni	tuwāqifna
+ˀuwāqifu	nuwāqifu	nuwāqifu
 
 subj
 
-yusāyira	yusāyirā	yusāyirū
-tusāyira	tusāyirā	yusāyirna
-tusāyira	tusāyirā	tusāyirū
-tusāyirī	tusāyirā	tusāyirna
-ˀusāyira	nusāyira	nusāyira
+yuwāqifa	yuwāqifā	yuwāqifū
+tuwāqifa	tuwāqifā	yuwāqifna
+tuwāqifa	tuwāqifā	tuwāqifū
+tuwāqifī	tuwāqifā	tuwāqifna
+ˀuwāqifa	nuwāqifa	nuwāqifa
 
 impv
 
-sāyir	sāyirā	sāyirū
-sāyirī	sāyirā	sāyirna
+wāqif	wāqifā	wāqifū
+wāqifī	wāqifā	wāqifna
 
 actp
 
-musāyir	
+muwāqif	
 pasp
 
-musāyar	
+muwāqaf	
 masd
 
-siyār / musāyarat
+wiqāf / muwāqafat
 
 
 4
@@ -362,50 +362,50 @@ siyār / musāyarat
 
 perf
 
-ˀasīra	ˀasīrā	ˀasīrū
-ˀasīrat	ˀasīratā	ˀasirna
-ˀasirta	ˀasirtumā	ˀasirtum
-ˀasirti	ˀasirtumā	ˀasirtunna
-ˀasirtu	ˀasirnā	ˀasirnā
+ˀawqafa	ˀawqafā	ˀawqafū
+ˀawqafat	ˀawqafatā	ˀawqafna
+ˀawqafta	ˀawqaftumā	ˀawqaftum
+ˀawqafti	ˀawqaftumā	ˀawqaftunna
+ˀawqaftu	ˀawqafnā	ˀawqafnā
 
 juss
 
-yusir	yusīrā	yusīrū
-tusir	tusīrā	yusirna
-tusir	tusīrā	tusīrū
-tusīrī	tusīrā	tusirna
-ˀusir	nusir	nusir
+yuwqif	yuwqifā	yuwqifū
+tuwqif	tuwqifā	yuwqifna
+tuwqif	tuwqifā	tuwqifū
+tuwqifī	tuwqifā	tuwqifna
+ˀuwqif	nuwqif	nuwqif
 
 impf
 
-yusīru	yusīrāni	yusīrūna
-tusīru	tusīrāni	yusirna
-tusīru	tusīrāni	tusīrūna
-tusīrīna	tusīrāni	tusirna
-ˀusīru	nusīru	nusīru
+yuwqifu	yuwqifāni	yuwqifūna
+tuwqifu	tuwqifāni	yuwqifna
+tuwqifu	tuwqifāni	tuwqifūna
+tuwqifīna	tuwqifāni	tuwqifna
+ˀuwqifu	nuwqifu	nuwqifu
 
 subj
 
-yusīra	yusīrā	yusīrū
-tusīra	tusīrā	yusirna
-tusīra	tusīrā	tusīrū
-tusīrī	tusīrā	tusirna
-ˀusīra	nusīra	nusīra
+yuwqifa	yuwqifā	yuwqifū
+tuwqifa	tuwqifā	yuwqifna
+tuwqifa	tuwqifā	tuwqifū
+tuwqifī	tuwqifā	tuwqifna
+ˀuwqifa	nuwqifa	nuwqifa
 
 impv
 
-ˀasir	ˀasīrā	ˀasīrū
-ˀasīrī	ˀasīrā	ˀasirna
+ˀawqif	ˀawqifā	ˀawqifū
+ˀawqifī	ˀawqifā	ˀawqifna
 
 actp
 
-musir	
+muwqif	
 pasp
 
-musil	
+muwqal	
 masd
 
-ˀisyār
+ˀīqāf
 
 
 5
@@ -413,50 +413,50 @@ masd
 
 perf
 
-tasayīra	tasayīrā	tasayīrū
-tasayīrat	tasayīratā	tasayirna
-tasayirta	tasayirtumā	tasayirtum
-tasayirti	tasayirtumā	tasayirtunna
-tasayirtu	tasayirnā	tasayirnā
+tuqqafa	tuqqafā	tuqqafū
+tuqqafat	tuqqafatā	tuqqafna
+tuqqafta	tuqqaftumā	tuqqaftum
+tuqqafti	tuqqaftumā	tuqqaftunna
+tuqqaftu	tuqqafnā	tuqqafnā
 
 juss
 
-yatasayir	yatasayīrā	yatasayīrū
-tatasayir	tatasayīrā	yatasayirna
-tatasayir	tatasayīrā	tatasayīrū
-tatasayīrī	tatasayīrā	tatasayirna
-ˀatasayir	natasayir	natasayir
+yatuqqaf	yatuqqafā	yatuqqafū
+tatuqqaf	tatuqqafā	yatuqqafna
+tatuqqaf	tatuqqafā	tatuqqafū
+tatuqqafī	tatuqqafā	tatuqqafna
+ˀatuqqaf	natuqqaf	natuqqaf
 
 impf
 
-yatasayīru	yatasayīrāni	yatasayīrūna
-tatasayīru	tatasayīrāni	yatasayirna
-tatasayīru	tatasayīrāni	tatasayīrūna
-tatasayīrīna	tatasayīrāni	tatasayirna
-ˀatasayīru	natasayīru	natasayīru
+yatuqqafu	yatuqqafāni	yatuqqafūna
+tatuqqafu	tatuqqafāni	yatuqqafna
+tatuqqafu	tatuqqafāni	tatuqqafūna
+tatuqqafīna	tatuqqafāni	tatuqqafna
+ˀatuqqafu	natuqqafu	natuqqafu
 
 subj
 
-yatasayīra	yatasayīrā	yatasayīrū
-tatasayīra	tatasayīrā	yatasayirna
-tatasayīra	tatasayīrā	tatasayīrū
-tatasayīrī	tatasayīrā	tatasayirna
-ˀatasayīra	natasayīra	natasayīra
+yatuqqafa	yatuqqafā	yatuqqafū
+tatuqqafa	tatuqqafā	yatuqqafna
+tatuqqafa	tatuqqafā	tatuqqafū
+tatuqqafī	tatuqqafā	tatuqqafna
+ˀatuqqafa	natuqqafa	natuqqafa
 
 impv
 
-tasayir	tasayīrā	tasayīrū
-tasayīrī	tasayīrā	tasayirna
+tuqqaf	tuqqafā	tuqqafū
+tuqqafī	tuqqafā	tuqqafna
 
 actp
 
-mutasayir	
+mutuqqif	
 pasp
 
-mutasayir	
+mutuqqaf	
 masd
 
-tasayyur
+tuqquf
 
 
 6
@@ -464,50 +464,50 @@ tasayyur
 
 perf
 
-tasāyara	tasāyarā	tasāyarū
-tasāyarat	tasāyaratā	tasāyarna
-tasāyarta	tasāyartumā	tasāyartum
-tasāyarti	tasāyartumā	tasāyartunna
-tasāyartu	tasāyarnā	tasāyarnā
+tawāqafa	tawāqafā	tawāqafū
+tawāqafat	tawāqafatā	tawāqafna
+tawāqafta	tawāqaftumā	tawāqaftum
+tawāqafti	tawāqaftumā	tawāqaftunna
+tawāqaftu	tawāqafnā	tawāqafnā
 
 juss
 
-yatasāyar	yatasāyarā	yatasāyarū
-tatasāyar	tatasāyarā	yatasāyarna
-tatasāyar	tatasāyarā	tatasāyarū
-tatasāyarī	tatasāyarā	tatasāyarna
-ˀatasāyar	natasāyar	natasāyar
+yatawāqaf	yatawāqafā	yatawāqafū
+tatawāqaf	tatawāqafā	yatawāqafna
+tatawāqaf	tatawāqafā	tatawāqafū
+tatawāqafī	tatawāqafā	tatawāqafna
+ˀatawāqaf	natawāqaf	natawāqaf
 
 impf
 
-yatasāyaru	yatasāyarāni	yatasāyarūna
-tatasāyaru	tatasāyarāni	yatasāyarna
-tatasāyaru	tatasāyarāni	tatasāyarūna
-tatasāyarīna	tatasāyarāni	tatasāyarna
-ˀatasāyaru	natasāyaru	natasāyaru
+yatawāqafu	yatawāqafāni	yatawāqafūna
+tatawāqafu	tatawāqafāni	yatawāqafna
+tatawāqafu	tatawāqafāni	tatawāqafūna
+tatawāqafīna	tatawāqafāni	tatawāqafna
+ˀatawāqafu	natawāqafu	natawāqafu
 
 subj
 
-yatasāyara	yatasāyarā	yatasāyarū
-tatasāyara	tatasāyarā	yatasāyarna
-tatasāyara	tatasāyarā	tatasāyarū
-tatasāyarī	tatasāyarā	tatasāyarna
-ˀatasāyara	natasāyara	natasāyara
+yatawāqafa	yatawāqafā	yatawāqafū
+tatawāqafa	tatawāqafā	yatawāqafna
+tatawāqafa	tatawāqafā	tatawāqafū
+tatawāqafī	tatawāqafā	tatawāqafna
+ˀatawāqafa	natawāqafa	natawāqafa
 
 impv
 
-tasāyar	tasāyarā	tasāyarū
-tasāyarī	tasāyarā	tasāyarna
+tawāqaf	tawāqafā	tawāqafū
+tawāqafī	tawāqafā	tawāqafna
 
 actp
 
-mutasāyir	
+mutawāqif	
 pasp
 
-mutasāyar	
+mutawāqaf	
 masd
 
-tasāyur
+tawāquf
 
 
 7
@@ -515,50 +515,50 @@ tasāyur
 
 perf
 
-insāra	insārā	insārū
-insārat	insāratā	insirna
-insirta	insirtumā	insirtum
-insirti	insirtumā	insirtunna
-insirtu	insirnā	insirnā
+inwaqafa	inwaqafā	inwaqafū
+inwaqafat	inwaqafatā	inwaqafna
+inwaqafta	inwaqaftumā	inwaqaftum
+inwaqafti	inwaqaftumā	inwaqaftunna
+inwaqaftu	inwaqafnā	inwaqafnā
 
 juss
 
-yansayir	yansayirā	yansayirū
-tansayir	tansayirā	yansayirna
-tansayir	tansayirā	tansayirū
-tansayirī	tansayirā	tansayirna
-ˀansayir	nansayir	nansayir
+yanāqif	yanāqifā	yanāqifū
+tanāqif	tanāqifā	yanāqifna
+tanāqif	tanāqifā	tanāqifū
+tanāqifī	tanāqifā	tanāqifna
+ˀanāqif	nanāqif	nanāqif
 
 impf
 
-yansayiru	yansayirāni	yansayirūna
-tansayiru	tansayirāni	yansayirna
-tansayiru	tansayirāni	tansayirūna
-tansayirīna	tansayirāni	tansayirna
-ˀansayiru	nansayiru	nansayiru
+yanāqifu	yanāqifāni	yanāqifūna
+tanāqifu	tanāqifāni	yanāqifna
+tanāqifu	tanāqifāni	tanāqifūna
+tanāqifīna	tanāqifāni	tanāqifna
+ˀanāqifu	nanāqifu	nanāqifu
 
 subj
 
-yansayira	yansayirā	yansayirū
-tansayira	tansayirā	yansayirna
-tansayira	tansayirā	tansayirū
-tansayirī	tansayirā	tansayirna
-ˀansayira	nansayira	nansayira
+yanāqifa	yanāqifā	yanāqifū
+tanāqifa	tanāqifā	yanāqifna
+tanāqifa	tanāqifā	tanāqifū
+tanāqifī	tanāqifā	tanāqifna
+ˀanāqifa	nanāqifa	nanāqifa
 
 impv
 
-insayir	insayirā	insayirū
-insayirī	insayirā	insayirna
+inwaqif	inwaqifā	inwaqifū
+inwaqifī	inwaqifā	inwaqifna
 
 actp
 
-munsayir	
+munāqif	
 pasp
 
-munsir	
+munāqaf	
 masd
 
-insiyār
+inwiqāf
 
 
 8
@@ -566,50 +566,50 @@ insiyār
 
 perf
 
-istāra	istārā	istārū
-istārat	istāratā	istirna
-istirta	istirtumā	istirtum
-istirti	istirtumā	istirtunna
-istirtu	istirnā	istirnā
+iwtaqafa	iwtaqafā	iwtaqafū
+iwtaqafat	iwtaqafatā	iwtaqafna
+iwtaqafta	iwtaqaftumā	iwtaqaftum
+iwtaqafti	iwtaqaftumā	iwtaqaftunna
+iwtaqaftu	iwtaqafnā	iwtaqafnā
 
 juss
 
-yastayir	yastayirā	yastayirū
-tastayir	tastayirā	yastayirna
-tastayir	tastayirā	tastayirū
-tastayirī	tastayirā	tastayirna
-ˀastayir	nastayir	nastayir
+yawtaqif	yawtaqifā	yawtaqifū
+tawtaqif	tawtaqifā	yawtaqifna
+tawtaqif	tawtaqifā	tawtaqifū
+tawtaqifī	tawtaqifā	tawtaqifna
+ˀawtaqif	nawtaqif	nawtaqif
 
 impf
 
-yastayiru	yastayirāni	yastayirūna
-tastayiru	tastayirāni	yastayirna
-tastayiru	tastayirāni	tastayirūna
-tastayirīna	tastayirāni	tastayirna
-ˀastayiru	nastayiru	nastayiru
+yawtaqifu	yawtaqifāni	yawtaqifūna
+tawtaqifu	tawtaqifāni	yawtaqifna
+tawtaqifu	tawtaqifāni	tawtaqifūna
+tawtaqifīna	tawtaqifāni	tawtaqifna
+ˀawtaqifu	nawtaqifu	nawtaqifu
 
 subj
 
-yastayira	yastayirā	yastayirū
-tastayira	tastayirā	yastayirna
-tastayira	tastayirā	tastayirū
-tastayirī	tastayirā	tastayirna
-ˀastayira	nastayira	nastayira
+yawtaqifa	yawtaqifā	yawtaqifū
+tawtaqifa	tawtaqifā	yawtaqifna
+tawtaqifa	tawtaqifā	tawtaqifū
+tawtaqifī	tawtaqifā	tawtaqifna
+ˀawtaqifa	nawtaqifa	nawtaqifa
 
 impv
 
-istayir	istayirā	istayirū
-istayirī	istayirā	istayirna
+iwtaqif	iwtaqifā	iwtaqifū
+iwtaqifī	iwtaqifā	iwtaqifna
 
 actp
 
-mustayir	
+muwtaqif	
 pasp
 
-mustir	
+muwtaqaf	
 masd
 
-istiyār
+iwtiqāf
 
 
 10
@@ -617,47 +617,47 @@ istiyār
 
 perf
 
-istasīra	istasīrā	istasīrū
-istasīrat	istasīratā	istasirna
-istasirta	istasirtumā	istasirtum
-istasirti	istasirtumā	istasirtunna
-istasirtu	istasirnā	istasirnā
+istawqafa	istawqafā	istawqafū
+istawqafat	istawqafatā	istawqafna
+istawqafta	istawqaftumā	istawqaftum
+istawqafti	istawqaftumā	istawqaftunna
+istawqaftu	istawqafnā	istawqafnā
 
 juss
 
-yastasir	yastasīrā	yastasīrū
-tastasir	tastasīrā	yastasirna
-tastasir	tastasīrā	tastasīrū
-tastasīrī	tastasīrā	tastasirna
-ˀastasir	nastasir	nastasir
+yastawqif	yastawqifā	yastawqifū
+tastawqif	tastawqifā	yastawqifna
+tastawqif	tastawqifā	tastawqifū
+tastawqifī	tastawqifā	tastawqifna
+ˀastawqif	nastawqif	nastawqif
 
 impf
 
-yastasīru	yastasīrāni	yastasīrūna
-tastasīru	tastasīrāni	yastasirna
-tastasīru	tastasīrāni	tastasīrūna
-tastasīrīna	tastasīrāni	tastasirna
-ˀastasīru	nastasīru	nastasīru
+yastawqifu	yastawqifāni	yastawqifūna
+tastawqifu	tastawqifāni	yastawqifna
+tastawqifu	tastawqifāni	tastawqifūna
+tastawqifīna	tastawqifāni	tastawqifna
+ˀastawqifu	nastawqifu	nastawqifu
 
 subj
 
-yastasīra	yastasīrā	yastasīrū
-tastasīra	tastasīrā	yastasirna
-tastasīra	tastasīrā	tastasīrū
-tastasīrī	tastasīrā	tastasirna
-ˀastasīra	nastasīra	nastasīra
+yastawqifa	yastawqifā	yastawqifū
+tastawqifa	tastawqifā	yastawqifna
+tastawqifa	tastawqifā	tastawqifū
+tastawqifī	tastawqifā	tastawqifna
+ˀastawqifa	nastawqifa	nastawqifa
 
 impv
 
-istasir	istasīrā	istasīrū
-istasīrī	istasīrā	istasirna
+istawqif	istawqifā	istawqifū
+istawqifī	istawqifā	istawqifna
 
 actp
 
-mustasir	
+mustawqif	
 pasp
 
-mustasir	
+mustawqaf	
 masd
 
-ˀistisyār
+ˀistīqāf
