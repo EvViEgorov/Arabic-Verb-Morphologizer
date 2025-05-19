@@ -1,5 +1,7 @@
-from after_asterisk_form import after_asterisk_form, prothesis
+from after_asterisk_form import after_asterisk_form, prothesis, cons
 from build_form import build_wordform, build_paradigm
+from get_root import get_roots
+import re
 
 
 def print_paradigm(paradigm: dict) -> str: # тестовая функция чтобы красиво запринтить словарь
@@ -22,11 +24,7 @@ def print_paradigm(paradigm: dict) -> str: # тестовая функция ч�
             output += '\t'
     return output
 
-
-'''wordform = build_wordform('ktb', (2, 'impf', '3fsg'))
-print(wordform)'''
-
-paradigm = build_paradigm('fˁl')
+paradigm = build_paradigm('syr')
 
 with open('test_output.txt', 'w', encoding='UTF-8') as f:
     f.write(print_paradigm(paradigm))

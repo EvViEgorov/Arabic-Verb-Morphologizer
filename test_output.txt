@@ -5,47 +5,47 @@
 
 perf
 
-faˁala	faˁalā	faˁalū
-faˁalat	faˁalatā	faˁalna
-faˁalta	faˁaltumā	faˁaltum
-faˁalti	faˁaltumā	faˁaltunna
-faˁaltu	faˁalnā	faˁalnā
+sāra	sārā	sārū
+sārat	sāratā	sirna
+sirta	sirtumā	sirtum
+sirti	sirtumā	sirtunna
+sirtu	sirnā	sirnā
 
 juss
 
-yafˁal	yafˁalā	yafˁalū
-tafˁal	tafˁalā	yafˁalna
-tafˁal	tafˁalā	tafˁalū
-tafˁalī	tafˁalā	tafˁalna
-ˀafˁal	nafˁal	nafˁal
+yasir	yasīrā	yasīrū
+tasir	tasīrā	yasirna
+tasir	tasīrā	tasīrū
+tasīrī	tasīrā	tasirna
+ˀasir	nasir	nasir
 
 impf
 
-yafˁalu	yafˁalāni	yafˁalūna
-tafˁalu	tafˁalāni	yafˁalna
-tafˁalu	tafˁalāni	tafˁalūna
-tafˁalī	tafˁalāni	tafˁalna
-ˀafˁalu	nafˁalu	nafˁalu
+yasīru	yasīrāni	yasīrūna
+tasīru	tasīrāni	yasirna
+tasīru	tasīrāni	tasīrūna
+tasīrīna	tasīrāni	tasirna
+ˀasīru	nasīru	nasīru
 
 subj
 
-yafˁala	yafˁalā	yafˁalū
-tafˁala	tafˁalā	yafˁalna
-tafˁala	tafˁalā	tafˁalū
-tafˁalī	tafˁalā	tafˁalna
-ˀafˁala	nafˁala	nafˁala
+yasīra	yasīrā	yasīrū
+tasīra	tasīrā	yasirna
+tasīra	tasīrā	tasīrū
+tasīrī	tasīrā	tasirna
+ˀasīra	nasīra	nasīra
 
 impv
 
-ifˁal	ifˁalā	ifˁalū
-ifˁalī	ifˁalā	ifˁalna
+isyar	isyarā	isyarū
+isyarī	isyarā	isyarna
 
 actp
 
-fāˁil	
+sāyir	
 pasp
 
-mafˁūl	
+masyūr	
 masd
 
 DICTIONARY FORM
@@ -56,47 +56,47 @@ DICTIONARY FORM
 
 perf
 
-faˁala	faˁalā	faˁalū
-faˁalat	faˁalatā	faˁalna
-faˁalta	faˁaltumā	faˁaltum
-faˁalti	faˁaltumā	faˁaltunna
-faˁaltu	faˁalnā	faˁalnā
+sāra	sārā	sārū
+sārat	sāratā	sirna
+sirta	sirtumā	sirtum
+sirti	sirtumā	sirtunna
+sirtu	sirnā	sirnā
 
 juss
 
-yafˁil	yafˁilā	yafˁilū
-tafˁil	tafˁilā	yafˁilna
-tafˁil	tafˁilā	tafˁilū
-tafˁilī	tafˁilā	tafˁilna
-ˀafˁil	nafˁil	nafˁil
+yasir	yasīrā	yasīrū
+tasir	tasīrā	yasirna
+tasir	tasīrā	tasīrū
+tasīrī	tasīrā	tasirna
+ˀasir	nasir	nasir
 
 impf
 
-yafˁilu	yafˁilāni	yafˁilūna
-tafˁilu	tafˁilāni	yafˁilna
-tafˁilu	tafˁilāni	tafˁilūna
-tafˁilī	tafˁilāni	tafˁilna
-ˀafˁilu	nafˁilu	nafˁilu
+yasīru	yasīrāni	yasīrūna
+tasīru	tasīrāni	yasirna
+tasīru	tasīrāni	tasīrūna
+tasīrīna	tasīrāni	tasirna
+ˀasīru	nasīru	nasīru
 
 subj
 
-yafˁila	yafˁilā	yafˁilū
-tafˁila	tafˁilā	yafˁilna
-tafˁila	tafˁilā	tafˁilū
-tafˁilī	tafˁilā	tafˁilna
-ˀafˁila	nafˁila	nafˁila
+yasīra	yasīrā	yasīrū
+tasīra	tasīrā	yasirna
+tasīra	tasīrā	tasīrū
+tasīrī	tasīrā	tasirna
+ˀasīra	nasīra	nasīra
 
 impv
 
-ifˁil	ifˁilā	ifˁilū
-ifˁilī	ifˁilā	ifˁilna
+isyir	isyirā	isyirū
+isyirī	isyirā	isyirna
 
 actp
 
-fāˁil	
+sāyir	
 pasp
 
-mafˁūl	
+masyūr	
 masd
 
 DICTIONARY FORM
@@ -107,47 +107,47 @@ DICTIONARY FORM
 
 perf
 
-faˁala	faˁalā	faˁalū
-faˁalat	faˁalatā	faˁalna
-faˁalta	faˁaltumā	faˁaltum
-faˁalti	faˁaltumā	faˁaltunna
-faˁaltu	faˁalnā	faˁalnā
+sāra	sārā	sārū
+sārat	sāratā	sirna
+sirta	sirtumā	sirtum
+sirti	sirtumā	sirtunna
+sirtu	sirnā	sirnā
 
 juss
 
-yafˁul	yafˁulā	yafˁulū
-tafˁul	tafˁulā	yafˁulna
-tafˁul	tafˁulā	tafˁulū
-tafˁulī	tafˁulā	tafˁulna
-ˀafˁul	nafˁul	nafˁul
+yasyur	yasyurā	yasyurū
+tasyur	tasyurā	yasyurna
+tasyur	tasyurā	tasyurū
+tasyurī	tasyurā	tasyurna
+ˀasyur	nasyur	nasyur
 
 impf
 
-yafˁulu	yafˁulāni	yafˁulūna
-tafˁulu	tafˁulāni	yafˁulna
-tafˁulu	tafˁulāni	tafˁulūna
-tafˁulī	tafˁulāni	tafˁulna
-ˀafˁulu	nafˁulu	nafˁulu
+yasyuru	yasyurāni	yasyurūna
+tasyuru	tasyurāni	yasyurna
+tasyuru	tasyurāni	tasyurūna
+tasyurīna	tasyurāni	tasyurna
+ˀasyuru	nasyuru	nasyuru
 
 subj
 
-yafˁula	yafˁulā	yafˁulū
-tafˁula	tafˁulā	yafˁulna
-tafˁula	tafˁulā	tafˁulū
-tafˁulī	tafˁulā	tafˁulna
-ˀafˁula	nafˁula	nafˁula
+yasyura	yasyurā	yasyurū
+tasyura	tasyurā	yasyurna
+tasyura	tasyurā	tasyurū
+tasyurī	tasyurā	tasyurna
+ˀasyura	nasyura	nasyura
 
 impv
 
-ufˁul	ufˁulā	ufˁulū
-ufˁulī	ufˁulā	ufˁulna
+usyur	usyurā	usyurū
+usyurī	usyurā	usyurna
 
 actp
 
-fāˁil	
+sāyir	
 pasp
 
-mafˁūl	
+masyūr	
 masd
 
 DICTIONARY FORM
@@ -158,47 +158,47 @@ DICTIONARY FORM
 
 perf
 
-faˁila	faˁilā	faˁilū
-faˁilat	faˁilatā	faˁilna
-faˁilta	faˁiltumā	faˁiltum
-faˁilti	faˁiltumā	faˁiltunna
-faˁiltu	faˁilnā	faˁilnā
+sayira	sayirā	sayirū
+sayirat	sayiratā	sayirna
+sayirta	sayirtumā	sayirtum
+sayirti	sayirtumā	sayirtunna
+sayirtu	sayirnā	sayirnā
 
 juss
 
-yafˁal	yafˁalā	yafˁalū
-tafˁal	tafˁalā	yafˁalna
-tafˁal	tafˁalā	tafˁalū
-tafˁalī	tafˁalā	tafˁalna
-ˀafˁal	nafˁal	nafˁal
+yasir	yasīrā	yasīrū
+tasir	tasīrā	yasirna
+tasir	tasīrā	tasīrū
+tasīrī	tasīrā	tasirna
+ˀasir	nasir	nasir
 
 impf
 
-yafˁalu	yafˁalāni	yafˁalūna
-tafˁalu	tafˁalāni	yafˁalna
-tafˁalu	tafˁalāni	tafˁalūna
-tafˁalī	tafˁalāni	tafˁalna
-ˀafˁalu	nafˁalu	nafˁalu
+yasīru	yasīrāni	yasīrūna
+tasīru	tasīrāni	yasirna
+tasīru	tasīrāni	tasīrūna
+tasīrīna	tasīrāni	tasirna
+ˀasīru	nasīru	nasīru
 
 subj
 
-yafˁala	yafˁalā	yafˁalū
-tafˁala	tafˁalā	yafˁalna
-tafˁala	tafˁalā	tafˁalū
-tafˁalī	tafˁalā	tafˁalna
-ˀafˁala	nafˁala	nafˁala
+yasīra	yasīrā	yasīrū
+tasīra	tasīrā	yasirna
+tasīra	tasīrā	tasīrū
+tasīrī	tasīrā	tasirna
+ˀasīra	nasīra	nasīra
 
 impv
 
-ifˁal	ifˁalā	ifˁalū
-ifˁalī	ifˁalā	ifˁalna
+isyar	isyarā	isyarū
+isyarī	isyarā	isyarna
 
 actp
 
-fāˁil	
+sāyir	
 pasp
 
-mafˁūl	
+masyūr	
 masd
 
 DICTIONARY FORM
@@ -209,47 +209,47 @@ DICTIONARY FORM
 
 perf
 
-faˁula	faˁulā	faˁulū
-faˁulat	faˁulatā	faˁulna
-faˁulta	faˁultumā	faˁultum
-faˁulti	faˁultumā	faˁultunna
-faˁultu	faˁulnā	faˁulnā
+sāra	sārā	sārū
+sārat	sāratā	sayurna
+sayurta	sayurtumā	sayurtum
+sayurti	sayurtumā	sayurtunna
+sayurtu	sayurnā	sayurnā
 
 juss
 
-yafˁul	yafˁulā	yafˁulū
-tafˁul	tafˁulā	yafˁulna
-tafˁul	tafˁulā	tafˁulū
-tafˁulī	tafˁulā	tafˁulna
-ˀafˁul	nafˁul	nafˁul
+yasyur	yasyurā	yasyurū
+tasyur	tasyurā	yasyurna
+tasyur	tasyurā	tasyurū
+tasyurī	tasyurā	tasyurna
+ˀasyur	nasyur	nasyur
 
 impf
 
-yafˁulu	yafˁulāni	yafˁulūna
-tafˁulu	tafˁulāni	yafˁulna
-tafˁulu	tafˁulāni	tafˁulūna
-tafˁulī	tafˁulāni	tafˁulna
-ˀafˁulu	nafˁulu	nafˁulu
+yasyuru	yasyurāni	yasyurūna
+tasyuru	tasyurāni	yasyurna
+tasyuru	tasyurāni	tasyurūna
+tasyurīna	tasyurāni	tasyurna
+ˀasyuru	nasyuru	nasyuru
 
 subj
 
-yafˁula	yafˁulā	yafˁulū
-tafˁula	tafˁulā	yafˁulna
-tafˁula	tafˁulā	tafˁulū
-tafˁulī	tafˁulā	tafˁulna
-ˀafˁula	nafˁula	nafˁula
+yasyura	yasyurā	yasyurū
+tasyura	tasyurā	yasyurna
+tasyura	tasyurā	tasyurū
+tasyurī	tasyurā	tasyurna
+ˀasyura	nasyura	nasyura
 
 impv
 
-ufˁul	ufˁulā	ufˁulū
-ufˁulī	ufˁulā	ufˁulna
+usyur	usyurā	usyurū
+usyurī	usyurā	usyurna
 
 actp
 
-fāˁil	
+sāyir	
 pasp
 
-mafˁūl	
+masyūr	
 masd
 
 DICTIONARY FORM
@@ -260,50 +260,50 @@ DICTIONARY FORM
 
 perf
 
-faˁˁala	faˁˁalā	faˁˁalū
-faˁˁalat	faˁˁalatā	faˁˁalna
-faˁˁalta	faˁˁaltumā	faˁˁaltum
-faˁˁalti	faˁˁaltumā	faˁˁaltunna
-faˁˁaltu	faˁˁalnā	faˁˁalnā
+sayīra	sayīrā	sayīrū
+sayīrat	sayīratā	sayirna
+sayirta	sayirtumā	sayirtum
+sayirti	sayirtumā	sayirtunna
+sayirtu	sayirnā	sayirnā
 
 juss
 
-yufaˁˁil	yufaˁˁilā	yufaˁˁilū
-tufaˁˁil	tufaˁˁilā	yufaˁˁilna
-tufaˁˁil	tufaˁˁilā	tufaˁˁilū
-tufaˁˁilī	tufaˁˁilā	tufaˁˁilna
-ˀufaˁˁil	nufaˁˁil	nufaˁˁil
+yusayir	yusayīrā	yusayīrū
+tusayir	tusayīrā	yusayirna
+tusayir	tusayīrā	tusayīrū
+tusayīrī	tusayīrā	tusayirna
+ˀusayir	nusayir	nusayir
 
 impf
 
-yufaˁˁilu	yufaˁˁilāni	yufaˁˁilūna
-tufaˁˁilu	tufaˁˁilāni	yufaˁˁilna
-tufaˁˁilu	tufaˁˁilāni	tufaˁˁilūna
-tufaˁˁilī	tufaˁˁilāni	tufaˁˁilna
-ˀufaˁˁilu	nufaˁˁilu	nufaˁˁilu
+yusayīru	yusayīrāni	yusayīrūna
+tusayīru	tusayīrāni	yusayirna
+tusayīru	tusayīrāni	tusayīrūna
+tusayīrīna	tusayīrāni	tusayirna
+ˀusayīru	nusayīru	nusayīru
 
 subj
 
-yufaˁˁila	yufaˁˁilā	yufaˁˁilū
-tufaˁˁila	tufaˁˁilā	yufaˁˁilna
-tufaˁˁila	tufaˁˁilā	tufaˁˁilū
-tufaˁˁilī	tufaˁˁilā	tufaˁˁilna
-ˀufaˁˁila	nufaˁˁila	nufaˁˁila
+yusayīra	yusayīrā	yusayīrū
+tusayīra	tusayīrā	yusayirna
+tusayīra	tusayīrā	tusayīrū
+tusayīrī	tusayīrā	tusayirna
+ˀusayīra	nusayīra	nusayīra
 
 impv
 
-faˁˁil	faˁˁilā	faˁˁilū
-faˁˁilī	faˁˁilā	faˁˁilna
+sayir	sayīrā	sayīrū
+sayīrī	sayīrā	sayirna
 
 actp
 
-mufaˁˁil	
+musayir	
 pasp
 
-mufaˁˁal	
+musayir	
 masd
 
-tafˁīl
+tasyīr
 
 
 3
@@ -311,50 +311,50 @@ tafˁīl
 
 perf
 
-fāˁala	fāˁalā	fāˁalū
-fāˁalat	fāˁalatā	fāˁalna
-fāˁalta	fāˁaltumā	fāˁaltum
-fāˁalti	fāˁaltumā	fāˁaltunna
-fāˁaltu	fāˁalnā	fāˁalnā
+sāyara	sāyarā	sāyarū
+sāyarat	sāyaratā	sāyarna
+sāyarta	sāyartumā	sāyartum
+sāyarti	sāyartumā	sāyartunna
+sāyartu	sāyarnā	sāyarnā
 
 juss
 
-yufāˁil	yufāˁilā	yufāˁilū
-tufāˁil	tufāˁilā	yufāˁilna
-tufāˁil	tufāˁilā	tufāˁilū
-tufāˁilī	tufāˁilā	tufāˁilna
-ˀufāˁil	nufāˁil	nufāˁil
+yusāyir	yusāyirā	yusāyirū
+tusāyir	tusāyirā	yusāyirna
+tusāyir	tusāyirā	tusāyirū
+tusāyirī	tusāyirā	tusāyirna
+ˀusāyir	nusāyir	nusāyir
 
 impf
 
-yufāˁilu	yufāˁilāni	yufāˁilūna
-tufāˁilu	tufāˁilāni	yufāˁilna
-tufāˁilu	tufāˁilāni	tufāˁilūna
-tufāˁilī	tufāˁilāni	tufāˁilna
-ˀufāˁilu	nufāˁilu	nufāˁilu
+yusāyiru	yusāyirāni	yusāyirūna
+tusāyiru	tusāyirāni	yusāyirna
+tusāyiru	tusāyirāni	tusāyirūna
+tusāyirīna	tusāyirāni	tusāyirna
+ˀusāyiru	nusāyiru	nusāyiru
 
 subj
 
-yufāˁila	yufāˁilā	yufāˁilū
-tufāˁila	tufāˁilā	yufāˁilna
-tufāˁila	tufāˁilā	tufāˁilū
-tufāˁilī	tufāˁilā	tufāˁilna
-ˀufāˁila	nufāˁila	nufāˁila
+yusāyira	yusāyirā	yusāyirū
+tusāyira	tusāyirā	yusāyirna
+tusāyira	tusāyirā	tusāyirū
+tusāyirī	tusāyirā	tusāyirna
+ˀusāyira	nusāyira	nusāyira
 
 impv
 
-fāˁil	fāˁilā	fāˁilū
-fāˁilī	fāˁilā	fāˁilna
+sāyir	sāyirā	sāyirū
+sāyirī	sāyirā	sāyirna
 
 actp
 
-mufāˁil	
+musāyir	
 pasp
 
-mufāˁal	
+musāyar	
 masd
 
-fiˁāl / mufāˁalat
+siyār / musāyarat
 
 
 4
@@ -362,50 +362,50 @@ fiˁāl / mufāˁalat
 
 perf
 
-ˀafˁala	ˀafˁalā	ˀafˁalū
-ˀafˁalat	ˀafˁalatā	ˀafˁalna
-ˀafˁalta	ˀafˁaltumā	ˀafˁaltum
-ˀafˁalti	ˀafˁaltumā	ˀafˁaltunna
-ˀafˁaltu	ˀafˁalnā	ˀafˁalnā
+ˀasīra	ˀasīrā	ˀasīrū
+ˀasīrat	ˀasīratā	ˀasirna
+ˀasirta	ˀasirtumā	ˀasirtum
+ˀasirti	ˀasirtumā	ˀasirtunna
+ˀasirtu	ˀasirnā	ˀasirnā
 
 juss
 
-yufˁil	yufˁilā	yufˁilū
-tufˁil	tufˁilā	yufˁilna
-tufˁil	tufˁilā	tufˁilū
-tufˁilī	tufˁilā	tufˁilna
-ˀufˁil	nufˁil	nufˁil
+yusir	yusīrā	yusīrū
+tusir	tusīrā	yusirna
+tusir	tusīrā	tusīrū
+tusīrī	tusīrā	tusirna
+ˀusir	nusir	nusir
 
 impf
 
-yufˁilu	yufˁilāni	yufˁilūna
-tufˁilu	tufˁilāni	yufˁilna
-tufˁilu	tufˁilāni	tufˁilūna
-tufˁilī	tufˁilāni	tufˁilna
-ˀufˁilu	nufˁilu	nufˁilu
+yusīru	yusīrāni	yusīrūna
+tusīru	tusīrāni	yusirna
+tusīru	tusīrāni	tusīrūna
+tusīrīna	tusīrāni	tusirna
+ˀusīru	nusīru	nusīru
 
 subj
 
-yufˁila	yufˁilā	yufˁilū
-tufˁila	tufˁilā	yufˁilna
-tufˁila	tufˁilā	tufˁilū
-tufˁilī	tufˁilā	tufˁilna
-ˀufˁila	nufˁila	nufˁila
+yusīra	yusīrā	yusīrū
+tusīra	tusīrā	yusirna
+tusīra	tusīrā	tusīrū
+tusīrī	tusīrā	tusirna
+ˀusīra	nusīra	nusīra
 
 impv
 
-ˀafˁil	ˀafˁilā	ˀafˁilū
-ˀafˁilī	ˀafˁilā	ˀafˁilna
+ˀasir	ˀasīrā	ˀasīrū
+ˀasīrī	ˀasīrā	ˀasirna
 
 actp
 
-mufˁil	
+musir	
 pasp
 
-mufˁal	
+musil	
 masd
 
-ˀifˁāl
+ˀisyār
 
 
 5
@@ -413,50 +413,50 @@ masd
 
 perf
 
-tafaˁˁala	tafaˁˁalā	tafaˁˁalū
-tafaˁˁalat	tafaˁˁalatā	tafaˁˁalna
-tafaˁˁalta	tafaˁˁaltumā	tafaˁˁaltum
-tafaˁˁalti	tafaˁˁaltumā	tafaˁˁaltunna
-tafaˁˁaltu	tafaˁˁalnā	tafaˁˁalnā
+tasayīra	tasayīrā	tasayīrū
+tasayīrat	tasayīratā	tasayirna
+tasayirta	tasayirtumā	tasayirtum
+tasayirti	tasayirtumā	tasayirtunna
+tasayirtu	tasayirnā	tasayirnā
 
 juss
 
-yatafaˁˁal	yatafaˁˁalā	yatafaˁˁalū
-tatafaˁˁal	tatafaˁˁalā	yatafaˁˁalna
-tatafaˁˁal	tatafaˁˁalā	tatafaˁˁalū
-tatafaˁˁalī	tatafaˁˁalā	tatafaˁˁalna
-ˀatafaˁˁal	natafaˁˁal	natafaˁˁal
+yatasayir	yatasayīrā	yatasayīrū
+tatasayir	tatasayīrā	yatasayirna
+tatasayir	tatasayīrā	tatasayīrū
+tatasayīrī	tatasayīrā	tatasayirna
+ˀatasayir	natasayir	natasayir
 
 impf
 
-yatafaˁˁalu	yatafaˁˁalāni	yatafaˁˁalūna
-tatafaˁˁalu	tatafaˁˁalāni	yatafaˁˁalna
-tatafaˁˁalu	tatafaˁˁalāni	tatafaˁˁalūna
-tatafaˁˁalī	tatafaˁˁalāni	tatafaˁˁalna
-ˀatafaˁˁalu	natafaˁˁalu	natafaˁˁalu
+yatasayīru	yatasayīrāni	yatasayīrūna
+tatasayīru	tatasayīrāni	yatasayirna
+tatasayīru	tatasayīrāni	tatasayīrūna
+tatasayīrīna	tatasayīrāni	tatasayirna
+ˀatasayīru	natasayīru	natasayīru
 
 subj
 
-yatafaˁˁala	yatafaˁˁalā	yatafaˁˁalū
-tatafaˁˁala	tatafaˁˁalā	yatafaˁˁalna
-tatafaˁˁala	tatafaˁˁalā	tatafaˁˁalū
-tatafaˁˁalī	tatafaˁˁalā	tatafaˁˁalna
-ˀatafaˁˁala	natafaˁˁala	natafaˁˁala
+yatasayīra	yatasayīrā	yatasayīrū
+tatasayīra	tatasayīrā	yatasayirna
+tatasayīra	tatasayīrā	tatasayīrū
+tatasayīrī	tatasayīrā	tatasayirna
+ˀatasayīra	natasayīra	natasayīra
 
 impv
 
-tafaˁˁal	tafaˁˁalā	tafaˁˁalū
-tafaˁˁalī	tafaˁˁalā	tafaˁˁalna
+tasayir	tasayīrā	tasayīrū
+tasayīrī	tasayīrā	tasayirna
 
 actp
 
-mutafaˁˁil	
+mutasayir	
 pasp
 
-mutafaˁˁal	
+mutasayir	
 masd
 
-tafaˁˁul
+tasayyur
 
 
 6
@@ -464,50 +464,50 @@ tafaˁˁul
 
 perf
 
-tafāˁala	tafāˁalā	tafāˁalū
-tafāˁalat	tafāˁalatā	tafāˁalna
-tafāˁalta	tafāˁaltumā	tafāˁaltum
-tafāˁalti	tafāˁaltumā	tafāˁaltunna
-tafāˁaltu	tafāˁalnā	tafāˁalnā
+tasāyara	tasāyarā	tasāyarū
+tasāyarat	tasāyaratā	tasāyarna
+tasāyarta	tasāyartumā	tasāyartum
+tasāyarti	tasāyartumā	tasāyartunna
+tasāyartu	tasāyarnā	tasāyarnā
 
 juss
 
-yatafāˁal	yatafāˁalā	yatafāˁalū
-tatafāˁal	tatafāˁalā	yatafāˁalna
-tatafāˁal	tatafāˁalā	tatafāˁalū
-tatafāˁalī	tatafāˁalā	tatafāˁalna
-ˀatafāˁal	natafāˁal	natafāˁal
+yatasāyar	yatasāyarā	yatasāyarū
+tatasāyar	tatasāyarā	yatasāyarna
+tatasāyar	tatasāyarā	tatasāyarū
+tatasāyarī	tatasāyarā	tatasāyarna
+ˀatasāyar	natasāyar	natasāyar
 
 impf
 
-yatafāˁalu	yatafāˁalāni	yatafāˁalūna
-tatafāˁalu	tatafāˁalāni	yatafāˁalna
-tatafāˁalu	tatafāˁalāni	tatafāˁalūna
-tatafāˁalī	tatafāˁalāni	tatafāˁalna
-ˀatafāˁalu	natafāˁalu	natafāˁalu
+yatasāyaru	yatasāyarāni	yatasāyarūna
+tatasāyaru	tatasāyarāni	yatasāyarna
+tatasāyaru	tatasāyarāni	tatasāyarūna
+tatasāyarīna	tatasāyarāni	tatasāyarna
+ˀatasāyaru	natasāyaru	natasāyaru
 
 subj
 
-yatafāˁala	yatafāˁalā	yatafāˁalū
-tatafāˁala	tatafāˁalā	yatafāˁalna
-tatafāˁala	tatafāˁalā	tatafāˁalū
-tatafāˁalī	tatafāˁalā	tatafāˁalna
-ˀatafāˁala	natafāˁala	natafāˁala
+yatasāyara	yatasāyarā	yatasāyarū
+tatasāyara	tatasāyarā	yatasāyarna
+tatasāyara	tatasāyarā	tatasāyarū
+tatasāyarī	tatasāyarā	tatasāyarna
+ˀatasāyara	natasāyara	natasāyara
 
 impv
 
-tafāˁal	tafāˁalā	tafāˁalū
-tafāˁalī	tafāˁalā	tafāˁalna
+tasāyar	tasāyarā	tasāyarū
+tasāyarī	tasāyarā	tasāyarna
 
 actp
 
-mutafāˁil	
+mutasāyir	
 pasp
 
-mutafāˁal	
+mutasāyar	
 masd
 
-tafāˁul
+tasāyur
 
 
 7
@@ -515,50 +515,50 @@ tafāˁul
 
 perf
 
-infaˁala	infaˁalā	infaˁalū
-infaˁalat	infaˁalatā	infaˁalna
-infaˁalta	infaˁaltumā	infaˁaltum
-infaˁalti	infaˁaltumā	infaˁaltunna
-infaˁaltu	infaˁalnā	infaˁalnā
+insāra	insārā	insārū
+insārat	insāratā	insirna
+insirta	insirtumā	insirtum
+insirti	insirtumā	insirtunna
+insirtu	insirnā	insirnā
 
 juss
 
-yanfaˁil	yanfaˁilā	yanfaˁilū
-tanfaˁil	tanfaˁilā	yanfaˁilna
-tanfaˁil	tanfaˁilā	tanfaˁilū
-tanfaˁilī	tanfaˁilā	tanfaˁilna
-ˀanfaˁil	nanfaˁil	nanfaˁil
+yansayir	yansayirā	yansayirū
+tansayir	tansayirā	yansayirna
+tansayir	tansayirā	tansayirū
+tansayirī	tansayirā	tansayirna
+ˀansayir	nansayir	nansayir
 
 impf
 
-yanfaˁilu	yanfaˁilāni	yanfaˁilūna
-tanfaˁilu	tanfaˁilāni	yanfaˁilna
-tanfaˁilu	tanfaˁilāni	tanfaˁilūna
-tanfaˁilī	tanfaˁilāni	tanfaˁilna
-ˀanfaˁilu	nanfaˁilu	nanfaˁilu
+yansayiru	yansayirāni	yansayirūna
+tansayiru	tansayirāni	yansayirna
+tansayiru	tansayirāni	tansayirūna
+tansayirīna	tansayirāni	tansayirna
+ˀansayiru	nansayiru	nansayiru
 
 subj
 
-yanfaˁila	yanfaˁilā	yanfaˁilū
-tanfaˁila	tanfaˁilā	yanfaˁilna
-tanfaˁila	tanfaˁilā	tanfaˁilū
-tanfaˁilī	tanfaˁilā	tanfaˁilna
-ˀanfaˁila	nanfaˁila	nanfaˁila
+yansayira	yansayirā	yansayirū
+tansayira	tansayirā	yansayirna
+tansayira	tansayirā	tansayirū
+tansayirī	tansayirā	tansayirna
+ˀansayira	nansayira	nansayira
 
 impv
 
-infaˁil	infaˁilā	infaˁilū
-infaˁilī	infaˁilā	infaˁilna
+insayir	insayirā	insayirū
+insayirī	insayirā	insayirna
 
 actp
 
-munfaˁil	
+munsayir	
 pasp
 
-munfaˁal	
+munsir	
 masd
 
-infiˁāl
+insiyār
 
 
 8
@@ -566,50 +566,50 @@ infiˁāl
 
 perf
 
-iftaˁala	iftaˁalā	iftaˁalū
-iftaˁalat	iftaˁalatā	iftaˁalna
-iftaˁalta	iftaˁaltumā	iftaˁaltum
-iftaˁalti	iftaˁaltumā	iftaˁaltunna
-iftaˁaltu	iftaˁalnā	iftaˁalnā
+istāra	istārā	istārū
+istārat	istāratā	istirna
+istirta	istirtumā	istirtum
+istirti	istirtumā	istirtunna
+istirtu	istirnā	istirnā
 
 juss
 
-yaftaˁil	yaftaˁilā	yaftaˁilū
-taftaˁil	taftaˁilā	yaftaˁilna
-taftaˁil	taftaˁilā	taftaˁilū
-taftaˁilī	taftaˁilā	taftaˁilna
-ˀaftaˁil	naftaˁil	naftaˁil
+yastayir	yastayirā	yastayirū
+tastayir	tastayirā	yastayirna
+tastayir	tastayirā	tastayirū
+tastayirī	tastayirā	tastayirna
+ˀastayir	nastayir	nastayir
 
 impf
 
-yaftaˁilu	yaftaˁilāni	yaftaˁilūna
-taftaˁilu	taftaˁilāni	yaftaˁilna
-taftaˁilu	taftaˁilāni	taftaˁilūna
-taftaˁilī	taftaˁilāni	taftaˁilna
-ˀaftaˁilu	naftaˁilu	naftaˁilu
+yastayiru	yastayirāni	yastayirūna
+tastayiru	tastayirāni	yastayirna
+tastayiru	tastayirāni	tastayirūna
+tastayirīna	tastayirāni	tastayirna
+ˀastayiru	nastayiru	nastayiru
 
 subj
 
-yaftaˁila	yaftaˁilā	yaftaˁilū
-taftaˁila	taftaˁilā	yaftaˁilna
-taftaˁila	taftaˁilā	taftaˁilū
-taftaˁilī	taftaˁilā	taftaˁilna
-ˀaftaˁila	naftaˁila	naftaˁila
+yastayira	yastayirā	yastayirū
+tastayira	tastayirā	yastayirna
+tastayira	tastayirā	tastayirū
+tastayirī	tastayirā	tastayirna
+ˀastayira	nastayira	nastayira
 
 impv
 
-iftaˁil	iftaˁilā	iftaˁilū
-iftaˁilī	iftaˁilā	iftaˁilna
+istayir	istayirā	istayirū
+istayirī	istayirā	istayirna
 
 actp
 
-muftaˁil	
+mustayir	
 pasp
 
-muftaˁal	
+mustir	
 masd
 
-iftiˁāl
+istiyār
 
 
 10
@@ -617,47 +617,47 @@ iftiˁāl
 
 perf
 
-istafˁala	istafˁalā	istafˁalū
-istafˁalat	istafˁalatā	istafˁalna
-istafˁalta	istafˁaltumā	istafˁaltum
-istafˁalti	istafˁaltumā	istafˁaltunna
-istafˁaltu	istafˁalnā	istafˁalnā
+istasīra	istasīrā	istasīrū
+istasīrat	istasīratā	istasirna
+istasirta	istasirtumā	istasirtum
+istasirti	istasirtumā	istasirtunna
+istasirtu	istasirnā	istasirnā
 
 juss
 
-yastafˁil	yastafˁilā	yastafˁilū
-tastafˁil	tastafˁilā	yastafˁilna
-tastafˁil	tastafˁilā	tastafˁilū
-tastafˁilī	tastafˁilā	tastafˁilna
-ˀastafˁil	nastafˁil	nastafˁil
+yastasir	yastasīrā	yastasīrū
+tastasir	tastasīrā	yastasirna
+tastasir	tastasīrā	tastasīrū
+tastasīrī	tastasīrā	tastasirna
+ˀastasir	nastasir	nastasir
 
 impf
 
-yastafˁilu	yastafˁilāni	yastafˁilūna
-tastafˁilu	tastafˁilāni	yastafˁilna
-tastafˁilu	tastafˁilāni	tastafˁilūna
-tastafˁilī	tastafˁilāni	tastafˁilna
-ˀastafˁilu	nastafˁilu	nastafˁilu
+yastasīru	yastasīrāni	yastasīrūna
+tastasīru	tastasīrāni	yastasirna
+tastasīru	tastasīrāni	tastasīrūna
+tastasīrīna	tastasīrāni	tastasirna
+ˀastasīru	nastasīru	nastasīru
 
 subj
 
-yastafˁila	yastafˁilā	yastafˁilū
-tastafˁila	tastafˁilā	yastafˁilna
-tastafˁila	tastafˁilā	tastafˁilū
-tastafˁilī	tastafˁilā	tastafˁilna
-ˀastafˁila	nastafˁila	nastafˁila
+yastasīra	yastasīrā	yastasīrū
+tastasīra	tastasīrā	yastasirna
+tastasīra	tastasīrā	tastasīrū
+tastasīrī	tastasīrā	tastasirna
+ˀastasīra	nastasīra	nastasīra
 
 impv
 
-istafˁil	istafˁilā	istafˁilū
-istafˁilī	istafˁilā	istafˁilna
+istasir	istasīrā	istasīrū
+istasīrī	istasīrā	istasirna
 
 actp
 
-mustafˁil	
+mustasir	
 pasp
 
-mustafˁal	
+mustasir	
 masd
 
-ˀistifˁāl
+ˀistisyār
