@@ -1,4 +1,4 @@
-from after_asterisk_form import prothesis
+from after_asterisk_form import prothesis, after_asterisk_form
 
 affixes = {
         'perf': {
@@ -205,7 +205,7 @@ def build_wordform(root: str, gram_cat: tuple) -> str: # строим слово
                 wordform += 'u'
             elif wordform[-1] == 'ā':
                 wordform += 'ni'
-            elif wordform[-1] == 'ū':
+            elif wordform[-1] in {'ū', 'ī'}:
                 wordform += 'na'
         if wordform.find('D'): # определяем гласный в префиксе
             if gram_cat[0] in {'2', '3', '4'}:
@@ -216,6 +216,10 @@ def build_wordform(root: str, gram_cat: tuple) -> str: # строим слово
     # нефинитные формы просто выводим
     else:
         wordform = stem
+
+    # переходы со слабыми
+    if 'w' in root or 'y' in root or root[1] == root[2]:
+        wordform = after_asterisk_form(wordform, root)
 
     # вставляем протезу
     wordform = prothesis(wordform)
