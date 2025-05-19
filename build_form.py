@@ -1,3 +1,5 @@
+from after_asterisk_form import prothesis
+
 affixes = {
         'perf': {
             '3msg': '-a',
@@ -44,15 +46,47 @@ affixes = {
     }
 
 stems = {
-        1: {
-            'perf': '1a2T3',
-            'juss': '12T3',
-            'impv': '12T3',
+        '1aa': {
+            'perf': '1a2a3',
+            'juss': '12a3',
+            'impv': '12a3',
             'actp': '1ā2i3',
             'pasp': 'ma12ū3',
             'masd': 'DICTIONARY FORM'
         },
-        2: {
+        '1ai': {
+            'perf': '1a2a3',
+            'juss': '12i3',
+            'impv': '12i3',
+            'actp': '1ā2i3',
+            'pasp': 'ma12ū3',
+            'masd': 'DICTIONARY FORM'
+        },
+        '1au': {
+            'perf': '1a2a3',
+            'juss': '12u3',
+            'impv': '12u3',
+            'actp': '1ā2i3',
+            'pasp': 'ma12ū3',
+            'masd': 'DICTIONARY FORM'
+        },
+        '1ia': {
+            'perf': '1a2i3',
+            'juss': '12a3',
+            'impv': '12a3',
+            'actp': '1ā2i3',
+            'pasp': 'ma12ū3',
+            'masd': 'DICTIONARY FORM'
+        },
+        '1uu': {
+            'perf': '1a2u3',
+            'juss': '12u3',
+            'impv': '12u3',
+            'actp': '1ā2i3',
+            'pasp': 'ma12ū3',
+            'masd': 'DICTIONARY FORM'
+        },
+        '2': {
             'perf': '1a22a3',
             'juss': '1a22i3',
             'impv': '1a22i3',
@@ -60,7 +94,7 @@ stems = {
             'pasp': 'mu1a22a3',
             'masd': 'ta12ī3'
         },
-        3: {
+        '3': {
             'perf': '1ā2a3',
             'juss': '1ā2i3',
             'impv': '1ā2i3',
@@ -68,7 +102,7 @@ stems = {
             'pasp': 'mu1ā2a3',
             'masd': '1i2ā3 / mu1ā2a3at'
         },
-        4: {
+        '4': {
             'perf': 'ˀa12a3',
             'juss': '12i3',
             'impv': 'ˀa12i3',
@@ -76,7 +110,7 @@ stems = {
             'pasp': 'mu12al',
             'masd': 'ˀi12ā3'
         },
-        5: {
+        '5': {
             'perf': 'ta1a22a3',
             'juss': 'ta1a22a3',
             'impv': 'ta1a22a3',
@@ -84,7 +118,7 @@ stems = {
             'pasp': 'muta1a22a3',
             'masd': 'ta1a22u3'
         },
-        6: {
+        '6': {
             'perf': 'ta1ā2a3',
             'juss': 'ta1ā2a3',
             'impv': 'ta1ā2a3',
@@ -92,15 +126,15 @@ stems = {
             'pasp': 'muta1ā2a3',
             'masd': 'ta1ā2u3'
         },
-        7: {
-            'perf': '1a2a3',
-            'juss': '1a2i3',
-            'impv': '1a2i3',
+        '7': {
+            'perf': 'n1a2a3',
+            'juss': 'n1a2i3',
+            'impv': 'n1a2i3',
             'actp': 'mun1a2i3',
             'pasp': 'mun1a2a3',
             'masd': 'in1i2ā3'
         },
-        8: {
+        '8': {
             'perf': '1ta2a3',
             'juss': '1ta2i3',
             'impv': '1ta2i3',
@@ -108,7 +142,7 @@ stems = {
             'pasp': 'mu1ta2a3',
             'masd': 'i1ti2ā3'
         },
-        10: {
+        '10': {
             'perf': 'sta12a3',
             'juss': 'sta12i3',
             'impv': 'sta12i3',
@@ -174,7 +208,7 @@ def build_wordform(root: str, gram_cat: tuple) -> str: # строим слово
             elif wordform[-1] == 'ū':
                 wordform += 'na'
         if wordform.find('D'): # определяем гласный в префиксе
-            if gram_cat[0] in {2, 3, 4}:
+            if gram_cat[0] in {'2', '3', '4'}:
                 wordform = wordform.replace('D', 'u')
             else:
                 wordform = wordform.replace('D', 'a')
@@ -183,12 +217,15 @@ def build_wordform(root: str, gram_cat: tuple) -> str: # строим слово
     else:
         wordform = stem
 
+    # вставляем протезу
+    wordform = prothesis(wordform)
+
     return wordform
 
 
 def build_paradigm(root: str) -> dict:
     paradigm = dict()
-    for dstem in {1, 2, 3, 4, 5, 6, 7, 8, 10}:
+    for dstem in stems.keys():
 
         # личные формы кроме императива
         for form in pers_forms_no_impv:
@@ -204,7 +241,6 @@ def build_paradigm(root: str) -> dict:
             paradigm[(dstem, form)] = build_wordform(root, (dstem, form))
 
     return paradigm
-
 
 def weak_verb_process(root: str, wordform: str) -> str:
     print(0)

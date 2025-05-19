@@ -1,44 +1,248 @@
 
 
-1
+1aa
 
 
 perf
 
-faˁTla	faˁTlā	faˁTlū
-faˁTlat	faˁTlatā	faˁTlna
-faˁTlta	faˁTltumā	faˁTltum
-faˁTlti	faˁTltumā	faˁTltunna
-faˁTltu	faˁTlnā	faˁTlnā
+faˁala	faˁalā	faˁalū
+faˁalat	faˁalatā	faˁalna
+faˁalta	faˁaltumā	faˁaltum
+faˁalti	faˁaltumā	faˁaltunna
+faˁaltu	faˁalnā	faˁalnā
 
 juss
 
-yafˁTl	yafˁTlā	yafˁTlū
-tafˁTl	tafˁTlā	yafˁTlna
-tafˁTl	tafˁTlā	tafˁTlū
-tafˁTlī	tafˁTlā	tafˁTlna
-ˀafˁTl	nafˁTl	nafˁTl
+yafˁal	yafˁalā	yafˁalū
+tafˁal	tafˁalā	yafˁalna
+tafˁal	tafˁalā	tafˁalū
+tafˁalī	tafˁalā	tafˁalna
+ˀafˁal	nafˁal	nafˁal
 
 impf
 
-yafˁTlu	yafˁTlāni	yafˁTlūna
-tafˁTlu	tafˁTlāni	yafˁTlna
-tafˁTlu	tafˁTlāni	tafˁTlūna
-tafˁTlī	tafˁTlāni	tafˁTlna
-ˀafˁTlu	nafˁTlu	nafˁTlu
+yafˁalu	yafˁalāni	yafˁalūna
+tafˁalu	tafˁalāni	yafˁalna
+tafˁalu	tafˁalāni	tafˁalūna
+tafˁalī	tafˁalāni	tafˁalna
+ˀafˁalu	nafˁalu	nafˁalu
 
 subj
 
-yafˁTla	yafˁTlā	yafˁTlū
-tafˁTla	tafˁTlā	yafˁTlna
-tafˁTla	tafˁTlā	tafˁTlū
-tafˁTlī	tafˁTlā	tafˁTlna
-ˀafˁTla	nafˁTla	nafˁTla
+yafˁala	yafˁalā	yafˁalū
+tafˁala	tafˁalā	yafˁalna
+tafˁala	tafˁalā	tafˁalū
+tafˁalī	tafˁalā	tafˁalna
+ˀafˁala	nafˁala	nafˁala
 
 impv
 
-fˁTl	fˁTlā	fˁTlū
-fˁTlī	fˁTlā	fˁTlna
+ifˁal	ifˁalā	ifˁalū
+ifˁalī	ifˁalā	ifˁalna
+
+actp
+
+fāˁil	
+pasp
+
+mafˁūl	
+masd
+
+DICTIONARY FORM
+
+
+1ai
+
+
+perf
+
+faˁala	faˁalā	faˁalū
+faˁalat	faˁalatā	faˁalna
+faˁalta	faˁaltumā	faˁaltum
+faˁalti	faˁaltumā	faˁaltunna
+faˁaltu	faˁalnā	faˁalnā
+
+juss
+
+yafˁil	yafˁilā	yafˁilū
+tafˁil	tafˁilā	yafˁilna
+tafˁil	tafˁilā	tafˁilū
+tafˁilī	tafˁilā	tafˁilna
+ˀafˁil	nafˁil	nafˁil
+
+impf
+
+yafˁilu	yafˁilāni	yafˁilūna
+tafˁilu	tafˁilāni	yafˁilna
+tafˁilu	tafˁilāni	tafˁilūna
+tafˁilī	tafˁilāni	tafˁilna
+ˀafˁilu	nafˁilu	nafˁilu
+
+subj
+
+yafˁila	yafˁilā	yafˁilū
+tafˁila	tafˁilā	yafˁilna
+tafˁila	tafˁilā	tafˁilū
+tafˁilī	tafˁilā	tafˁilna
+ˀafˁila	nafˁila	nafˁila
+
+impv
+
+ifˁil	ifˁilā	ifˁilū
+ifˁilī	ifˁilā	ifˁilna
+
+actp
+
+fāˁil	
+pasp
+
+mafˁūl	
+masd
+
+DICTIONARY FORM
+
+
+1au
+
+
+perf
+
+faˁala	faˁalā	faˁalū
+faˁalat	faˁalatā	faˁalna
+faˁalta	faˁaltumā	faˁaltum
+faˁalti	faˁaltumā	faˁaltunna
+faˁaltu	faˁalnā	faˁalnā
+
+juss
+
+yafˁul	yafˁulā	yafˁulū
+tafˁul	tafˁulā	yafˁulna
+tafˁul	tafˁulā	tafˁulū
+tafˁulī	tafˁulā	tafˁulna
+ˀafˁul	nafˁul	nafˁul
+
+impf
+
+yafˁulu	yafˁulāni	yafˁulūna
+tafˁulu	tafˁulāni	yafˁulna
+tafˁulu	tafˁulāni	tafˁulūna
+tafˁulī	tafˁulāni	tafˁulna
+ˀafˁulu	nafˁulu	nafˁulu
+
+subj
+
+yafˁula	yafˁulā	yafˁulū
+tafˁula	tafˁulā	yafˁulna
+tafˁula	tafˁulā	tafˁulū
+tafˁulī	tafˁulā	tafˁulna
+ˀafˁula	nafˁula	nafˁula
+
+impv
+
+ufˁul	ufˁulā	ufˁulū
+ufˁulī	ufˁulā	ufˁulna
+
+actp
+
+fāˁil	
+pasp
+
+mafˁūl	
+masd
+
+DICTIONARY FORM
+
+
+1ia
+
+
+perf
+
+faˁila	faˁilā	faˁilū
+faˁilat	faˁilatā	faˁilna
+faˁilta	faˁiltumā	faˁiltum
+faˁilti	faˁiltumā	faˁiltunna
+faˁiltu	faˁilnā	faˁilnā
+
+juss
+
+yafˁal	yafˁalā	yafˁalū
+tafˁal	tafˁalā	yafˁalna
+tafˁal	tafˁalā	tafˁalū
+tafˁalī	tafˁalā	tafˁalna
+ˀafˁal	nafˁal	nafˁal
+
+impf
+
+yafˁalu	yafˁalāni	yafˁalūna
+tafˁalu	tafˁalāni	yafˁalna
+tafˁalu	tafˁalāni	tafˁalūna
+tafˁalī	tafˁalāni	tafˁalna
+ˀafˁalu	nafˁalu	nafˁalu
+
+subj
+
+yafˁala	yafˁalā	yafˁalū
+tafˁala	tafˁalā	yafˁalna
+tafˁala	tafˁalā	tafˁalū
+tafˁalī	tafˁalā	tafˁalna
+ˀafˁala	nafˁala	nafˁala
+
+impv
+
+ifˁal	ifˁalā	ifˁalū
+ifˁalī	ifˁalā	ifˁalna
+
+actp
+
+fāˁil	
+pasp
+
+mafˁūl	
+masd
+
+DICTIONARY FORM
+
+
+1uu
+
+
+perf
+
+faˁula	faˁulā	faˁulū
+faˁulat	faˁulatā	faˁulna
+faˁulta	faˁultumā	faˁultum
+faˁulti	faˁultumā	faˁultunna
+faˁultu	faˁulnā	faˁulnā
+
+juss
+
+yafˁul	yafˁulā	yafˁulū
+tafˁul	tafˁulā	yafˁulna
+tafˁul	tafˁulā	tafˁulū
+tafˁulī	tafˁulā	tafˁulna
+ˀafˁul	nafˁul	nafˁul
+
+impf
+
+yafˁulu	yafˁulāni	yafˁulūna
+tafˁulu	tafˁulāni	yafˁulna
+tafˁulu	tafˁulāni	tafˁulūna
+tafˁulī	tafˁulāni	tafˁulna
+ˀafˁulu	nafˁulu	nafˁulu
+
+subj
+
+yafˁula	yafˁulā	yafˁulū
+tafˁula	tafˁulā	yafˁulna
+tafˁula	tafˁulā	tafˁulū
+tafˁulī	tafˁulā	tafˁulna
+ˀafˁula	nafˁula	nafˁula
+
+impv
+
+ufˁul	ufˁulā	ufˁulū
+ufˁulī	ufˁulā	ufˁulna
 
 actp
 
@@ -311,40 +515,40 @@ tafāˁul
 
 perf
 
-faˁala	faˁalā	faˁalū
-faˁalat	faˁalatā	faˁalna
-faˁalta	faˁaltumā	faˁaltum
-faˁalti	faˁaltumā	faˁaltunna
-faˁaltu	faˁalnā	faˁalnā
+infaˁala	infaˁalā	infaˁalū
+infaˁalat	infaˁalatā	infaˁalna
+infaˁalta	infaˁaltumā	infaˁaltum
+infaˁalti	infaˁaltumā	infaˁaltunna
+infaˁaltu	infaˁalnā	infaˁalnā
 
 juss
 
-yafaˁil	yafaˁilā	yafaˁilū
-tafaˁil	tafaˁilā	yafaˁilna
-tafaˁil	tafaˁilā	tafaˁilū
-tafaˁilī	tafaˁilā	tafaˁilna
-ˀafaˁil	nafaˁil	nafaˁil
+yanfaˁil	yanfaˁilā	yanfaˁilū
+tanfaˁil	tanfaˁilā	yanfaˁilna
+tanfaˁil	tanfaˁilā	tanfaˁilū
+tanfaˁilī	tanfaˁilā	tanfaˁilna
+ˀanfaˁil	nanfaˁil	nanfaˁil
 
 impf
 
-yafaˁilu	yafaˁilāni	yafaˁilūna
-tafaˁilu	tafaˁilāni	yafaˁilna
-tafaˁilu	tafaˁilāni	tafaˁilūna
-tafaˁilī	tafaˁilāni	tafaˁilna
-ˀafaˁilu	nafaˁilu	nafaˁilu
+yanfaˁilu	yanfaˁilāni	yanfaˁilūna
+tanfaˁilu	tanfaˁilāni	yanfaˁilna
+tanfaˁilu	tanfaˁilāni	tanfaˁilūna
+tanfaˁilī	tanfaˁilāni	tanfaˁilna
+ˀanfaˁilu	nanfaˁilu	nanfaˁilu
 
 subj
 
-yafaˁila	yafaˁilā	yafaˁilū
-tafaˁila	tafaˁilā	yafaˁilna
-tafaˁila	tafaˁilā	tafaˁilū
-tafaˁilī	tafaˁilā	tafaˁilna
-ˀafaˁila	nafaˁila	nafaˁila
+yanfaˁila	yanfaˁilā	yanfaˁilū
+tanfaˁila	tanfaˁilā	yanfaˁilna
+tanfaˁila	tanfaˁilā	tanfaˁilū
+tanfaˁilī	tanfaˁilā	tanfaˁilna
+ˀanfaˁila	nanfaˁila	nanfaˁila
 
 impv
 
-faˁil	faˁilā	faˁilū
-faˁilī	faˁilā	faˁilna
+infaˁil	infaˁilā	infaˁilū
+infaˁilī	infaˁilā	infaˁilna
 
 actp
 
@@ -362,11 +566,11 @@ infiˁāl
 
 perf
 
-ftaˁala	ftaˁalā	ftaˁalū
-ftaˁalat	ftaˁalatā	ftaˁalna
-ftaˁalta	ftaˁaltumā	ftaˁaltum
-ftaˁalti	ftaˁaltumā	ftaˁaltunna
-ftaˁaltu	ftaˁalnā	ftaˁalnā
+iftaˁala	iftaˁalā	iftaˁalū
+iftaˁalat	iftaˁalatā	iftaˁalna
+iftaˁalta	iftaˁaltumā	iftaˁaltum
+iftaˁalti	iftaˁaltumā	iftaˁaltunna
+iftaˁaltu	iftaˁalnā	iftaˁalnā
 
 juss
 
@@ -394,8 +598,8 @@ taftaˁilī	taftaˁilā	taftaˁilna
 
 impv
 
-ftaˁil	ftaˁilā	ftaˁilū
-ftaˁilī	ftaˁilā	ftaˁilna
+iftaˁil	iftaˁilā	iftaˁilū
+iftaˁilī	iftaˁilā	iftaˁilna
 
 actp
 
@@ -413,11 +617,11 @@ iftiˁāl
 
 perf
 
-stafˁala	stafˁalā	stafˁalū
-stafˁalat	stafˁalatā	stafˁalna
-stafˁalta	stafˁaltumā	stafˁaltum
-stafˁalti	stafˁaltumā	stafˁaltunna
-stafˁaltu	stafˁalnā	stafˁalnā
+istafˁala	istafˁalā	istafˁalū
+istafˁalat	istafˁalatā	istafˁalna
+istafˁalta	istafˁaltumā	istafˁaltum
+istafˁalti	istafˁaltumā	istafˁaltunna
+istafˁaltu	istafˁalnā	istafˁalnā
 
 juss
 
@@ -445,8 +649,8 @@ tastafˁilī	tastafˁilā	tastafˁilna
 
 impv
 
-stafˁil	stafˁilā	stafˁilū
-stafˁilī	stafˁilā	stafˁilna
+istafˁil	istafˁilā	istafˁilū
+istafˁilī	istafˁilā	istafˁilna
 
 actp
 

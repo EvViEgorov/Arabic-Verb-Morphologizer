@@ -1,4 +1,4 @@
-from after_asterisk_form import after_asterisk_form
+from after_asterisk_form import after_asterisk_form, prothesis
 from build_form import build_wordform, build_paradigm
 
 
@@ -27,7 +27,6 @@ def print_paradigm(paradigm: dict) -> str: # тестовая функция ч�
 print(wordform)'''
 
 paradigm = build_paradigm('fˁl')
-print(paradigm)
 
 with open('test_output.txt', 'w', encoding='UTF-8') as f:
     f.write(print_paradigm(paradigm))
