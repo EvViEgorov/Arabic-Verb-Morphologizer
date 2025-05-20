@@ -327,6 +327,8 @@ def build_paradigm(root: str) -> dict:
 
     if root[1] == 'w':
         gen_forms = ['1au', '2', '3', '4', '5', '6', '7', '8', '10']
+    else:
+        gen_forms = stems.keys()
 
     for dstem in gen_forms:
 
