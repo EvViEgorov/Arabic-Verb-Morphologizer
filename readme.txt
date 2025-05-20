@@ -14,7 +14,7 @@
 # Ссылки:
 [GitHub](https://github.com/EvViEgorov/Arabic-Verb-Morphologizer)
 [GitHub issues](https://github.com/EvViEgorov/Arabic-Verb-Morphologizer/issues)
-[Веб-сайт](https://skarendmar.pyscriptapps.com/lucky-wave/latest)
+[Веб-сайт](https://skarendmar.pyscriptapps.com/arabic-verb-morphologizer/latest/)
 
 # Установка зависимостей:
 ```pip3 install -r requirements.txt```
