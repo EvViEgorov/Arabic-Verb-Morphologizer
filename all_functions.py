@@ -2,7 +2,6 @@ import re
 
 from itertools import product
 
-
 cons = 'bdfhklmnqrstwyzǮšṯḏḍṭṣẓˀġḫḥˁ'
 vowels = 'aiuāīū'
 
@@ -68,7 +67,7 @@ stems = {
             'impv': '12a3',
             'actp': '1ā2i3',
             'pasp': 'ma12ū3',
-            'masd': 'DICTIONARY FORM'
+            'masd': 'ПО СЛОВАРЮ'
         },
         '1ai': {
             'perf': '1a2a3',
@@ -76,7 +75,7 @@ stems = {
             'impv': '12i3',
             'actp': '1ā2i3',
             'pasp': 'ma12ū3',
-            'masd': 'DICTIONARY FORM'
+            'masd': 'ПО СЛОВАРЮ'
         },
         '1au': {
             'perf': '1a2a3',
@@ -84,7 +83,7 @@ stems = {
             'impv': '12u3',
             'actp': '1ā2i3',
             'pasp': 'ma12ū3',
-            'masd': 'DICTIONARY FORM'
+            'masd': 'ПО СЛОВАРЮ'
         },
         '1ia': {
             'perf': '1a2i3',
@@ -92,7 +91,7 @@ stems = {
             'impv': '12a3',
             'actp': '1ā2i3',
             'pasp': 'ma12ū3',
-            'masd': 'DICTIONARY FORM'
+            'masd': 'ПО СЛОВАРЮ'
         },
         '1uu': {
             'perf': '1a2u3',
@@ -100,7 +99,7 @@ stems = {
             'impv': '12u3',
             'actp': '1ā2i3',
             'pasp': 'ma12ū3',
-            'masd': 'DICTIONARY FORM'
+            'masd': 'ПО СЛОВАРЮ'
         },
         '2': {
             'perf': '1a22a3',
@@ -243,83 +242,101 @@ def mandatory_asterisk(word: str) -> str:
 
 def after_asterisk_form(word: str, root: str, gram: tuple) -> str:
 
-    if root[0] == 'w':
-        if gram[0] in {'1aa', '1ai', '1au', '1ia', '1uu'}:
-            # -awC2 -> -aC2
-            word = re.sub(rf'([{cons}])(aw)([{root[1]}])', r'\1a\3', word)
-        elif gram[0] == '8':
-            # -wt- -> -tt-
-            word = re.sub(rf'^wt', r'tt', word)
+    if gram[1] in pers_forms:
+        if root[0] == 'w':
+            if gram[0] in {'1aa', '1ai', '1au', '1ia', '1uu'}:
+                # -awC2 -> -aC2
+                word = re.sub(rf'([{cons}])(aw)([{root[1]}])', r'\1a\3', word)
+            elif gram[0] == '8':
+                # -wt- -> -tt-
+                word = re.sub(rf'^wt', r'tt', word)
 
-    if root[1] == 'w':
+        if root[1] == 'w':
+            if gram[0] in {'1au'}:
+                word = mandatory_asterisk(word)
+                # -CwuC| -> -CuC|
+                word = re.sub(rf'([{cons}])(wu)([{cons}]\b|[{cons}]{{2}})', r'\1u\3', word)
+                # -Cwu| -> -Cū|
+                word = re.sub(rf'([{cons}])(wu)(\b|([{cons}][^{cons}]))', r'\1ū\3', word)
 
-        if gram[0] in {'1au'}:
-            word = mandatory_asterisk(word)
-            # -CwuC| -> -CuC|
-            word = re.sub(rf'([{cons}])(wu)([{cons}]\b|[{cons}]{{2}})', r'\1u\3', word)
-            # -Cwu| -> -Cū|
-            word = re.sub(rf'([{cons}])(wu)(\b|([{cons}][^{cons}]))', r'\1ū\3', word)
+            if gram[0] in {'4', '10'}:
+                word = mandatory_asterisk(word)
+                # -CwaC| -> -CaC|
+                word = re.sub(rf'([{cons}])(wa)([{cons}]\b|[{cons}]{{2}})', r'\1a\3', word)
+                # -CwiC| -> -CiC|
+                word = re.sub(rf'([{cons}])(wi)([{cons}]\b|[{cons}]{{2}})', r'\1i\3', word)
+                # -Cwi| -> -Cī|
+                word = re.sub(rf'([{cons}])(wi)(\b|([{cons}][^{cons}]))', r'\1ī\3', word)
 
-        if gram[0] in {'4', '10'}:
-            word = mandatory_asterisk(word)
-            # -CwaC| -> -CaC|
-            word = re.sub(rf'([{cons}])(wa)([{cons}]\b|[{cons}]{{2}})', r'\1a\3', word)
-            # -CwiC| -> -CiC|
-            word = re.sub(rf'([{cons}])(wi)([{cons}]\b|[{cons}]{{2}})', r'\1i\3', word)
-            # -Cwi| -> -Cī|
-            word = re.sub(rf'([{cons}])(wi)(\b|([{cons}][^{cons}]))', r'\1ī\3', word)
+            if gram[0] in {'7', '8'}:
+                word = mandatory_asterisk(word)
+                # -C1uC3 -> C1aC3    -C1iC3 -> C1aC3
+                word = re.sub(rf'({root[0]}t?)([ui])({root[2]})', r'\1a\3', word)
 
-        if gram[0] in {'7', '8'}:
-            word = mandatory_asterisk(word)
-            # -C1uC3 -> C1aC3    -C1iC3 -> C1aC3
-            word = re.sub(rf'({root[0]}t?)[ui]({root[2]})', r'\1a\3', word)
+        if root[1] == 'y':
+            if gram[0] in {'1ai'}:
+                word = mandatory_asterisk(word)
+                # -CayaC| -> -CiC|
+                word = re.sub(rf'([{cons}])(aya|yi)([{cons}]\b|[{cons}]{{2}})', r'\1i\3', word)
+                # -Cyi| -> -Cī|
+                word = re.sub(rf'([{cons}])(yi)(\b|([{cons}][^{cons}]))', r'\1ī\3', word)
 
-    if root[1] == 'y':
+            if gram[0] in {'4', '10'}:
+                word = mandatory_asterisk(word)
+                # Cya| > Ca|
+                word = re.sub(rf'([{cons}])(ya)(\b|([{cons}][^{cons}]))', r'\1ā\3', word)
+                # -CyaC| -> -CaC|
+                word = re.sub(rf'([{cons}])(ya)([{cons}]\b|[{cons}]{{2}})', r'\1a\3', word)
+                # -CyiC| -> -CiC|
+                word = re.sub(rf'([{cons}])(yi)([{cons}]\b|[{cons}]{{2}})', r'\1i\3', word)
+                # -Cyi| -> -Cī|
+                word = re.sub(rf'([{cons}])(yi)(\b|([{cons}][^{cons}]))', r'\1ī\3', word)
 
-        if gram[0] in {'1ai'}:
-            word = mandatory_asterisk(word)
-            # -CayaC| -> -CiC|
-            word = re.sub(rf'([{cons}])(aya|yi)([{cons}]\b|[{cons}]{{2}})', r'\1i\3', word)
-            # -Cyi| -> -Cī|
-            word = re.sub(rf'([{cons}])(yi)(\b|([{cons}][^{cons}]))', r'\1ī\3', word)
+            if gram[0] in {'7', '8'}:
+                word = mandatory_asterisk(word)
+                #Caya/ayi|C > Ca|C
+                word = re.sub(rf'([{cons}])(aya|ayi)([{cons}]\b|[{cons}]{{2}})', r'\1a\3', word)
+                # Cayi| > Caa|
+                word = re.sub(rf'([{cons}])(ayi)(\b|([{cons}][^{cons}]))', r'\1ā\3', word)
+                # -C1uC3 -> C1aC3    -C1iC3 -> C1aC3
+                word = re.sub(rf'({root[0]}t?)([ui])({root[2]})', r'\1a\3', word)
 
-        if gram[0] in {'4', '10'}:
-            word = mandatory_asterisk(word)
-            # Cya| > Ca|
-            word = re.sub(rf'([{cons}])(ya)(\b|([{cons}][^{cons}]))', r'\1ā\3', word)
-            # -CyaC| -> -CaC|
-            word = re.sub(rf'([{cons}])(ya)([{cons}]\b|[{cons}]{{2}})', r'\1a\3', word)
-            # -CyiC| -> -CiC|
-            word = re.sub(rf'([{cons}])(yi)([{cons}]\b|[{cons}]{{2}})', r'\1i\3', word)
-            # -Cyi| -> -Cī|
-            word = re.sub(rf'([{cons}])(yi)(\b|([{cons}][^{cons}]))', r'\1ī\3', word)
-
-        if gram[0] in {'7', '8'}:
-            word = mandatory_asterisk(word)
-            #Caya/ayi|C > Ca|C
-            word = re.sub(rf'([{cons}])(aya|ayi)([{cons}]\b|[{cons}]{{2}})', r'\1a\3', word)
-            # Cayi| > Caa|
-            word = re.sub(rf'([{cons}])(ayi)(\b|([{cons}][^{cons}]))', r'\1ā\3', word)
-            # -C1uC3 -> C1aC3    -C1iC3 -> C1aC3
-            word = re.sub(rf'({root[0]}t?)[ui]({root[2]})', r'\1a\3', word)
-
-    if root[2] in {'w', 'y'}:
-        if gram[0] in {'1aa', '1ai', '1au', '1ia', '1uu'}:
-            if root[2] == 'y' and gram[0] == '1ia':
-                # -iyC -> -īC
-                word = re.sub(rf'([{cons}])(iy)([{cons}])', r'\1ī\3', word)
-                # -iyū -> -ū
-                word = re.sub(rf'([{cons}])(iyū)\b', r'\1ū', word)
-                # -ay -> -a
-                word = re.sub(rf'([{cons}])(ay)\b', r'\1a', word)
-                # -ayī -> -ay
-                word = re.sub(rf'([{cons}])(ayī)(\b|([{cons}][^{cons}]))', r'\1ay\3', word)
-                # -ayū -> -aw
-                word = re.sub(rf'([{cons}])(ayū)(\b|([{cons}][^{cons}]))', r'\1aw\3', word)
-                # -ayu -> -ā
-                word = re.sub(rf'([{cons}])(ayu|aya)\b', r'\1ā', word)
-
-            elif root[2] == 'y':
+        if root[2] in {'w', 'y'}:
+            if gram[0] in {'1aa', '1ai', '1au', '1ia', '1uu'}:
+                if root[2] == 'y' and gram[0] == '1ia':
+                    # -iyC -> -īC
+                    word = re.sub(rf'([{cons}])(iy)([{cons}])', r'\1ī\3', word)
+                    # -iyū -> -ū
+                    word = re.sub(rf'([{cons}])(iyū)\b', r'\1ū', word)
+                    # -ay -> -a
+                    word = re.sub(rf'([{cons}])(ay)\b', r'\1a', word)
+                    # -ayī -> -ay
+                    word = re.sub(rf'([{cons}])(ayī)(\b|([{cons}][^{cons}]))', r'\1ay\3', word)
+                    # -ayū -> -aw
+                    word = re.sub(rf'([{cons}])(ayū)(\b|([{cons}][^{cons}]))', r'\1aw\3', word)
+                    # -ayu -> -ā
+                    word = re.sub(rf'([{cons}])(ayu|aya)\b', r'\1ā', word)
+                elif root[2] == 'y':
+                    # -CayaC -> -CaC
+                    word = re.sub(rf'([{cons}])(aya)([{cons}])', r'\1a\3', word)
+                    word = mandatory_asterisk(word)
+                    # -Ciy -> -Ci
+                    word = re.sub(rf'([{cons}])(iy)\b', r'\1i', word)
+                    # -CiyC -> -CīC
+                    word = re.sub(rf'([{cons}])(iy)(\b|([{cons}][{vowels}]))', r'\1ī\3', word)
+                if root[2] == 'w':
+                    # -CawaC -> -CaC
+                    word = re.sub(rf'([{cons}])(awa)([{cons}])', r'\1a\3', word)
+                    word = mandatory_asterisk(word)
+                    # -Cawuu -> Caw
+                    word = re.sub(rf'([{cons}])(awū)\b', r'\1aw', word)
+                    # -Cuw -> -Cu
+                    word = re.sub(rf'([{cons}])(uw)\b', r'\1u', word)
+                    # -CuwC -> -CūC
+                    word = re.sub(rf'([{cons}])(uw)(\b|([{cons}][{vowels}]))', r'\1ū\3', word)
+                    # -Cuwu -> -Cū
+                    word = re.sub(rf'([{cons}])(uwu)(\b)', r'\1ū\3', word)
+            elif gram[0] in {'2', '3', '4', '7', '8', '10'}:
                 # -CayaC -> -CaC
                 word = re.sub(rf'([{cons}])(aya)([{cons}])', r'\1a\3', word)
                 word = mandatory_asterisk(word)
@@ -327,56 +344,36 @@ def after_asterisk_form(word: str, root: str, gram: tuple) -> str:
                 word = re.sub(rf'([{cons}])(iy)\b', r'\1i', word)
                 # -CiyC -> -CīC
                 word = re.sub(rf'([{cons}])(iy)(\b|([{cons}][{vowels}]))', r'\1ī\3', word)
+            elif gram[0] in {'5', '6'}:
+                if gram[1] == 'perf':
+                    # -CayaC -> -CaC
+                    word = re.sub(rf'([{cons}])(aya)([{cons}])', r'\1a\3', word)
+                    word = mandatory_asterisk(word)
+                    # -Ciy -> -Ci
+                    word = re.sub(rf'([{cons}])(iy)\b', r'\1i', word)
+                    # -CiyC -> -CīC
+                    word = re.sub(rf'([{cons}])(iy)(\b|([{cons}][{vowels}]))', r'\1ī\3', word)
+                elif gram[1] in {'juss', 'impf', 'subj', 'impv'}:
+                    # -iyC -> -īC
+                    word = re.sub(rf'([{cons}])(iy)([{cons}])', r'\1ī\3', word)
+                    # -iyū -> -ū
+                    word = re.sub(rf'([{cons}])(iyū)\b', r'\1ū', word)
+                    # -ay -> -a
+                    word = re.sub(rf'([{cons}])(ay)\b', r'\1a', word)
+                    # -ayī -> -ay
+                    word = re.sub(rf'([{cons}])(ayī)(\b|([{cons}][^{cons}]))', r'\1ay\3', word)
+                    # -ayū -> -aw
+                    word = re.sub(rf'([{cons}])(ayū)(\b|([{cons}][^{cons}]))', r'\1aw\3', word)
+                    # -ayu -> -ā
+                    word = re.sub(rf'([{cons}])(ayu|aya)\b', r'\1ā', word)
 
-            if root[2] == 'w':
-                # -CawaC -> -CaC
-                word = re.sub(rf'([{cons}])(awa)([{cons}])', r'\1a\3', word)
-                word = mandatory_asterisk(word)
-                # -Cawuu -> Caw
-                word = re.sub(rf'([{cons}])(awū)\b', r'\1aw', word)
-                # -Cuw -> -Cu
-                word = re.sub(rf'([{cons}])(uw)\b', r'\1u', word)
-                # -CuwC -> -CūC
-                word = re.sub(rf'([{cons}])(uw)(\b|([{cons}][{vowels}]))', r'\1ū\3', word)
-                # -Cuwu -> -Cū
-                word = re.sub(rf'([{cons}])(uwu)(\b)', r'\1ū\3', word)
-        elif gram[0] in {'2', '3', '4', '7', '8', '10'}:
-            # -CayaC -> -CaC
-            word = re.sub(rf'([{cons}])(aya)([{cons}])', r'\1a\3', word)
-            word = mandatory_asterisk(word)
-            # -Ciy -> -Ci
-            word = re.sub(rf'([{cons}])(iy)\b', r'\1i', word)
-            # -CiyC -> -CīC
-            word = re.sub(rf'([{cons}])(iy)(\b|([{cons}][{vowels}]))', r'\1ī\3', word)
-        elif gram[0] in {'5', '6'}:
-            if gram[1] == 'perf':
-                # -CayaC -> -CaC
-                word = re.sub(rf'([{cons}])(aya)([{cons}])', r'\1a\3', word)
-                word = mandatory_asterisk(word)
-                # -Ciy -> -Ci
-                word = re.sub(rf'([{cons}])(iy)\b', r'\1i', word)
-                # -CiyC -> -CīC
-                word = re.sub(rf'([{cons}])(iy)(\b|([{cons}][{vowels}]))', r'\1ī\3', word)
-            elif gram[1] in {'juss', 'impf', 'subj', 'impv'}:
-                # -iyC -> -īC
-                word = re.sub(rf'([{cons}])(iy)([{cons}])', r'\1ī\3', word)
-                # -iyū -> -ū
-                word = re.sub(rf'([{cons}])(iyū)\b', r'\1ū', word)
-                # -ay -> -a
-                word = re.sub(rf'([{cons}])(ay)\b', r'\1a', word)
-                # -ayī -> -ay
-                word = re.sub(rf'([{cons}])(ayī)(\b|([{cons}][^{cons}]))', r'\1ay\3', word)
-                # -ayū -> -aw
-                word = re.sub(rf'([{cons}])(ayū)(\b|([{cons}][^{cons}]))', r'\1aw\3', word)
-                # -ayu -> -ā
-                word = re.sub(rf'([{cons}])(ayu|aya)\b', r'\1ā', word)
-
-
-    if root[1] == root[2]:
-        # metathesis for vowels
-        word = re.sub(rf'([iau])([{cons}])([aiu])([{cons}])([{vowels}])', r'\1\2\4\5', word)
-        # metath for cons
-        word = re.sub(rf'([{cons}])([{cons}])([aiu])([{cons}])([{vowels}])', r'\1\3\2\4\5', word)
+        if root[1] == root[2]:
+            # metathesis for vowels
+            word = re.sub(rf'([iau])([{cons}])([aiu])([{cons}])([{vowels}])', r'\1\2\4\5', word)
+            # metath for cons
+            word = re.sub(rf'([{cons}])([{cons}])([aiu])([{cons}])([{vowels}])', r'\1\3\2\4\5', word)
+    else:
+        word = word
     return word
 
 
@@ -438,6 +435,12 @@ def build_paradigm(root: str) -> dict:
 
     if root[1] == 'w':
         gen_forms = ['1au', '2', '3', '4', '5', '6', '7', '8', '10']
+    elif root[1] == 'y':
+        gen_forms = ['1ai', '2', '3', '4', '5', '6', '7', '8', '10']
+    elif root[2] == 'w':
+        gen_forms = ['1au', '2', '3', '4', '5', '6', '7', '8', '10']
+    elif root[2] == 'y':
+        gen_forms = ['1ai', '1ia', '2', '3', '4', '5', '6', '7', '8', '10']
     else:
         gen_forms = stems.keys()
 
@@ -474,9 +477,9 @@ def get_roots(wordform: str) -> list: # получаем все возможны
     n = len(wordform)
 
     # берем по три согласных
-    for i in range(n):
-        for j in range(i + 1, n):
-            for k in range(j + 1, n):
+    for i in range(n + 1):
+        for j in range(i + 1, n + 1):
+            for k in range(j + 1, n + 1):
                 for root in product(cons_list[i], cons_list[j], cons_list[k]):
 
                     roots.add(''.join(root))
@@ -495,12 +498,102 @@ def get_dict_form(root: str, gram: tuple) -> list:
     return dict_forms
 
 
-def get_forms(wordform) -> dict:
+def get_forms(wordform: str) -> dict:
     poss_forms = dict()
     for root in get_roots(wordform):
         paradigm = build_paradigm(root)
         for k, v in paradigm.items():
             if v == wordform:
                 for dict_form in get_dict_form(root, k):
-                    poss_forms[k] = dict_form
+                    poss_forms[k] = (dict_form, root)
     return poss_forms
+
+
+outputs = {
+    '1aa': '1-я порода (соотношение типовых a—a)',
+    '1ai': '1-я порода (соотношение типовых a—i)',
+    '1au': '1-я порода (соотношение типовых a—u)',
+    '1ia': '1-я порода (соотношение типовых i—a)',
+    '1uu': '1-я порода (соотношение типовых u—u)',
+    '2': '2-я порода',
+    '3': '3-я порода',
+    '4': '4-я порода',
+    '5': '5-я порода',
+    '6': '6-я порода',
+    '7': '7-я порода',
+    '8': '8-я порода',
+    '10': '10-я порода',
+    'perf': 'перфект',
+    'juss': 'юссив',
+    'subj': 'субъюнктив',
+    'impf': 'имперфект',
+    'impv': 'императив',
+    'actp': 'активное причастие',
+    'pasp': 'пассивное причастие',
+    'masd': 'масдар',
+    '3msg': '3л. м.р. ед.ч.',
+    '3mdu': '3л. м.р. дв.ч.',
+    '3mpl': '3л. м.р. мн.ч.',
+    '3fsg': '3л. ж.р. ед.ч.',
+    '3fdu': '3л. ж.р. дв.ч.',
+    '3fpl': '3л. ж.р. мн.ч.',
+    '2msg': '2л. м.р. ед.ч.',
+    '2mdu': '2л. м.р. дв.ч.',
+    '2mpl': '2л. м.р. мн.ч.',
+    '2fsg': '2л. ж.р. ед.ч.',
+    '2fdu': '2л. ж.р. дв.ч.',
+    '2fpl': '2л. ж.р. мн.ч.',
+    '1csg': '1л. ед.ч.',
+    '1cdu': '1л. дв.ч.',
+    '1cpl': '1л. мн.ч.'
+}
+
+
+def user_get_form(wordform: str) -> str:
+    if re.search(rf'[^{cons}{vowels}]', wordform):
+        return 'Введён недопустимый символ'
+    else:
+        forms = get_forms(wordform)
+        if len(forms) <= 0:
+            return 'Формы не найдены'
+        else:
+            output = 'Возможные глагольные формы:\n\n'
+            for gram, dictform in forms.items():
+                output += f'{dictform[0]} (корень {dictform[1]}): {outputs[gram[0]]}, {outputs[gram[1]]}, {outputs[gram[2]]}\n'
+            return output
+
+
+def user_build_paradigm(root: str) -> str: # строит парадигму в виде строки для удобного отображения
+    if re.search(rf'[^{cons}{vowels}]', root):
+        return 'Введён недопустимый символ'
+    else:
+        if len(root) != 3:
+            return 'Введите трёхбуквенный корень'
+        else:
+            paradigm = build_paradigm(root)
+            dstem, form = 0, ''
+            COUNTER = 0
+            output = f'Глагольная парадигма для корня {root}:\n'
+            for gram, wordform in paradigm.items():
+                if gram[0] != dstem:
+                    dstem = gram[0]
+                    output += '\n\n' + str(outputs[dstem]) + '\n'
+                    COUNTER = 0
+                if gram[1] != form:
+                    form = gram[1]
+                    output += '\n' + str(outputs[form].capitalize()) + '\n'
+                output += wordform
+                COUNTER += 1
+                if COUNTER in range(0, 66, 3):
+                    output += '\n'
+                elif COUNTER in range(66, 70):
+                    output += '\n'
+                else:
+                    output += '\t'
+            return output
+
+
+'''
+with open('test_output.txt', 'w', encoding='UTF-8') as f:
+    f.write(user_build_paradigm('wqf'))
+'''

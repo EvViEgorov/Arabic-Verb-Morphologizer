@@ -1,663 +1,573 @@
-
-
-1aa
-
-
-perf
-
-farala	faralā	faralū
-faralat	faralatā	faralna
-faralta	faraltumā	faraltum
-faralti	faraltumā	faraltunna
-faraltu	faralnā	faralnā
-
-juss
-
-yafral	yafralā	yafralū
-tafral	tafralā	yafralna
-tafral	tafralā	tafralū
-tafralī	tafralā	tafralna
-ˀafral	nafral	nafral
-
-impf
-
-yafralu	yafralāni	yafralūna
-tafralu	tafralāni	yafralna
-tafralu	tafralāni	tafralūna
-tafralīna	tafralāni	tafralna
-ˀafralu	nafralu	nafralu
-
-subj
-
-yafrala	yafralā	yafralū
-tafrala	tafralā	yafralna
-tafrala	tafralā	tafralū
-tafralī	tafralā	tafralna
-ˀafrala	nafrala	nafrala
-
-impv
-
-ifral	ifralā	ifralū
-ifralī	ifralā	ifralna
-
-actp
-
-fāril	
-pasp
-
-mafrūl	
-masd
-
-DICTIONARY FORM
-
-
-1ai
-
-
-perf
-
-farala	faralā	faralū
-faralat	faralatā	faralna
-faralta	faraltumā	faraltum
-faralti	faraltumā	faraltunna
-faraltu	faralnā	faralnā
-
-juss
-
-yafril	yafrilā	yafrilū
-tafril	tafrilā	yafrilna
-tafril	tafrilā	tafrilū
-tafrilī	tafrilā	tafrilna
-ˀafril	nafril	nafril
-
-impf
-
-yafrilu	yafrilāni	yafrilūna
-tafrilu	tafrilāni	yafrilna
-tafrilu	tafrilāni	tafrilūna
-tafrilīna	tafrilāni	tafrilna
-ˀafrilu	nafrilu	nafrilu
-
-subj
-
-yafrila	yafrilā	yafrilū
-tafrila	tafrilā	yafrilna
-tafrila	tafrilā	tafrilū
-tafrilī	tafrilā	tafrilna
-ˀafrila	nafrila	nafrila
-
-impv
-
-ifril	ifrilā	ifrilū
-ifrilī	ifrilā	ifrilna
-
-actp
-
-fāril	
-pasp
-
-mafrūl	
-masd
-
-DICTIONARY FORM
-
-
-1au
-
-
-perf
-
-farala	faralā	faralū
-faralat	faralatā	faralna
-faralta	faraltumā	faraltum
-faralti	faraltumā	faraltunna
-faraltu	faralnā	faralnā
-
-juss
-
-yafrul	yafrulā	yafrulū
-tafrul	tafrulā	yafrulna
-tafrul	tafrulā	tafrulū
-tafrulī	tafrulā	tafrulna
-ˀafrul	nafrul	nafrul
-
-impf
-
-yafrulu	yafrulāni	yafrulūna
-tafrulu	tafrulāni	yafrulna
-tafrulu	tafrulāni	tafrulūna
-tafrulīna	tafrulāni	tafrulna
-ˀafrulu	nafrulu	nafrulu
-
-subj
-
-yafrula	yafrulā	yafrulū
-tafrula	tafrulā	yafrulna
-tafrula	tafrulā	tafrulū
-tafrulī	tafrulā	tafrulna
-ˀafrula	nafrula	nafrula
-
-impv
-
-ufrul	ufrulā	ufrulū
-ufrulī	ufrulā	ufrulna
-
-actp
-
-fāril	
-pasp
-
-mafrūl	
-masd
-
-DICTIONARY FORM
-
-
-1ia
-
-
-perf
-
-farila	farilā	farilū
-farilat	farilatā	farilna
-farilta	fariltumā	fariltum
-farilti	fariltumā	fariltunna
-fariltu	farilnā	farilnā
-
-juss
-
-yafral	yafralā	yafralū
-tafral	tafralā	yafralna
-tafral	tafralā	tafralū
-tafralī	tafralā	tafralna
-ˀafral	nafral	nafral
-
-impf
-
-yafralu	yafralāni	yafralūna
-tafralu	tafralāni	yafralna
-tafralu	tafralāni	tafralūna
-tafralīna	tafralāni	tafralna
-ˀafralu	nafralu	nafralu
-
-subj
-
-yafrala	yafralā	yafralū
-tafrala	tafralā	yafralna
-tafrala	tafralā	tafralū
-tafralī	tafralā	tafralna
-ˀafrala	nafrala	nafrala
-
-impv
-
-ifral	ifralā	ifralū
-ifralī	ifralā	ifralna
-
-actp
-
-fāril	
-pasp
-
-mafrūl	
-masd
-
-DICTIONARY FORM
-
-
-1uu
-
-
-perf
-
-farula	farulā	farulū
-farulat	farulatā	farulna
-farulta	farultumā	farultum
-farulti	farultumā	farultunna
-farultu	farulnā	farulnā
-
-juss
-
-yafrul	yafrulā	yafrulū
-tafrul	tafrulā	yafrulna
-tafrul	tafrulā	tafrulū
-tafrulī	tafrulā	tafrulna
-ˀafrul	nafrul	nafrul
-
-impf
-
-yafrulu	yafrulāni	yafrulūna
-tafrulu	tafrulāni	yafrulna
-tafrulu	tafrulāni	tafrulūna
-tafrulīna	tafrulāni	tafrulna
-ˀafrulu	nafrulu	nafrulu
-
-subj
-
-yafrula	yafrulā	yafrulū
-tafrula	tafrulā	yafrulna
-tafrula	tafrulā	tafrulū
-tafrulī	tafrulā	tafrulna
-ˀafrula	nafrula	nafrula
-
-impv
-
-ufrul	ufrulā	ufrulū
-ufrulī	ufrulā	ufrulna
-
-actp
-
-fāril	
-pasp
-
-mafrūl	
-masd
-
-DICTIONARY FORM
-
-
-2
-
-
-perf
-
-farrala	farralā	farralū
-farralat	farralatā	farralna
-farralta	farraltumā	farraltum
-farralti	farraltumā	farraltunna
-farraltu	farralnā	farralnā
-
-juss
-
-yufarril	yufarrilā	yufarrilū
-tufarril	tufarrilā	yufarrilna
-tufarril	tufarrilā	tufarrilū
-tufarrilī	tufarrilā	tufarrilna
-ˀufarril	nufarril	nufarril
-
-impf
-
-yufarrilu	yufarrilāni	yufarrilūna
-tufarrilu	tufarrilāni	yufarrilna
-tufarrilu	tufarrilāni	tufarrilūna
-tufarrilīna	tufarrilāni	tufarrilna
-ˀufarrilu	nufarrilu	nufarrilu
-
-subj
-
-yufarrila	yufarrilā	yufarrilū
-tufarrila	tufarrilā	yufarrilna
-tufarrila	tufarrilā	tufarrilū
-tufarrilī	tufarrilā	tufarrilna
-ˀufarrila	nufarrila	nufarrila
-
-impv
-
-farril	farrilā	farrilū
-farrilī	farrilā	farrilna
-
-actp
-
-mufarril	
-pasp
-
-mufarral	
-masd
-
-tafrīl
-
-
-3
-
-
-perf
-
-fārala	fāralā	fāralū
-fāralat	fāralatā	fāralna
-fāralta	fāraltumā	fāraltum
-fāralti	fāraltumā	fāraltunna
-fāraltu	fāralnā	fāralnā
-
-juss
-
-yufāril	yufārilā	yufārilū
-tufāril	tufārilā	yufārilna
-tufāril	tufārilā	tufārilū
-tufārilī	tufārilā	tufārilna
-ˀufāril	nufāril	nufāril
-
-impf
-
-yufārilu	yufārilāni	yufārilūna
-tufārilu	tufārilāni	yufārilna
-tufārilu	tufārilāni	tufārilūna
-tufārilīna	tufārilāni	tufārilna
-ˀufārilu	nufārilu	nufārilu
-
-subj
-
-yufārila	yufārilā	yufārilū
-tufārila	tufārilā	yufārilna
-tufārila	tufārilā	tufārilū
-tufārilī	tufārilā	tufārilna
-ˀufārila	nufārila	nufārila
-
-impv
-
-fāril	fārilā	fārilū
-fārilī	fārilā	fārilna
-
-actp
-
-mufāril	
-pasp
-
-mufāral	
-masd
-
-firāl / mufāralat
-
-
-4
-
-
-perf
-
-ˀafrala	ˀafralā	ˀafralū
-ˀafralat	ˀafralatā	ˀafralna
-ˀafralta	ˀafraltumā	ˀafraltum
-ˀafralti	ˀafraltumā	ˀafraltunna
-ˀafraltu	ˀafralnā	ˀafralnā
-
-juss
-
-yufril	yufrilā	yufrilū
-tufril	tufrilā	yufrilna
-tufril	tufrilā	tufrilū
-tufrilī	tufrilā	tufrilna
-ˀufril	nufril	nufril
-
-impf
-
-yufrilu	yufrilāni	yufrilūna
-tufrilu	tufrilāni	yufrilna
-tufrilu	tufrilāni	tufrilūna
-tufrilīna	tufrilāni	tufrilna
-ˀufrilu	nufrilu	nufrilu
-
-subj
-
-yufrila	yufrilā	yufrilū
-tufrila	tufrilā	yufrilna
-tufrila	tufrilā	tufrilū
-tufrilī	tufrilā	tufrilna
-ˀufrila	nufrila	nufrila
-
-impv
-
-ˀafril	ˀafrilā	ˀafrilū
-ˀafrilī	ˀafrilā	ˀafrilna
-
-actp
-
-mufril	
-pasp
-
-mufral	
-masd
-
-ˀifrāl
-
-
-5
-
-
-perf
-
-tafarrala	tafarralā	tafarralū
-tafarralat	tafarralatā	tafarralna
-tafarralta	tafarraltumā	tafarraltum
-tafarralti	tafarraltumā	tafarraltunna
-tafarraltu	tafarralnā	tafarralnā
-
-juss
-
-yatafarral	yatafarralā	yatafarralū
-tatafarral	tatafarralā	yatafarralna
-tatafarral	tatafarralā	tatafarralū
-tatafarralī	tatafarralā	tatafarralna
-ˀatafarral	natafarral	natafarral
-
-impf
-
-yatafarralu	yatafarralāni	yatafarralūna
-tatafarralu	tatafarralāni	yatafarralna
-tatafarralu	tatafarralāni	tatafarralūna
-tatafarralīna	tatafarralāni	tatafarralna
-ˀatafarralu	natafarralu	natafarralu
-
-subj
-
-yatafarrala	yatafarralā	yatafarralū
-tatafarrala	tatafarralā	yatafarralna
-tatafarrala	tatafarralā	tatafarralū
-tatafarralī	tatafarralā	tatafarralna
-ˀatafarrala	natafarrala	natafarrala
-
-impv
-
-tafarral	tafarralā	tafarralū
-tafarralī	tafarralā	tafarralna
-
-actp
-
-mutafarril	
-pasp
-
-mutafarral	
-masd
-
-tafarrul
-
-
-6
-
-
-perf
-
-tafārala	tafāralā	tafāralū
-tafāralat	tafāralatā	tafāralna
-tafāralta	tafāraltumā	tafāraltum
-tafāralti	tafāraltumā	tafāraltunna
-tafāraltu	tafāralnā	tafāralnā
-
-juss
-
-yatafāral	yatafāralā	yatafāralū
-tatafāral	tatafāralā	yatafāralna
-tatafāral	tatafāralā	tatafāralū
-tatafāralī	tatafāralā	tatafāralna
-ˀatafāral	natafāral	natafāral
-
-impf
-
-yatafāralu	yatafāralāni	yatafāralūna
-tatafāralu	tatafāralāni	yatafāralna
-tatafāralu	tatafāralāni	tatafāralūna
-tatafāralīna	tatafāralāni	tatafāralna
-ˀatafāralu	natafāralu	natafāralu
-
-subj
-
-yatafārala	yatafāralā	yatafāralū
-tatafārala	tatafāralā	yatafāralna
-tatafārala	tatafāralā	tatafāralū
-tatafāralī	tatafāralā	tatafāralna
-ˀatafārala	natafārala	natafārala
-
-impv
-
-tafāral	tafāralā	tafāralū
-tafāralī	tafāralā	tafāralna
-
-actp
-
-mutafāril	
-pasp
-
-mutafāral	
-masd
-
-tafārul
-
-
-7
-
-
-perf
-
-infarala	infaralā	infaralū
-infaralat	infaralatā	infaralna
-infaralta	infaraltumā	infaraltum
-infaralti	infaraltumā	infaraltunna
-infaraltu	infaralnā	infaralnā
-
-juss
-
-yanfaril	yanfarilā	yanfarilū
-tanfaril	tanfarilā	yanfarilna
-tanfaril	tanfarilā	tanfarilū
-tanfarilī	tanfarilā	tanfarilna
-ˀanfaril	nanfaril	nanfaril
-
-impf
-
-yanfarilu	yanfarilāni	yanfarilūna
-tanfarilu	tanfarilāni	yanfarilna
-tanfarilu	tanfarilāni	tanfarilūna
-tanfarilīna	tanfarilāni	tanfarilna
-ˀanfarilu	nanfarilu	nanfarilu
-
-subj
-
-yanfarila	yanfarilā	yanfarilū
-tanfarila	tanfarilā	yanfarilna
-tanfarila	tanfarilā	tanfarilū
-tanfarilī	tanfarilā	tanfarilna
-ˀanfarila	nanfarila	nanfarila
-
-impv
-
-infaril	infarilā	infarilū
-infarilī	infarilā	infarilna
-
-actp
-
-munfaril	
-pasp
-
-munfaral	
-masd
-
-infirāl
-
-
-8
-
-
-perf
-
-iftarala	iftaralā	iftaralū
-iftaralat	iftaralatā	iftaralna
-iftaralta	iftaraltumā	iftaraltum
-iftaralti	iftaraltumā	iftaraltunna
-iftaraltu	iftaralnā	iftaralnā
-
-juss
-
-yaftaril	yaftarilā	yaftarilū
-taftaril	taftarilā	yaftarilna
-taftaril	taftarilā	taftarilū
-taftarilī	taftarilā	taftarilna
-ˀaftaril	naftaril	naftaril
-
-impf
-
-yaftarilu	yaftarilāni	yaftarilūna
-taftarilu	taftarilāni	yaftarilna
-taftarilu	taftarilāni	taftarilūna
-taftarilīna	taftarilāni	taftarilna
-ˀaftarilu	naftarilu	naftarilu
-
-subj
-
-yaftarila	yaftarilā	yaftarilū
-taftarila	taftarilā	yaftarilna
-taftarila	taftarilā	taftarilū
-taftarilī	taftarilā	taftarilna
-ˀaftarila	naftarila	naftarila
-
-impv
-
-iftaril	iftarilā	iftarilū
-iftarilī	iftarilā	iftarilna
-
-actp
-
-muftaril	
-pasp
-
-muftaral	
-masd
-
-iftirāl
-
-
-10
-
-
-perf
-
-istafrala	istafralā	istafralū
-istafralat	istafralatā	istafralna
-istafralta	istafraltumā	istafraltum
-istafralti	istafraltumā	istafraltunna
-istafraltu	istafralnā	istafralnā
-
-juss
-
-yastafril	yastafrilā	yastafrilū
-tastafril	tastafrilā	yastafrilna
-tastafril	tastafrilā	tastafrilū
-tastafrilī	tastafrilā	tastafrilna
-ˀastafril	nastafril	nastafril
-
-impf
-
-yastafrilu	yastafrilāni	yastafrilūna
-tastafrilu	tastafrilāni	yastafrilna
-tastafrilu	tastafrilāni	tastafrilūna
-tastafrilīna	tastafrilāni	tastafrilna
-ˀastafrilu	nastafrilu	nastafrilu
-
-subj
-
-yastafrila	yastafrilā	yastafrilū
-tastafrila	tastafrilā	yastafrilna
-tastafrila	tastafrilā	tastafrilū
-tastafrilī	tastafrilā	tastafrilna
-ˀastafrila	nastafrila	nastafrila
-
-impv
-
-istafril	istafrilā	istafrilū
-istafrilī	istafrilā	istafrilna
-
-actp
-
-mustafril	
-pasp
-
-mustafral	
-masd
-
-ˀistifrāl
+Глагольная парадигма для корня wqf:
+
+
+1-я порода (соотношение типовых a—a)
+
+Перфект
+waqafa	waqafā	waqafū
+waqafat	waqafatā	waqafna
+waqafta	waqaftumā	waqaftum
+waqafti	waqaftumā	waqaftunna
+waqaftu	waqafnā	waqafnā
+
+Юссив
+yaqaf	yaqafā	yaqafū
+taqaf	taqafā	yaqafna
+taqaf	taqafā	taqafū
+taqafī	taqafā	taqafna
+ˀaqaf	naqaf	naqaf
+
+Имперфект
+yaqafu	yaqafāni	yaqafūna
+taqafu	taqafāni	yaqafna
+taqafu	taqafāni	taqafūna
+taqafīna	taqafāni	taqafna
+ˀaqafu	naqafu	naqafu
+
+Субъюнктив
+yaqafa	yaqafā	yaqafū
+taqafa	taqafā	yaqafna
+taqafa	taqafā	taqafū
+taqafī	taqafā	taqafna
+ˀaqafa	naqafa	naqafa
+
+Императив
+iwqaf	iwqafā	iwqafū
+iwqafī	iwqafā	iwqafna
+
+Активное причастие
+wāqif
+
+Пассивное причастие
+mawqūf
+
+Масдар
+ПО СЛОВАРЮ
+
+
+1-я порода (соотношение типовых a—i)
+
+Перфект
+waqafa	waqafā	waqafū
+waqafat	waqafatā	waqafna
+waqafta	waqaftumā	waqaftum
+waqafti	waqaftumā	waqaftunna
+waqaftu	waqafnā	waqafnā
+
+Юссив
+yaqif	yaqifā	yaqifū
+taqif	taqifā	yaqifna
+taqif	taqifā	taqifū
+taqifī	taqifā	taqifna
+ˀaqif	naqif	naqif
+
+Имперфект
+yaqifu	yaqifāni	yaqifūna
+taqifu	taqifāni	yaqifna
+taqifu	taqifāni	taqifūna
+taqifīna	taqifāni	taqifna
+ˀaqifu	naqifu	naqifu
+
+Субъюнктив
+yaqifa	yaqifā	yaqifū
+taqifa	taqifā	yaqifna
+taqifa	taqifā	taqifū
+taqifī	taqifā	taqifna
+ˀaqifa	naqifa	naqifa
+
+Императив
+iwqif	iwqifā	iwqifū
+iwqifī	iwqifā	iwqifna
+
+Активное причастие
+wāqif
+
+Пассивное причастие
+mawqūf
+
+Масдар
+ПО СЛОВАРЮ
+
+
+1-я порода (соотношение типовых a—u)
+
+Перфект
+waqafa	waqafā	waqafū
+waqafat	waqafatā	waqafna
+waqafta	waqaftumā	waqaftum
+waqafti	waqaftumā	waqaftunna
+waqaftu	waqafnā	waqafnā
+
+Юссив
+yaquf	yaqufā	yaqufū
+taquf	taqufā	yaqufna
+taquf	taqufā	taqufū
+taqufī	taqufā	taqufna
+ˀaquf	naquf	naquf
+
+Имперфект
+yaqufu	yaqufāni	yaqufūna
+taqufu	taqufāni	yaqufna
+taqufu	taqufāni	taqufūna
+taqufīna	taqufāni	taqufna
+ˀaqufu	naqufu	naqufu
+
+Субъюнктив
+yaqufa	yaqufā	yaqufū
+taqufa	taqufā	yaqufna
+taqufa	taqufā	taqufū
+taqufī	taqufā	taqufna
+ˀaqufa	naqufa	naqufa
+
+Императив
+uwquf	uwqufā	uwqufū
+uwqufī	uwqufā	uwqufna
+
+Активное причастие
+wāqif
+
+Пассивное причастие
+mawqūf
+
+Масдар
+ПО СЛОВАРЮ
+
+
+1-я порода (соотношение типовых i—a)
+
+Перфект
+waqifa	waqifā	waqifū
+waqifat	waqifatā	waqifna
+waqifta	waqiftumā	waqiftum
+waqifti	waqiftumā	waqiftunna
+waqiftu	waqifnā	waqifnā
+
+Юссив
+yaqaf	yaqafā	yaqafū
+taqaf	taqafā	yaqafna
+taqaf	taqafā	taqafū
+taqafī	taqafā	taqafna
+ˀaqaf	naqaf	naqaf
+
+Имперфект
+yaqafu	yaqafāni	yaqafūna
+taqafu	taqafāni	yaqafna
+taqafu	taqafāni	taqafūna
+taqafīna	taqafāni	taqafna
+ˀaqafu	naqafu	naqafu
+
+Субъюнктив
+yaqafa	yaqafā	yaqafū
+taqafa	taqafā	yaqafna
+taqafa	taqafā	taqafū
+taqafī	taqafā	taqafna
+ˀaqafa	naqafa	naqafa
+
+Императив
+iwqaf	iwqafā	iwqafū
+iwqafī	iwqafā	iwqafna
+
+Активное причастие
+wāqif
+
+Пассивное причастие
+mawqūf
+
+Масдар
+ПО СЛОВАРЮ
+
+
+1-я порода (соотношение типовых u—u)
+
+Перфект
+waqufa	waqufā	waqufū
+waqufat	waqufatā	waqufna
+waqufta	waquftumā	waquftum
+waqufti	waquftumā	waquftunna
+waquftu	waqufnā	waqufnā
+
+Юссив
+yaquf	yaqufā	yaqufū
+taquf	taqufā	yaqufna
+taquf	taqufā	taqufū
+taqufī	taqufā	taqufna
+ˀaquf	naquf	naquf
+
+Имперфект
+yaqufu	yaqufāni	yaqufūna
+taqufu	taqufāni	yaqufna
+taqufu	taqufāni	taqufūna
+taqufīna	taqufāni	taqufna
+ˀaqufu	naqufu	naqufu
+
+Субъюнктив
+yaqufa	yaqufā	yaqufū
+taqufa	taqufā	yaqufna
+taqufa	taqufā	taqufū
+taqufī	taqufā	taqufna
+ˀaqufa	naqufa	naqufa
+
+Императив
+uwquf	uwqufā	uwqufū
+uwqufī	uwqufā	uwqufna
+
+Активное причастие
+wāqif
+
+Пассивное причастие
+mawqūf
+
+Масдар
+ПО СЛОВАРЮ
+
+
+2-я порода
+
+Перфект
+waqqafa	waqqafā	waqqafū
+waqqafat	waqqafatā	waqqafna
+waqqafta	waqqaftumā	waqqaftum
+waqqafti	waqqaftumā	waqqaftunna
+waqqaftu	waqqafnā	waqqafnā
+
+Юссив
+yuwaqqif	yuwaqqifā	yuwaqqifū
+tuwaqqif	tuwaqqifā	yuwaqqifna
+tuwaqqif	tuwaqqifā	tuwaqqifū
+tuwaqqifī	tuwaqqifā	tuwaqqifna
+ˀuwaqqif	nuwaqqif	nuwaqqif
+
+Имперфект
+yuwaqqifu	yuwaqqifāni	yuwaqqifūna
+tuwaqqifu	tuwaqqifāni	yuwaqqifna
+tuwaqqifu	tuwaqqifāni	tuwaqqifūna
+tuwaqqifīna	tuwaqqifāni	tuwaqqifna
+ˀuwaqqifu	nuwaqqifu	nuwaqqifu
+
+Субъюнктив
+yuwaqqifa	yuwaqqifā	yuwaqqifū
+tuwaqqifa	tuwaqqifā	yuwaqqifna
+tuwaqqifa	tuwaqqifā	tuwaqqifū
+tuwaqqifī	tuwaqqifā	tuwaqqifna
+ˀuwaqqifa	nuwaqqifa	nuwaqqifa
+
+Императив
+waqqif	waqqifā	waqqifū
+waqqifī	waqqifā	waqqifna
+
+Активное причастие
+muwaqqif
+
+Пассивное причастие
+muwaqqaf
+
+Масдар
+tawqīf
+
+
+3-я порода
+
+Перфект
+wāqafa	wāqafā	wāqafū
+wāqafat	wāqafatā	wāqafna
+wāqafta	wāqaftumā	wāqaftum
+wāqafti	wāqaftumā	wāqaftunna
+wāqaftu	wāqafnā	wāqafnā
+
+Юссив
+yuwāqif	yuwāqifā	yuwāqifū
+tuwāqif	tuwāqifā	yuwāqifna
+tuwāqif	tuwāqifā	tuwāqifū
+tuwāqifī	tuwāqifā	tuwāqifna
+ˀuwāqif	nuwāqif	nuwāqif
+
+Имперфект
+yuwāqifu	yuwāqifāni	yuwāqifūna
+tuwāqifu	tuwāqifāni	yuwāqifna
+tuwāqifu	tuwāqifāni	tuwāqifūna
+tuwāqifīna	tuwāqifāni	tuwāqifna
+ˀuwāqifu	nuwāqifu	nuwāqifu
+
+Субъюнктив
+yuwāqifa	yuwāqifā	yuwāqifū
+tuwāqifa	tuwāqifā	yuwāqifna
+tuwāqifa	tuwāqifā	tuwāqifū
+tuwāqifī	tuwāqifā	tuwāqifna
+ˀuwāqifa	nuwāqifa	nuwāqifa
+
+Императив
+wāqif	wāqifā	wāqifū
+wāqifī	wāqifā	wāqifna
+
+Активное причастие
+muwāqif
+
+Пассивное причастие
+muwāqaf
+
+Масдар
+wiqāf / muwāqafat
+
+
+4-я порода
+
+Перфект
+ˀawqafa	ˀawqafā	ˀawqafū
+ˀawqafat	ˀawqafatā	ˀawqafna
+ˀawqafta	ˀawqaftumā	ˀawqaftum
+ˀawqafti	ˀawqaftumā	ˀawqaftunna
+ˀawqaftu	ˀawqafnā	ˀawqafnā
+
+Юссив
+yuwqif	yuwqifā	yuwqifū
+tuwqif	tuwqifā	yuwqifna
+tuwqif	tuwqifā	tuwqifū
+tuwqifī	tuwqifā	tuwqifna
+ˀuwqif	nuwqif	nuwqif
+
+Имперфект
+yuwqifu	yuwqifāni	yuwqifūna
+tuwqifu	tuwqifāni	yuwqifna
+tuwqifu	tuwqifāni	tuwqifūna
+tuwqifīna	tuwqifāni	tuwqifna
+ˀuwqifu	nuwqifu	nuwqifu
+
+Субъюнктив
+yuwqifa	yuwqifā	yuwqifū
+tuwqifa	tuwqifā	yuwqifna
+tuwqifa	tuwqifā	tuwqifū
+tuwqifī	tuwqifā	tuwqifna
+ˀuwqifa	nuwqifa	nuwqifa
+
+Императив
+ˀawqif	ˀawqifā	ˀawqifū
+ˀawqifī	ˀawqifā	ˀawqifna
+
+Активное причастие
+muwqif
+
+Пассивное причастие
+muwqal
+
+Масдар
+ˀiwqāf
+
+
+5-я порода
+
+Перфект
+tawaqqafa	tawaqqafā	tawaqqafū
+tawaqqafat	tawaqqafatā	tawaqqafna
+tawaqqafta	tawaqqaftumā	tawaqqaftum
+tawaqqafti	tawaqqaftumā	tawaqqaftunna
+tawaqqaftu	tawaqqafnā	tawaqqafnā
+
+Юссив
+yatawaqqaf	yatawaqqafā	yatawaqqafū
+tatawaqqaf	tatawaqqafā	yatawaqqafna
+tatawaqqaf	tatawaqqafā	tatawaqqafū
+tatawaqqafī	tatawaqqafā	tatawaqqafna
+ˀatawaqqaf	natawaqqaf	natawaqqaf
+
+Имперфект
+yatawaqqafu	yatawaqqafāni	yatawaqqafūna
+tatawaqqafu	tatawaqqafāni	yatawaqqafna
+tatawaqqafu	tatawaqqafāni	tatawaqqafūna
+tatawaqqafīna	tatawaqqafāni	tatawaqqafna
+ˀatawaqqafu	natawaqqafu	natawaqqafu
+
+Субъюнктив
+yatawaqqafa	yatawaqqafā	yatawaqqafū
+tatawaqqafa	tatawaqqafā	yatawaqqafna
+tatawaqqafa	tatawaqqafā	tatawaqqafū
+tatawaqqafī	tatawaqqafā	tatawaqqafna
+ˀatawaqqafa	natawaqqafa	natawaqqafa
+
+Императив
+tawaqqaf	tawaqqafā	tawaqqafū
+tawaqqafī	tawaqqafā	tawaqqafna
+
+Активное причастие
+mutawaqqif
+
+Пассивное причастие
+mutawaqqaf
+
+Масдар
+tawaqquf
+
+
+6-я порода
+
+Перфект
+tawāqafa	tawāqafā	tawāqafū
+tawāqafat	tawāqafatā	tawāqafna
+tawāqafta	tawāqaftumā	tawāqaftum
+tawāqafti	tawāqaftumā	tawāqaftunna
+tawāqaftu	tawāqafnā	tawāqafnā
+
+Юссив
+yatawāqaf	yatawāqafā	yatawāqafū
+tatawāqaf	tatawāqafā	yatawāqafna
+tatawāqaf	tatawāqafā	tatawāqafū
+tatawāqafī	tatawāqafā	tatawāqafna
+ˀatawāqaf	natawāqaf	natawāqaf
+
+Имперфект
+yatawāqafu	yatawāqafāni	yatawāqafūna
+tatawāqafu	tatawāqafāni	yatawāqafna
+tatawāqafu	tatawāqafāni	tatawāqafūna
+tatawāqafīna	tatawāqafāni	tatawāqafna
+ˀatawāqafu	natawāqafu	natawāqafu
+
+Субъюнктив
+yatawāqafa	yatawāqafā	yatawāqafū
+tatawāqafa	tatawāqafā	yatawāqafna
+tatawāqafa	tatawāqafā	tatawāqafū
+tatawāqafī	tatawāqafā	tatawāqafna
+ˀatawāqafa	natawāqafa	natawāqafa
+
+Императив
+tawāqaf	tawāqafā	tawāqafū
+tawāqafī	tawāqafā	tawāqafna
+
+Активное причастие
+mutawāqif
+
+Пассивное причастие
+mutawāqaf
+
+Масдар
+tawāquf
+
+
+7-я порода
+
+Перфект
+inwaqafa	inwaqafā	inwaqafū
+inwaqafat	inwaqafatā	inwaqafna
+inwaqafta	inwaqaftumā	inwaqaftum
+inwaqafti	inwaqaftumā	inwaqaftunna
+inwaqaftu	inwaqafnā	inwaqafnā
+
+Юссив
+yanwaqif	yanwaqifā	yanwaqifū
+tanwaqif	tanwaqifā	yanwaqifna
+tanwaqif	tanwaqifā	tanwaqifū
+tanwaqifī	tanwaqifā	tanwaqifna
+ˀanwaqif	nanwaqif	nanwaqif
+
+Имперфект
+yanwaqifu	yanwaqifāni	yanwaqifūna
+tanwaqifu	tanwaqifāni	yanwaqifna
+tanwaqifu	tanwaqifāni	tanwaqifūna
+tanwaqifīna	tanwaqifāni	tanwaqifna
+ˀanwaqifu	nanwaqifu	nanwaqifu
+
+Субъюнктив
+yanwaqifa	yanwaqifā	yanwaqifū
+tanwaqifa	tanwaqifā	yanwaqifna
+tanwaqifa	tanwaqifā	tanwaqifū
+tanwaqifī	tanwaqifā	tanwaqifna
+ˀanwaqifa	nanwaqifa	nanwaqifa
+
+Императив
+inwaqif	inwaqifā	inwaqifū
+inwaqifī	inwaqifā	inwaqifna
+
+Активное причастие
+munwaqif
+
+Пассивное причастие
+munwaqaf
+
+Масдар
+inwiqāf
+
+
+8-я порода
+
+Перфект
+ittaqafa	ittaqafā	ittaqafū
+ittaqafat	ittaqafatā	ittaqafna
+ittaqafta	ittaqaftumā	ittaqaftum
+ittaqafti	ittaqaftumā	ittaqaftunna
+ittaqaftu	ittaqafnā	ittaqafnā
+
+Юссив
+yawtaqif	yawtaqifā	yawtaqifū
+tawtaqif	tawtaqifā	yawtaqifna
+tawtaqif	tawtaqifā	tawtaqifū
+tawtaqifī	tawtaqifā	tawtaqifna
+ˀawtaqif	nawtaqif	nawtaqif
+
+Имперфект
+yawtaqifu	yawtaqifāni	yawtaqifūna
+tawtaqifu	tawtaqifāni	yawtaqifna
+tawtaqifu	tawtaqifāni	tawtaqifūna
+tawtaqifīna	tawtaqifāni	tawtaqifna
+ˀawtaqifu	nawtaqifu	nawtaqifu
+
+Субъюнктив
+yawtaqifa	yawtaqifā	yawtaqifū
+tawtaqifa	tawtaqifā	yawtaqifna
+tawtaqifa	tawtaqifā	tawtaqifū
+tawtaqifī	tawtaqifā	tawtaqifna
+ˀawtaqifa	nawtaqifa	nawtaqifa
+
+Императив
+ittaqif	ittaqifā	ittaqifū
+ittaqifī	ittaqifā	ittaqifna
+
+Активное причастие
+muwtaqif
+
+Пассивное причастие
+muwtaqaf
+
+Масдар
+iwtiqāf
+
+
+10-я порода
+
+Перфект
+istawqafa	istawqafā	istawqafū
+istawqafat	istawqafatā	istawqafna
+istawqafta	istawqaftumā	istawqaftum
+istawqafti	istawqaftumā	istawqaftunna
+istawqaftu	istawqafnā	istawqafnā
+
+Юссив
+yastawqif	yastawqifā	yastawqifū
+tastawqif	tastawqifā	yastawqifna
+tastawqif	tastawqifā	tastawqifū
+tastawqifī	tastawqifā	tastawqifna
+ˀastawqif	nastawqif	nastawqif
+
+Имперфект
+yastawqifu	yastawqifāni	yastawqifūna
+tastawqifu	tastawqifāni	yastawqifna
+tastawqifu	tastawqifāni	tastawqifūna
+tastawqifīna	tastawqifāni	tastawqifna
+ˀastawqifu	nastawqifu	nastawqifu
+
+Субъюнктив
+yastawqifa	yastawqifā	yastawqifū
+tastawqifa	tastawqifā	yastawqifna
+tastawqifa	tastawqifā	tastawqifū
+tastawqifī	tastawqifā	tastawqifna
+ˀastawqifa	nastawqifa	nastawqifa
+
+Императив
+istawqif	istawqifā	istawqifū
+istawqifī	istawqifā	istawqifna
+
+Активное причастие
+mustawqif
+
+Пассивное причастие
+mustawqaf
+
+Масдар
+ˀistiwqāf
