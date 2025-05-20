@@ -5,47 +5,47 @@
 
 perf
 
-waqafa	waqafā	waqafū
-waqafat	waqafatā	waqafna
-waqafta	waqaftumā	waqaftum
-waqafti	waqaftumā	waqaftunna
-waqaftu	waqafnā	waqafnā
+farala	faralā	faralū
+faralat	faralatā	faralna
+faralta	faraltumā	faraltum
+faralti	faraltumā	faraltunna
+faraltu	faralnā	faralnā
 
 juss
 
-yaqaf	yaqafā	yaqafū
-taqaf	taqafā	yaqafna
-taqaf	taqafā	taqafū
-taqafī	taqafā	taqafna
-ˀaqaf	naqaf	naqaf
+yafral	yafralā	yafralū
+tafral	tafralā	yafralna
+tafral	tafralā	tafralū
+tafralī	tafralā	tafralna
+ˀafral	nafral	nafral
 
 impf
 
-yaqafu	yaqafāni	yaqafūna
-taqafu	taqafāni	yaqafna
-taqafu	taqafāni	taqafūna
-taqafīna	taqafāni	taqafna
-ˀaqafu	naqafu	naqafu
+yafralu	yafralāni	yafralūna
+tafralu	tafralāni	yafralna
+tafralu	tafralāni	tafralūna
+tafralīna	tafralāni	tafralna
+ˀafralu	nafralu	nafralu
 
 subj
 
-yaqafa	yaqafā	yaqafū
-taqafa	taqafā	yaqafna
-taqafa	taqafā	taqafū
-taqafī	taqafā	taqafna
-ˀaqafa	naqafa	naqafa
+yafrala	yafralā	yafralū
+tafrala	tafralā	yafralna
+tafrala	tafralā	tafralū
+tafralī	tafralā	tafralna
+ˀafrala	nafrala	nafrala
 
 impv
 
-iwqaf	iwqafā	iwqafū
-iwqafī	iwqafā	iwqafna
+ifral	ifralā	ifralū
+ifralī	ifralā	ifralna
 
 actp
 
-wāqif	
+fāril	
 pasp
 
-maqūf	
+mafrūl	
 masd
 
 DICTIONARY FORM
@@ -56,47 +56,47 @@ DICTIONARY FORM
 
 perf
 
-waqafa	waqafā	waqafū
-waqafat	waqafatā	waqafna
-waqafta	waqaftumā	waqaftum
-waqafti	waqaftumā	waqaftunna
-waqaftu	waqafnā	waqafnā
+farala	faralā	faralū
+faralat	faralatā	faralna
+faralta	faraltumā	faraltum
+faralti	faraltumā	faraltunna
+faraltu	faralnā	faralnā
 
 juss
 
-yaqif	yaqifā	yaqifū
-taqif	taqifā	yaqifna
-taqif	taqifā	taqifū
-taqifī	taqifā	taqifna
-ˀaqif	naqif	naqif
+yafril	yafrilā	yafrilū
+tafril	tafrilā	yafrilna
+tafril	tafrilā	tafrilū
+tafrilī	tafrilā	tafrilna
+ˀafril	nafril	nafril
 
 impf
 
-yaqifu	yaqifāni	yaqifūna
-taqifu	taqifāni	yaqifna
-taqifu	taqifāni	taqifūna
-taqifīna	taqifāni	taqifna
-ˀaqifu	naqifu	naqifu
+yafrilu	yafrilāni	yafrilūna
+tafrilu	tafrilāni	yafrilna
+tafrilu	tafrilāni	tafrilūna
+tafrilīna	tafrilāni	tafrilna
+ˀafrilu	nafrilu	nafrilu
 
 subj
 
-yaqifa	yaqifā	yaqifū
-taqifa	taqifā	yaqifna
-taqifa	taqifā	taqifū
-taqifī	taqifā	taqifna
-ˀaqifa	naqifa	naqifa
+yafrila	yafrilā	yafrilū
+tafrila	tafrilā	yafrilna
+tafrila	tafrilā	tafrilū
+tafrilī	tafrilā	tafrilna
+ˀafrila	nafrila	nafrila
 
 impv
 
-iwqif	iwqifā	iwqifū
-iwqifī	iwqifā	iwqifna
+ifril	ifrilā	ifrilū
+ifrilī	ifrilā	ifrilna
 
 actp
 
-wāqif	
+fāril	
 pasp
 
-maqūf	
+mafrūl	
 masd
 
 DICTIONARY FORM
@@ -107,47 +107,47 @@ DICTIONARY FORM
 
 perf
 
-waqafa	waqafā	waqafū
-waqafat	waqafatā	waqafna
-waqafta	waqaftumā	waqaftum
-waqafti	waqaftumā	waqaftunna
-waqaftu	waqafnā	waqafnā
+farala	faralā	faralū
+faralat	faralatā	faralna
+faralta	faraltumā	faraltum
+faralti	faraltumā	faraltunna
+faraltu	faralnā	faralnā
 
 juss
 
-yaquf	yaqufā	yaqufū
-taquf	taqufā	yaqufna
-taquf	taqufā	taqufū
-taqufī	taqufā	taqufna
-ˀaquf	naquf	naquf
+yafrul	yafrulā	yafrulū
+tafrul	tafrulā	yafrulna
+tafrul	tafrulā	tafrulū
+tafrulī	tafrulā	tafrulna
+ˀafrul	nafrul	nafrul
 
 impf
 
-yaqufu	yaqufāni	yaqufūna
-taqufu	taqufāni	yaqufna
-taqufu	taqufāni	taqufūna
-taqufīna	taqufāni	taqufna
-ˀaqufu	naqufu	naqufu
+yafrulu	yafrulāni	yafrulūna
+tafrulu	tafrulāni	yafrulna
+tafrulu	tafrulāni	tafrulūna
+tafrulīna	tafrulāni	tafrulna
+ˀafrulu	nafrulu	nafrulu
 
 subj
 
-yaqufa	yaqufā	yaqufū
-taqufa	taqufā	yaqufna
-taqufa	taqufā	taqufū
-taqufī	taqufā	taqufna
-ˀaqufa	naqufa	naqufa
+yafrula	yafrulā	yafrulū
+tafrula	tafrulā	yafrulna
+tafrula	tafrulā	tafrulū
+tafrulī	tafrulā	tafrulna
+ˀafrula	nafrula	nafrula
 
 impv
 
-uwquf	uwqufā	uwqufū
-uwqufī	uwqufā	uwqufna
+ufrul	ufrulā	ufrulū
+ufrulī	ufrulā	ufrulna
 
 actp
 
-wāqif	
+fāril	
 pasp
 
-maqūf	
+mafrūl	
 masd
 
 DICTIONARY FORM
@@ -158,47 +158,47 @@ DICTIONARY FORM
 
 perf
 
-waqifa	waqifā	waqifū
-waqifat	waqifatā	waqifna
-waqifta	waqiftumā	waqiftum
-waqifti	waqiftumā	waqiftunna
-waqiftu	waqifnā	waqifnā
+farila	farilā	farilū
+farilat	farilatā	farilna
+farilta	fariltumā	fariltum
+farilti	fariltumā	fariltunna
+fariltu	farilnā	farilnā
 
 juss
 
-yaqaf	yaqafā	yaqafū
-taqaf	taqafā	yaqafna
-taqaf	taqafā	taqafū
-taqafī	taqafā	taqafna
-ˀaqaf	naqaf	naqaf
+yafral	yafralā	yafralū
+tafral	tafralā	yafralna
+tafral	tafralā	tafralū
+tafralī	tafralā	tafralna
+ˀafral	nafral	nafral
 
 impf
 
-yaqafu	yaqafāni	yaqafūna
-taqafu	taqafāni	yaqafna
-taqafu	taqafāni	taqafūna
-taqafīna	taqafāni	taqafna
-ˀaqafu	naqafu	naqafu
+yafralu	yafralāni	yafralūna
+tafralu	tafralāni	yafralna
+tafralu	tafralāni	tafralūna
+tafralīna	tafralāni	tafralna
+ˀafralu	nafralu	nafralu
 
 subj
 
-yaqafa	yaqafā	yaqafū
-taqafa	taqafā	yaqafna
-taqafa	taqafā	taqafū
-taqafī	taqafā	taqafna
-ˀaqafa	naqafa	naqafa
+yafrala	yafralā	yafralū
+tafrala	tafralā	yafralna
+tafrala	tafralā	tafralū
+tafralī	tafralā	tafralna
+ˀafrala	nafrala	nafrala
 
 impv
 
-iwqaf	iwqafā	iwqafū
-iwqafī	iwqafā	iwqafna
+ifral	ifralā	ifralū
+ifralī	ifralā	ifralna
 
 actp
 
-wāqif	
+fāril	
 pasp
 
-maqūf	
+mafrūl	
 masd
 
 DICTIONARY FORM
@@ -209,47 +209,47 @@ DICTIONARY FORM
 
 perf
 
-waqufa	waqufā	waqufū
-waqufat	waqufatā	waqufna
-waqufta	waquftumā	waquftum
-waqufti	waquftumā	waquftunna
-waquftu	waqufnā	waqufnā
+farula	farulā	farulū
+farulat	farulatā	farulna
+farulta	farultumā	farultum
+farulti	farultumā	farultunna
+farultu	farulnā	farulnā
 
 juss
 
-yaquf	yaqufā	yaqufū
-taquf	taqufā	yaqufna
-taquf	taqufā	taqufū
-taqufī	taqufā	taqufna
-ˀaquf	naquf	naquf
+yafrul	yafrulā	yafrulū
+tafrul	tafrulā	yafrulna
+tafrul	tafrulā	tafrulū
+tafrulī	tafrulā	tafrulna
+ˀafrul	nafrul	nafrul
 
 impf
 
-yaqufu	yaqufāni	yaqufūna
-taqufu	taqufāni	yaqufna
-taqufu	taqufāni	taqufūna
-taqufīna	taqufāni	taqufna
-ˀaqufu	naqufu	naqufu
+yafrulu	yafrulāni	yafrulūna
+tafrulu	tafrulāni	yafrulna
+tafrulu	tafrulāni	tafrulūna
+tafrulīna	tafrulāni	tafrulna
+ˀafrulu	nafrulu	nafrulu
 
 subj
 
-yaqufa	yaqufā	yaqufū
-taqufa	taqufā	yaqufna
-taqufa	taqufā	taqufū
-taqufī	taqufā	taqufna
-ˀaqufa	naqufa	naqufa
+yafrula	yafrulā	yafrulū
+tafrula	tafrulā	yafrulna
+tafrula	tafrulā	tafrulū
+tafrulī	tafrulā	tafrulna
+ˀafrula	nafrula	nafrula
 
 impv
 
-uwquf	uwqufā	uwqufū
-uwqufī	uwqufā	uwqufna
+ufrul	ufrulā	ufrulū
+ufrulī	ufrulā	ufrulna
 
 actp
 
-wāqif	
+fāril	
 pasp
 
-maqūf	
+mafrūl	
 masd
 
 DICTIONARY FORM
@@ -260,50 +260,50 @@ DICTIONARY FORM
 
 perf
 
-waqqafa	waqqafā	waqqafū
-waqqafat	waqqafatā	waqqafna
-waqqafta	waqqaftumā	waqqaftum
-waqqafti	waqqaftumā	waqqaftunna
-waqqaftu	waqqafnā	waqqafnā
+farrala	farralā	farralū
+farralat	farralatā	farralna
+farralta	farraltumā	farraltum
+farralti	farraltumā	farraltunna
+farraltu	farralnā	farralnā
 
 juss
 
-yuwaqqif	yuwaqqifā	yuwaqqifū
-tuwaqqif	tuwaqqifā	yuwaqqifna
-tuwaqqif	tuwaqqifā	tuwaqqifū
-tuwaqqifī	tuwaqqifā	tuwaqqifna
-ˀuwaqqif	nuwaqqif	nuwaqqif
+yufarril	yufarrilā	yufarrilū
+tufarril	tufarrilā	yufarrilna
+tufarril	tufarrilā	tufarrilū
+tufarrilī	tufarrilā	tufarrilna
+ˀufarril	nufarril	nufarril
 
 impf
 
-yuwaqqifu	yuwaqqifāni	yuwaqqifūna
-tuwaqqifu	tuwaqqifāni	yuwaqqifna
-tuwaqqifu	tuwaqqifāni	tuwaqqifūna
-tuwaqqifīna	tuwaqqifāni	tuwaqqifna
-ˀuwaqqifu	nuwaqqifu	nuwaqqifu
+yufarrilu	yufarrilāni	yufarrilūna
+tufarrilu	tufarrilāni	yufarrilna
+tufarrilu	tufarrilāni	tufarrilūna
+tufarrilīna	tufarrilāni	tufarrilna
+ˀufarrilu	nufarrilu	nufarrilu
 
 subj
 
-yuwaqqifa	yuwaqqifā	yuwaqqifū
-tuwaqqifa	tuwaqqifā	yuwaqqifna
-tuwaqqifa	tuwaqqifā	tuwaqqifū
-tuwaqqifī	tuwaqqifā	tuwaqqifna
-ˀuwaqqifa	nuwaqqifa	nuwaqqifa
+yufarrila	yufarrilā	yufarrilū
+tufarrila	tufarrilā	yufarrilna
+tufarrila	tufarrilā	tufarrilū
+tufarrilī	tufarrilā	tufarrilna
+ˀufarrila	nufarrila	nufarrila
 
 impv
 
-waqqif	waqqifā	waqqifū
-waqqifī	waqqifā	waqqifna
+farril	farrilā	farrilū
+farrilī	farrilā	farrilna
 
 actp
 
-muwaqqif	
+mufarril	
 pasp
 
-muwaqqaf	
+mufarral	
 masd
 
-tawqīf
+tafrīl
 
 
 3
@@ -311,50 +311,50 @@ tawqīf
 
 perf
 
-wāqafa	wāqafā	wāqafū
-wāqafat	wāqafatā	wāqafna
-wāqafta	wāqaftumā	wāqaftum
-wāqafti	wāqaftumā	wāqaftunna
-wāqaftu	wāqafnā	wāqafnā
+fārala	fāralā	fāralū
+fāralat	fāralatā	fāralna
+fāralta	fāraltumā	fāraltum
+fāralti	fāraltumā	fāraltunna
+fāraltu	fāralnā	fāralnā
 
 juss
 
-yuwāqif	yuwāqifā	yuwāqifū
-tuwāqif	tuwāqifā	yuwāqifna
-tuwāqif	tuwāqifā	tuwāqifū
-tuwāqifī	tuwāqifā	tuwāqifna
-ˀuwāqif	nuwāqif	nuwāqif
+yufāril	yufārilā	yufārilū
+tufāril	tufārilā	yufārilna
+tufāril	tufārilā	tufārilū
+tufārilī	tufārilā	tufārilna
+ˀufāril	nufāril	nufāril
 
 impf
 
-yuwāqifu	yuwāqifāni	yuwāqifūna
-tuwāqifu	tuwāqifāni	yuwāqifna
-tuwāqifu	tuwāqifāni	tuwāqifūna
-tuwāqifīna	tuwāqifāni	tuwāqifna
-ˀuwāqifu	nuwāqifu	nuwāqifu
+yufārilu	yufārilāni	yufārilūna
+tufārilu	tufārilāni	yufārilna
+tufārilu	tufārilāni	tufārilūna
+tufārilīna	tufārilāni	tufārilna
+ˀufārilu	nufārilu	nufārilu
 
 subj
 
-yuwāqifa	yuwāqifā	yuwāqifū
-tuwāqifa	tuwāqifā	yuwāqifna
-tuwāqifa	tuwāqifā	tuwāqifū
-tuwāqifī	tuwāqifā	tuwāqifna
-ˀuwāqifa	nuwāqifa	nuwāqifa
+yufārila	yufārilā	yufārilū
+tufārila	tufārilā	yufārilna
+tufārila	tufārilā	tufārilū
+tufārilī	tufārilā	tufārilna
+ˀufārila	nufārila	nufārila
 
 impv
 
-wāqif	wāqifā	wāqifū
-wāqifī	wāqifā	wāqifna
+fāril	fārilā	fārilū
+fārilī	fārilā	fārilna
 
 actp
 
-muwāqif	
+mufāril	
 pasp
 
-muwāqaf	
+mufāral	
 masd
 
-wiqāf / muwāqafat
+firāl / mufāralat
 
 
 4
@@ -362,50 +362,50 @@ wiqāf / muwāqafat
 
 perf
 
-ˀawqafa	ˀawqafā	ˀawqafū
-ˀawqafat	ˀawqafatā	ˀawqafna
-ˀawqafta	ˀawqaftumā	ˀawqaftum
-ˀawqafti	ˀawqaftumā	ˀawqaftunna
-ˀawqaftu	ˀawqafnā	ˀawqafnā
+ˀafrala	ˀafralā	ˀafralū
+ˀafralat	ˀafralatā	ˀafralna
+ˀafralta	ˀafraltumā	ˀafraltum
+ˀafralti	ˀafraltumā	ˀafraltunna
+ˀafraltu	ˀafralnā	ˀafralnā
 
 juss
 
-yuwqif	yuwqifā	yuwqifū
-tuwqif	tuwqifā	yuwqifna
-tuwqif	tuwqifā	tuwqifū
-tuwqifī	tuwqifā	tuwqifna
-ˀuwqif	nuwqif	nuwqif
+yufril	yufrilā	yufrilū
+tufril	tufrilā	yufrilna
+tufril	tufrilā	tufrilū
+tufrilī	tufrilā	tufrilna
+ˀufril	nufril	nufril
 
 impf
 
-yuwqifu	yuwqifāni	yuwqifūna
-tuwqifu	tuwqifāni	yuwqifna
-tuwqifu	tuwqifāni	tuwqifūna
-tuwqifīna	tuwqifāni	tuwqifna
-ˀuwqifu	nuwqifu	nuwqifu
+yufrilu	yufrilāni	yufrilūna
+tufrilu	tufrilāni	yufrilna
+tufrilu	tufrilāni	tufrilūna
+tufrilīna	tufrilāni	tufrilna
+ˀufrilu	nufrilu	nufrilu
 
 subj
 
-yuwqifa	yuwqifā	yuwqifū
-tuwqifa	tuwqifā	yuwqifna
-tuwqifa	tuwqifā	tuwqifū
-tuwqifī	tuwqifā	tuwqifna
-ˀuwqifa	nuwqifa	nuwqifa
+yufrila	yufrilā	yufrilū
+tufrila	tufrilā	yufrilna
+tufrila	tufrilā	tufrilū
+tufrilī	tufrilā	tufrilna
+ˀufrila	nufrila	nufrila
 
 impv
 
-ˀawqif	ˀawqifā	ˀawqifū
-ˀawqifī	ˀawqifā	ˀawqifna
+ˀafril	ˀafrilā	ˀafrilū
+ˀafrilī	ˀafrilā	ˀafrilna
 
 actp
 
-muwqif	
+mufril	
 pasp
 
-muwqal	
+mufral	
 masd
 
-ˀiwqāf
+ˀifrāl
 
 
 5
@@ -413,50 +413,50 @@ masd
 
 perf
 
-tawaqqafa	tawaqqafā	tawaqqafū
-tawaqqafat	tawaqqafatā	tawaqqafna
-tawaqqafta	tawaqqaftumā	tawaqqaftum
-tawaqqafti	tawaqqaftumā	tawaqqaftunna
-tawaqqaftu	tawaqqafnā	tawaqqafnā
+tafarrala	tafarralā	tafarralū
+tafarralat	tafarralatā	tafarralna
+tafarralta	tafarraltumā	tafarraltum
+tafarralti	tafarraltumā	tafarraltunna
+tafarraltu	tafarralnā	tafarralnā
 
 juss
 
-yatawaqqaf	yatawaqqafā	yatawaqqafū
-tatawaqqaf	tatawaqqafā	yatawaqqafna
-tatawaqqaf	tatawaqqafā	tatawaqqafū
-tatawaqqafī	tatawaqqafā	tatawaqqafna
-ˀatawaqqaf	natawaqqaf	natawaqqaf
+yatafarral	yatafarralā	yatafarralū
+tatafarral	tatafarralā	yatafarralna
+tatafarral	tatafarralā	tatafarralū
+tatafarralī	tatafarralā	tatafarralna
+ˀatafarral	natafarral	natafarral
 
 impf
 
-yatawaqqafu	yatawaqqafāni	yatawaqqafūna
-tatawaqqafu	tatawaqqafāni	yatawaqqafna
-tatawaqqafu	tatawaqqafāni	tatawaqqafūna
-tatawaqqafīna	tatawaqqafāni	tatawaqqafna
-ˀatawaqqafu	natawaqqafu	natawaqqafu
+yatafarralu	yatafarralāni	yatafarralūna
+tatafarralu	tatafarralāni	yatafarralna
+tatafarralu	tatafarralāni	tatafarralūna
+tatafarralīna	tatafarralāni	tatafarralna
+ˀatafarralu	natafarralu	natafarralu
 
 subj
 
-yatawaqqafa	yatawaqqafā	yatawaqqafū
-tatawaqqafa	tatawaqqafā	yatawaqqafna
-tatawaqqafa	tatawaqqafā	tatawaqqafū
-tatawaqqafī	tatawaqqafā	tatawaqqafna
-ˀatawaqqafa	natawaqqafa	natawaqqafa
+yatafarrala	yatafarralā	yatafarralū
+tatafarrala	tatafarralā	yatafarralna
+tatafarrala	tatafarralā	tatafarralū
+tatafarralī	tatafarralā	tatafarralna
+ˀatafarrala	natafarrala	natafarrala
 
 impv
 
-tawaqqaf	tawaqqafā	tawaqqafū
-tawaqqafī	tawaqqafā	tawaqqafna
+tafarral	tafarralā	tafarralū
+tafarralī	tafarralā	tafarralna
 
 actp
 
-mutawaqqif	
+mutafarril	
 pasp
 
-mutawaqqaf	
+mutafarral	
 masd
 
-tawaqquf
+tafarrul
 
 
 6
@@ -464,50 +464,50 @@ tawaqquf
 
 perf
 
-tawāqafa	tawāqafā	tawāqafū
-tawāqafat	tawāqafatā	tawāqafna
-tawāqafta	tawāqaftumā	tawāqaftum
-tawāqafti	tawāqaftumā	tawāqaftunna
-tawāqaftu	tawāqafnā	tawāqafnā
+tafārala	tafāralā	tafāralū
+tafāralat	tafāralatā	tafāralna
+tafāralta	tafāraltumā	tafāraltum
+tafāralti	tafāraltumā	tafāraltunna
+tafāraltu	tafāralnā	tafāralnā
 
 juss
 
-yatawāqaf	yatawāqafā	yatawāqafū
-tatawāqaf	tatawāqafā	yatawāqafna
-tatawāqaf	tatawāqafā	tatawāqafū
-tatawāqafī	tatawāqafā	tatawāqafna
-ˀatawāqaf	natawāqaf	natawāqaf
+yatafāral	yatafāralā	yatafāralū
+tatafāral	tatafāralā	yatafāralna
+tatafāral	tatafāralā	tatafāralū
+tatafāralī	tatafāralā	tatafāralna
+ˀatafāral	natafāral	natafāral
 
 impf
 
-yatawāqafu	yatawāqafāni	yatawāqafūna
-tatawāqafu	tatawāqafāni	yatawāqafna
-tatawāqafu	tatawāqafāni	tatawāqafūna
-tatawāqafīna	tatawāqafāni	tatawāqafna
-ˀatawāqafu	natawāqafu	natawāqafu
+yatafāralu	yatafāralāni	yatafāralūna
+tatafāralu	tatafāralāni	yatafāralna
+tatafāralu	tatafāralāni	tatafāralūna
+tatafāralīna	tatafāralāni	tatafāralna
+ˀatafāralu	natafāralu	natafāralu
 
 subj
 
-yatawāqafa	yatawāqafā	yatawāqafū
-tatawāqafa	tatawāqafā	yatawāqafna
-tatawāqafa	tatawāqafā	tatawāqafū
-tatawāqafī	tatawāqafā	tatawāqafna
-ˀatawāqafa	natawāqafa	natawāqafa
+yatafārala	yatafāralā	yatafāralū
+tatafārala	tatafāralā	yatafāralna
+tatafārala	tatafāralā	tatafāralū
+tatafāralī	tatafāralā	tatafāralna
+ˀatafārala	natafārala	natafārala
 
 impv
 
-tawāqaf	tawāqafā	tawāqafū
-tawāqafī	tawāqafā	tawāqafna
+tafāral	tafāralā	tafāralū
+tafāralī	tafāralā	tafāralna
 
 actp
 
-mutawāqif	
+mutafāril	
 pasp
 
-mutawāqaf	
+mutafāral	
 masd
 
-tawāquf
+tafārul
 
 
 7
@@ -515,50 +515,50 @@ tawāquf
 
 perf
 
-inwaqafa	inwaqafā	inwaqafū
-inwaqafat	inwaqafatā	inwaqafna
-inwaqafta	inwaqaftumā	inwaqaftum
-inwaqafti	inwaqaftumā	inwaqaftunna
-inwaqaftu	inwaqafnā	inwaqafnā
+infarala	infaralā	infaralū
+infaralat	infaralatā	infaralna
+infaralta	infaraltumā	infaraltum
+infaralti	infaraltumā	infaraltunna
+infaraltu	infaralnā	infaralnā
 
 juss
 
-yanwaqif	yanwaqifā	yanwaqifū
-tanwaqif	tanwaqifā	yanwaqifna
-tanwaqif	tanwaqifā	tanwaqifū
-tanwaqifī	tanwaqifā	tanwaqifna
-ˀanwaqif	nanwaqif	nanwaqif
+yanfaril	yanfarilā	yanfarilū
+tanfaril	tanfarilā	yanfarilna
+tanfaril	tanfarilā	tanfarilū
+tanfarilī	tanfarilā	tanfarilna
+ˀanfaril	nanfaril	nanfaril
 
 impf
 
-yanwaqifu	yanwaqifāni	yanwaqifūna
-tanwaqifu	tanwaqifāni	yanwaqifna
-tanwaqifu	tanwaqifāni	tanwaqifūna
-tanwaqifīna	tanwaqifāni	tanwaqifna
-ˀanwaqifu	nanwaqifu	nanwaqifu
+yanfarilu	yanfarilāni	yanfarilūna
+tanfarilu	tanfarilāni	yanfarilna
+tanfarilu	tanfarilāni	tanfarilūna
+tanfarilīna	tanfarilāni	tanfarilna
+ˀanfarilu	nanfarilu	nanfarilu
 
 subj
 
-yanwaqifa	yanwaqifā	yanwaqifū
-tanwaqifa	tanwaqifā	yanwaqifna
-tanwaqifa	tanwaqifā	tanwaqifū
-tanwaqifī	tanwaqifā	tanwaqifna
-ˀanwaqifa	nanwaqifa	nanwaqifa
+yanfarila	yanfarilā	yanfarilū
+tanfarila	tanfarilā	yanfarilna
+tanfarila	tanfarilā	tanfarilū
+tanfarilī	tanfarilā	tanfarilna
+ˀanfarila	nanfarila	nanfarila
 
 impv
 
-inwaqif	inwaqifā	inwaqifū
-inwaqifī	inwaqifā	inwaqifna
+infaril	infarilā	infarilū
+infarilī	infarilā	infarilna
 
 actp
 
-munwaqif	
+munfaril	
 pasp
 
-munwaqaf	
+munfaral	
 masd
 
-inwiqāf
+infirāl
 
 
 8
@@ -566,50 +566,50 @@ inwiqāf
 
 perf
 
-ittaqafa	ittaqafā	ittaqafū
-ittaqafat	ittaqafatā	ittaqafna
-ittaqafta	ittaqaftumā	ittaqaftum
-ittaqafti	ittaqaftumā	ittaqaftunna
-ittaqaftu	ittaqafnā	ittaqafnā
+iftarala	iftaralā	iftaralū
+iftaralat	iftaralatā	iftaralna
+iftaralta	iftaraltumā	iftaraltum
+iftaralti	iftaraltumā	iftaraltunna
+iftaraltu	iftaralnā	iftaralnā
 
 juss
 
-yawtaqif	yawtaqifā	yawtaqifū
-tawtaqif	tawtaqifā	yawtaqifna
-tawtaqif	tawtaqifā	tawtaqifū
-tawtaqifī	tawtaqifā	tawtaqifna
-ˀawtaqif	nawtaqif	nawtaqif
+yaftaril	yaftarilā	yaftarilū
+taftaril	taftarilā	yaftarilna
+taftaril	taftarilā	taftarilū
+taftarilī	taftarilā	taftarilna
+ˀaftaril	naftaril	naftaril
 
 impf
 
-yawtaqifu	yawtaqifāni	yawtaqifūna
-tawtaqifu	tawtaqifāni	yawtaqifna
-tawtaqifu	tawtaqifāni	tawtaqifūna
-tawtaqifīna	tawtaqifāni	tawtaqifna
-ˀawtaqifu	nawtaqifu	nawtaqifu
+yaftarilu	yaftarilāni	yaftarilūna
+taftarilu	taftarilāni	yaftarilna
+taftarilu	taftarilāni	taftarilūna
+taftarilīna	taftarilāni	taftarilna
+ˀaftarilu	naftarilu	naftarilu
 
 subj
 
-yawtaqifa	yawtaqifā	yawtaqifū
-tawtaqifa	tawtaqifā	yawtaqifna
-tawtaqifa	tawtaqifā	tawtaqifū
-tawtaqifī	tawtaqifā	tawtaqifna
-ˀawtaqifa	nawtaqifa	nawtaqifa
+yaftarila	yaftarilā	yaftarilū
+taftarila	taftarilā	yaftarilna
+taftarila	taftarilā	taftarilū
+taftarilī	taftarilā	taftarilna
+ˀaftarila	naftarila	naftarila
 
 impv
 
-ittaqif	ittaqifā	ittaqifū
-ittaqifī	ittaqifā	ittaqifna
+iftaril	iftarilā	iftarilū
+iftarilī	iftarilā	iftarilna
 
 actp
 
-muwtaqif	
+muftaril	
 pasp
 
-muwtaqaf	
+muftaral	
 masd
 
-iwtiqāf
+iftirāl
 
 
 10
@@ -617,47 +617,47 @@ iwtiqāf
 
 perf
 
-istawqafa	istawqafā	istawqafū
-istawqafat	istawqafatā	istawqafna
-istawqafta	istawqaftumā	istawqaftum
-istawqafti	istawqaftumā	istawqaftunna
-istawqaftu	istawqafnā	istawqafnā
+istafrala	istafralā	istafralū
+istafralat	istafralatā	istafralna
+istafralta	istafraltumā	istafraltum
+istafralti	istafraltumā	istafraltunna
+istafraltu	istafralnā	istafralnā
 
 juss
 
-yastawqif	yastawqifā	yastawqifū
-tastawqif	tastawqifā	yastawqifna
-tastawqif	tastawqifā	tastawqifū
-tastawqifī	tastawqifā	tastawqifna
-ˀastawqif	nastawqif	nastawqif
+yastafril	yastafrilā	yastafrilū
+tastafril	tastafrilā	yastafrilna
+tastafril	tastafrilā	tastafrilū
+tastafrilī	tastafrilā	tastafrilna
+ˀastafril	nastafril	nastafril
 
 impf
 
-yastawqifu	yastawqifāni	yastawqifūna
-tastawqifu	tastawqifāni	yastawqifna
-tastawqifu	tastawqifāni	tastawqifūna
-tastawqifīna	tastawqifāni	tastawqifna
-ˀastawqifu	nastawqifu	nastawqifu
+yastafrilu	yastafrilāni	yastafrilūna
+tastafrilu	tastafrilāni	yastafrilna
+tastafrilu	tastafrilāni	tastafrilūna
+tastafrilīna	tastafrilāni	tastafrilna
+ˀastafrilu	nastafrilu	nastafrilu
 
 subj
 
-yastawqifa	yastawqifā	yastawqifū
-tastawqifa	tastawqifā	yastawqifna
-tastawqifa	tastawqifā	tastawqifū
-tastawqifī	tastawqifā	tastawqifna
-ˀastawqifa	nastawqifa	nastawqifa
+yastafrila	yastafrilā	yastafrilū
+tastafrila	tastafrilā	yastafrilna
+tastafrila	tastafrilā	tastafrilū
+tastafrilī	tastafrilā	tastafrilna
+ˀastafrila	nastafrila	nastafrila
 
 impv
 
-istawqif	istawqifā	istawqifū
-istawqifī	istawqifā	istawqifna
+istafril	istafrilā	istafrilū
+istafrilī	istafrilā	istafrilna
 
 actp
 
-mustawqif	
+mustafril	
 pasp
 
-mustawqaf	
+mustafral	
 masd
 
-ˀistiwqāf
+ˀistifrāl

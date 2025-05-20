@@ -24,7 +24,7 @@ def print_paradigm(paradigm: dict) -> str: # тестовая функция ч�
             output += '\t'
     return output
 
-paradigm = build_paradigm('wqf')
+paradigm = build_paradigm('frl')
 
 with open('test_output.txt', 'w', encoding='UTF-8') as f:
     f.write(print_paradigm(paradigm))

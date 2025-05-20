@@ -381,8 +381,8 @@ def after_asterisk_form(word: str, root: str, gram: tuple) -> str:
 
 
 def prothesis(word):
-    word = re.sub(rf'^([{cons}]{{2}})[uū]', r'u\1\2', word)
-    word = re.sub(rf'^([{cons}]{{2}})[aiāī]', r'i\1\2', word)
+    word = re.sub(rf'^([{cons}]{{2}}[uū])', r'u\1', word)
+    word = re.sub(rf'^([{cons}]{{2}}[aiāī])', r'i\1', word)
     return word
 
 
