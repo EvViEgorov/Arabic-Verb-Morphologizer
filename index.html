@@ -19,8 +19,8 @@
                 box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
                 background: white;
                 border: 1px solid #e0e0e0;
-                padding: 40 px;
-                margin: 40 px;
+                padding: 40px;
+                margin: 40px;
             }
             .result-header {
                 background: #013220;
@@ -136,6 +136,86 @@
             .action-btn:hover {
                 background-color: #3a5a8f;
             }
+                #toggle-table {
+            display: none;
+        }
+        
+        .toggle-btn {
+            display: inline-block;
+            background-color: #013220;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            font-size: 18px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 15px 0;
+            transition: background-color 0.3s;
+        }
+        
+        .toggle-btn:hover {
+            background-color: #025a3a;
+        }
+        
+        .table-container {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            max-height: 0;
+            opacity: 0;
+            transition: all 0.3s ease;
+            margin: 20px 0;
+        }
+        
+        #toggle-table:checked ~ .table-container {
+            max-height: 3000px;
+            opacity: 1;
+        }
+        
+        #toggle-table:not(:checked) + .toggle-btn::after {
+            content: "Показать таблицу с правилами траслита";
+        }
+        
+        #toggle-table:checked + .toggle-btn::after {
+            content: "Скрыть таблицу с правилами траслита";
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+            margin: 0;
+        }
+        
+        th {
+            background-color: #013220;
+            color: white;
+            padding: 15px;
+            font-size: 18px;
+        }
+        
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e0e0e0;
+            font-size: 20px;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f8f8f8;
+        }
+        
+        .arabic-char {
+            font-size: 28px;
+            font-weight: bold;
+            color: #013220;
+        }
+        
+        .translit {
+            font-style: italic;
+            color: #013220;
+        }
+        
     </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
@@ -150,10 +230,11 @@
         <img src="ornament.jpg" style="max-width: 100%; height: auto;">
     </p>
     <font size = "3">
-    <p class="container">
+       <p class="container">
     Этот сайт умеет определять форму арабского глагола и генерировать парадигмы. Вы можете морфологизировать любой арабский глагол, записанный <b> латиницей. </b> <br>
      — Чтобы узнать возможные <b>грамматические признаки глагольной формы</b>, нажми <b>"Хочу форму!"</b><br>
      — Чтобы сгенерировать <b>парадигму</b> из трехбуквенного корня, нажми <b>"Хочу парадигму!"</b><br>
+     Учитывайте, что морфологизатор не обладает встроенным словарём и, соответственно, не распознает масдары, образованные <b> не по моделям. </b>   
     </p>
     <div class="container">
         <h3>Специальные символы:</h3>
@@ -195,6 +276,148 @@
     <button py-click="paradigms" class="double-border-button"> Хочу парадигму! </button>
     </center>
     <script type="py" src="./main.py" config="./pyscript.toml"></script>
+        
+         <center> <input type="checkbox" id="toggle-table">
+            <label for="toggle-table" class="toggle-btn"></label>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Арабская буква</th>
+                            <th>Транслитерация латиницей</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="arabic-char">ا</td>
+                            <td class="translit">ʾ / ā</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ب</td>
+                            <td class="translit">b</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ت</td>
+                            <td class="translit">t</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ث</td>
+                            <td class="translit">ṯ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ج</td>
+                            <td class="translit">Ǯ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ح</td>
+                            <td class="translit">ḥ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">خ</td>
+                            <td class="translit">ḫ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">د</td>
+                            <td class="translit">d</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ذ</td>
+                            <td class="translit">ḏ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ر</td>
+                            <td class="translit">r</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ز</td>
+                            <td class="translit">z</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">س</td>
+                            <td class="translit">s</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ش</td>
+                            <td class="translit">š</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ص</td>
+                            <td class="translit">ṣ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ض</td>
+                            <td class="translit">ḍ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ط</td>
+                            <td class="translit">ṭ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ظ</td>
+                            <td class="translit">ẓ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ع</td>
+                            <td class="translit">ʿ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">غ</td>
+                            <td class="translit">ġ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ف</td>
+                            <td class="translit">f</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ق</td>
+                            <td class="translit">q</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ك</td>
+                            <td class="translit">k</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ل</td>
+                            <td class="translit">l</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">م</td>
+                            <td class="translit">m</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ن</td>
+                            <td class="translit">n</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ه</td>
+                            <td class="translit">h</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">و</td>
+                            <td class="translit">w / ū</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ي</td>
+                            <td class="translit">y / ī</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ء</td>
+                            <td class="translit">ʾ</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ة</td>
+                            <td class="translit"> t (в конце слова)</td>
+                        </tr>
+                        <tr>
+                            <td class="arabic-char">ى</td>
+                            <td class="translit">ā (в конце слова)</td>
+                        </tr>    
+                    </tbody>
+                </table>
+                </center>
+    </div>
+            </div>
+        
     <div class="result-container">
         <div class="result-header">
             <h2> Результат (появится в поле ниже) </h2>
