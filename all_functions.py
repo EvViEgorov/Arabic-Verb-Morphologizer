@@ -551,11 +551,11 @@ outputs = {
 
 def user_get_form(wordform: str) -> str:
     if re.search(rf'[^{cons}{vowels}]', wordform):
-        return 'Введён недопустимый символ'
+        return 'Введён недопустимый символ. Попробуйте снова, используя специальные символы из поля выше, если необходимою'
     else:
         forms = get_forms(wordform)
         if len(forms) <= 0:
-            return 'Формы не найдены'
+            return 'Формы не найдены. Такого глагола не может существовать.'
         else:
             output = 'Возможные глагольные формы:\n\n'
             for gram, dictform in forms.items():
@@ -568,7 +568,7 @@ def user_build_paradigm(root: str) -> str: # строит парадигму в 
         return 'Введён недопустимый символ'
     else:
         if len(root) != 3:
-            return 'Введите трёхбуквенный корень'
+            return 'Введите трёхбуквенный корень!'
         else:
             paradigm = build_paradigm(root)
             dstem, form = 0, ''
@@ -592,8 +592,3 @@ def user_build_paradigm(root: str) -> str: # строит парадигму в 
                     output += '\t'
             return output
 
-
-'''
-with open('test_output.txt', 'w', encoding='UTF-8') as f:
-    f.write(user_build_paradigm('wqf'))
-'''
