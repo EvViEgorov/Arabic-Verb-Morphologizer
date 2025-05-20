@@ -1,6 +1,6 @@
 from after_asterisk_form import after_asterisk_form, prothesis, cons
 from build_form import build_wordform, build_paradigm
-from get_root import get_roots
+from get_root import get_roots, get_forms
 import re
 
 

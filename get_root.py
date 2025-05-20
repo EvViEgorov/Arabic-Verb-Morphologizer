@@ -44,6 +44,7 @@ def get_dict_form(root: str, gram: tuple) -> list:
     else:
         for form in {'1aa', '1ai', '1au', '1ia', '1uu'}:
             dict_forms.append(build_wordform(root, (form, 'perf', '3msg')))
+
     return dict_forms
 
 

@@ -13,27 +13,27 @@ waqaftu	waqafnā	waqafnā
 
 juss
 
-yawqaf	yawqafā	yawqafū
-tawqaf	tawqafā	yawqafna
-tawqaf	tawqafā	tawqafū
-tawqafī	tawqafā	tawqafna
-ˀawqaf	nawqaf	nawqaf
+yaqaf	yaqafā	yaqafū
+taqaf	taqafā	yaqafna
+taqaf	taqafā	taqafū
+taqafī	taqafā	taqafna
+ˀaqaf	naqaf	naqaf
 
 impf
 
-yawqafu	yawqafāni	yawqafūna
-tawqafu	tawqafāni	yawqafna
-tawqafu	tawqafāni	tawqafūna
-tawqafīna	tawqafāni	tawqafna
-ˀawqafu	nawqafu	nawqafu
+yaqafu	yaqafāni	yaqafūna
+taqafu	taqafāni	yaqafna
+taqafu	taqafāni	taqafūna
+taqafīna	taqafāni	taqafna
+ˀaqafu	naqafu	naqafu
 
 subj
 
-yawqafa	yawqafā	yawqafū
-tawqafa	tawqafā	yawqafna
-tawqafa	tawqafā	tawqafū
-tawqafī	tawqafā	tawqafna
-ˀawqafa	nawqafa	nawqafa
+yaqafa	yaqafā	yaqafū
+taqafa	taqafā	yaqafna
+taqafa	taqafā	taqafū
+taqafī	taqafā	taqafna
+ˀaqafa	naqafa	naqafa
 
 impv
 
@@ -45,7 +45,7 @@ actp
 wāqif	
 pasp
 
-mawqūf	
+maqūf	
 masd
 
 DICTIONARY FORM
@@ -64,27 +64,27 @@ waqaftu	waqafnā	waqafnā
 
 juss
 
-yawqif	yawqifā	yawqifū
-tawqif	tawqifā	yawqifna
-tawqif	tawqifā	tawqifū
-tawqifī	tawqifā	tawqifna
-ˀawqif	nawqif	nawqif
+yaqif	yaqifā	yaqifū
+taqif	taqifā	yaqifna
+taqif	taqifā	taqifū
+taqifī	taqifā	taqifna
+ˀaqif	naqif	naqif
 
 impf
 
-yawqifu	yawqifāni	yawqifūna
-tawqifu	tawqifāni	yawqifna
-tawqifu	tawqifāni	tawqifūna
-tawqifīna	tawqifāni	tawqifna
-ˀawqifu	nawqifu	nawqifu
+yaqifu	yaqifāni	yaqifūna
+taqifu	taqifāni	yaqifna
+taqifu	taqifāni	taqifūna
+taqifīna	taqifāni	taqifna
+ˀaqifu	naqifu	naqifu
 
 subj
 
-yawqifa	yawqifā	yawqifū
-tawqifa	tawqifā	yawqifna
-tawqifa	tawqifā	tawqifū
-tawqifī	tawqifā	tawqifna
-ˀawqifa	nawqifa	nawqifa
+yaqifa	yaqifā	yaqifū
+taqifa	taqifā	yaqifna
+taqifa	taqifā	taqifū
+taqifī	taqifā	taqifna
+ˀaqifa	naqifa	naqifa
 
 impv
 
@@ -96,7 +96,7 @@ actp
 wāqif	
 pasp
 
-mawqūf	
+maqūf	
 masd
 
 DICTIONARY FORM
@@ -115,27 +115,27 @@ waqaftu	waqafnā	waqafnā
 
 juss
 
-yawquf	yawqufā	yawqufū
-tawquf	tawqufā	yawqufna
-tawquf	tawqufā	tawqufū
-tawqufī	tawqufā	tawqufna
-ˀawquf	nawquf	nawquf
+yaquf	yaqufā	yaqufū
+taquf	taqufā	yaqufna
+taquf	taqufā	taqufū
+taqufī	taqufā	taqufna
+ˀaquf	naquf	naquf
 
 impf
 
-yawqufu	yawqufāni	yawqufūna
-tawqufu	tawqufāni	yawqufna
-tawqufu	tawqufāni	tawqufūna
-tawqufīna	tawqufāni	tawqufna
-ˀawqufu	nawqufu	nawqufu
+yaqufu	yaqufāni	yaqufūna
+taqufu	taqufāni	yaqufna
+taqufu	taqufāni	taqufūna
+taqufīna	taqufāni	taqufna
+ˀaqufu	naqufu	naqufu
 
 subj
 
-yawqufa	yawqufā	yawqufū
-tawqufa	tawqufā	yawqufna
-tawqufa	tawqufā	tawqufū
-tawqufī	tawqufā	tawqufna
-ˀawqufa	nawqufa	nawqufa
+yaqufa	yaqufā	yaqufū
+taqufa	taqufā	yaqufna
+taqufa	taqufā	taqufū
+taqufī	taqufā	taqufna
+ˀaqufa	naqufa	naqufa
 
 impv
 
@@ -147,7 +147,7 @@ actp
 wāqif	
 pasp
 
-mawqūf	
+maqūf	
 masd
 
 DICTIONARY FORM
@@ -166,27 +166,27 @@ waqiftu	waqifnā	waqifnā
 
 juss
 
-yawqaf	yawqafā	yawqafū
-tawqaf	tawqafā	yawqafna
-tawqaf	tawqafā	tawqafū
-tawqafī	tawqafā	tawqafna
-ˀawqaf	nawqaf	nawqaf
+yaqaf	yaqafā	yaqafū
+taqaf	taqafā	yaqafna
+taqaf	taqafā	taqafū
+taqafī	taqafā	taqafna
+ˀaqaf	naqaf	naqaf
 
 impf
 
-yawqafu	yawqafāni	yawqafūna
-tawqafu	tawqafāni	yawqafna
-tawqafu	tawqafāni	tawqafūna
-tawqafīna	tawqafāni	tawqafna
-ˀawqafu	nawqafu	nawqafu
+yaqafu	yaqafāni	yaqafūna
+taqafu	taqafāni	yaqafna
+taqafu	taqafāni	taqafūna
+taqafīna	taqafāni	taqafna
+ˀaqafu	naqafu	naqafu
 
 subj
 
-yawqafa	yawqafā	yawqafū
-tawqafa	tawqafā	yawqafna
-tawqafa	tawqafā	tawqafū
-tawqafī	tawqafā	tawqafna
-ˀawqafa	nawqafa	nawqafa
+yaqafa	yaqafā	yaqafū
+taqafa	taqafā	yaqafna
+taqafa	taqafā	taqafū
+taqafī	taqafā	taqafna
+ˀaqafa	naqafa	naqafa
 
 impv
 
@@ -198,7 +198,7 @@ actp
 wāqif	
 pasp
 
-mawqūf	
+maqūf	
 masd
 
 DICTIONARY FORM
@@ -217,27 +217,27 @@ waquftu	waqufnā	waqufnā
 
 juss
 
-yawquf	yawqufā	yawqufū
-tawquf	tawqufā	yawqufna
-tawquf	tawqufā	tawqufū
-tawqufī	tawqufā	tawqufna
-ˀawquf	nawquf	nawquf
+yaquf	yaqufā	yaqufū
+taquf	taqufā	yaqufna
+taquf	taqufā	taqufū
+taqufī	taqufā	taqufna
+ˀaquf	naquf	naquf
 
 impf
 
-yawqufu	yawqufāni	yawqufūna
-tawqufu	tawqufāni	yawqufna
-tawqufu	tawqufāni	tawqufūna
-tawqufīna	tawqufāni	tawqufna
-ˀawqufu	nawqufu	nawqufu
+yaqufu	yaqufāni	yaqufūna
+taqufu	taqufāni	yaqufna
+taqufu	taqufāni	taqufūna
+taqufīna	taqufāni	taqufna
+ˀaqufu	naqufu	naqufu
 
 subj
 
-yawqufa	yawqufā	yawqufū
-tawqufa	tawqufā	yawqufna
-tawqufa	tawqufā	tawqufū
-tawqufī	tawqufā	tawqufna
-ˀawqufa	nawqufa	nawqufa
+yaqufa	yaqufā	yaqufū
+taqufa	taqufā	yaqufna
+taqufa	taqufā	taqufū
+taqufī	taqufā	taqufna
+ˀaqufa	naqufa	naqufa
 
 impv
 
@@ -249,7 +249,7 @@ actp
 wāqif	
 pasp
 
-mawqūf	
+maqūf	
 masd
 
 DICTIONARY FORM
@@ -405,7 +405,7 @@ pasp
 muwqal	
 masd
 
-ˀīqāf
+ˀiwqāf
 
 
 5
@@ -413,50 +413,50 @@ masd
 
 perf
 
-tuqqafa	tuqqafā	tuqqafū
-tuqqafat	tuqqafatā	tuqqafna
-tuqqafta	tuqqaftumā	tuqqaftum
-tuqqafti	tuqqaftumā	tuqqaftunna
-tuqqaftu	tuqqafnā	tuqqafnā
+tawaqqafa	tawaqqafā	tawaqqafū
+tawaqqafat	tawaqqafatā	tawaqqafna
+tawaqqafta	tawaqqaftumā	tawaqqaftum
+tawaqqafti	tawaqqaftumā	tawaqqaftunna
+tawaqqaftu	tawaqqafnā	tawaqqafnā
 
 juss
 
-yatuqqaf	yatuqqafā	yatuqqafū
-tatuqqaf	tatuqqafā	yatuqqafna
-tatuqqaf	tatuqqafā	tatuqqafū
-tatuqqafī	tatuqqafā	tatuqqafna
-ˀatuqqaf	natuqqaf	natuqqaf
+yatawaqqaf	yatawaqqafā	yatawaqqafū
+tatawaqqaf	tatawaqqafā	yatawaqqafna
+tatawaqqaf	tatawaqqafā	tatawaqqafū
+tatawaqqafī	tatawaqqafā	tatawaqqafna
+ˀatawaqqaf	natawaqqaf	natawaqqaf
 
 impf
 
-yatuqqafu	yatuqqafāni	yatuqqafūna
-tatuqqafu	tatuqqafāni	yatuqqafna
-tatuqqafu	tatuqqafāni	tatuqqafūna
-tatuqqafīna	tatuqqafāni	tatuqqafna
-ˀatuqqafu	natuqqafu	natuqqafu
+yatawaqqafu	yatawaqqafāni	yatawaqqafūna
+tatawaqqafu	tatawaqqafāni	yatawaqqafna
+tatawaqqafu	tatawaqqafāni	tatawaqqafūna
+tatawaqqafīna	tatawaqqafāni	tatawaqqafna
+ˀatawaqqafu	natawaqqafu	natawaqqafu
 
 subj
 
-yatuqqafa	yatuqqafā	yatuqqafū
-tatuqqafa	tatuqqafā	yatuqqafna
-tatuqqafa	tatuqqafā	tatuqqafū
-tatuqqafī	tatuqqafā	tatuqqafna
-ˀatuqqafa	natuqqafa	natuqqafa
+yatawaqqafa	yatawaqqafā	yatawaqqafū
+tatawaqqafa	tatawaqqafā	yatawaqqafna
+tatawaqqafa	tatawaqqafā	tatawaqqafū
+tatawaqqafī	tatawaqqafā	tatawaqqafna
+ˀatawaqqafa	natawaqqafa	natawaqqafa
 
 impv
 
-tuqqaf	tuqqafā	tuqqafū
-tuqqafī	tuqqafā	tuqqafna
+tawaqqaf	tawaqqafā	tawaqqafū
+tawaqqafī	tawaqqafā	tawaqqafna
 
 actp
 
-mutuqqif	
+mutawaqqif	
 pasp
 
-mutuqqaf	
+mutawaqqaf	
 masd
 
-tuqquf
+tawaqquf
 
 
 6
@@ -523,27 +523,27 @@ inwaqaftu	inwaqafnā	inwaqafnā
 
 juss
 
-yanāqif	yanāqifā	yanāqifū
-tanāqif	tanāqifā	yanāqifna
-tanāqif	tanāqifā	tanāqifū
-tanāqifī	tanāqifā	tanāqifna
-ˀanāqif	nanāqif	nanāqif
+yanwaqif	yanwaqifā	yanwaqifū
+tanwaqif	tanwaqifā	yanwaqifna
+tanwaqif	tanwaqifā	tanwaqifū
+tanwaqifī	tanwaqifā	tanwaqifna
+ˀanwaqif	nanwaqif	nanwaqif
 
 impf
 
-yanāqifu	yanāqifāni	yanāqifūna
-tanāqifu	tanāqifāni	yanāqifna
-tanāqifu	tanāqifāni	tanāqifūna
-tanāqifīna	tanāqifāni	tanāqifna
-ˀanāqifu	nanāqifu	nanāqifu
+yanwaqifu	yanwaqifāni	yanwaqifūna
+tanwaqifu	tanwaqifāni	yanwaqifna
+tanwaqifu	tanwaqifāni	tanwaqifūna
+tanwaqifīna	tanwaqifāni	tanwaqifna
+ˀanwaqifu	nanwaqifu	nanwaqifu
 
 subj
 
-yanāqifa	yanāqifā	yanāqifū
-tanāqifa	tanāqifā	yanāqifna
-tanāqifa	tanāqifā	tanāqifū
-tanāqifī	tanāqifā	tanāqifna
-ˀanāqifa	nanāqifa	nanāqifa
+yanwaqifa	yanwaqifā	yanwaqifū
+tanwaqifa	tanwaqifā	yanwaqifna
+tanwaqifa	tanwaqifā	tanwaqifū
+tanwaqifī	tanwaqifā	tanwaqifna
+ˀanwaqifa	nanwaqifa	nanwaqifa
 
 impv
 
@@ -552,10 +552,10 @@ inwaqifī	inwaqifā	inwaqifna
 
 actp
 
-munāqif	
+munwaqif	
 pasp
 
-munāqaf	
+munwaqaf	
 masd
 
 inwiqāf
@@ -566,11 +566,11 @@ inwiqāf
 
 perf
 
-iwtaqafa	iwtaqafā	iwtaqafū
-iwtaqafat	iwtaqafatā	iwtaqafna
-iwtaqafta	iwtaqaftumā	iwtaqaftum
-iwtaqafti	iwtaqaftumā	iwtaqaftunna
-iwtaqaftu	iwtaqafnā	iwtaqafnā
+ittaqafa	ittaqafā	ittaqafū
+ittaqafat	ittaqafatā	ittaqafna
+ittaqafta	ittaqaftumā	ittaqaftum
+ittaqafti	ittaqaftumā	ittaqaftunna
+ittaqaftu	ittaqafnā	ittaqafnā
 
 juss
 
@@ -598,8 +598,8 @@ tawtaqifī	tawtaqifā	tawtaqifna
 
 impv
 
-iwtaqif	iwtaqifā	iwtaqifū
-iwtaqifī	iwtaqifā	iwtaqifna
+ittaqif	ittaqifā	ittaqifū
+ittaqifī	ittaqifā	ittaqifna
 
 actp
 
@@ -660,4 +660,4 @@ pasp
 mustawqaf	
 masd
 
-ˀistīqāf
+ˀistiwqāf

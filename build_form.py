@@ -180,7 +180,7 @@ perf_second_vowel = {
 vowels = 'aiuāīū'
 consonants = 'bdfhklmnqrstwyzǮšṯḏḍṭṣẓˀġḫḥˁ'
 
-# Кортеж грамматики: (1, 'perf', '3msg') либо (1, 'masd') -
+# Кортеж грамматики: ('3', 'perf', '3msg') либо (1, 'masd') -
 # [0] - порода
 # [1] - форма
 # [2] - личные грам.категории
@@ -229,7 +229,20 @@ def build_wordform(root: str, gram_cat: tuple) -> str: # строим слово
 
 def build_paradigm(root: str) -> dict:
     paradigm = dict()
-    for dstem in stems.keys():
+    gen_forms = []
+
+    if root[1] == 'w':
+        gen_forms = ['1au', '2', '3', '4', '5', '6', '7', '8', '10']
+    elif root[1] == 'y':
+        gen_forms = ['1ai', '2', '3', '4', '5', '6', '7', '8', '10']
+    elif root[2] == 'w':
+        gen_forms = ['1au', '2', '3', '4', '5', '6', '7', '8', '10']
+    elif root[2] == 'y':
+        gen_forms = ['1ai', '1ia', '2', '3', '4', '5', '6', '7', '8', '10']
+    else:
+        gen_forms = stems.keys()
+
+    for dstem in gen_forms:
 
         # личные формы кроме императива
         for form in pers_forms_no_impv:
