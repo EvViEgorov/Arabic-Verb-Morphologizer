@@ -1,6 +1,6 @@
 import re
-
 from itertools import product
+
 
 cons = 'bdfhklmnqrstwyzǮšṯḏḍṭṣẓˀġḫḥˁ'
 vowels = 'aiuāīū'
@@ -550,8 +550,9 @@ outputs = {
 
 
 def user_get_form(wordform: str) -> str:
+    wordform = wordform.strip()
     if re.search(rf'[^{cons}{vowels}]', wordform):
-        return 'Введён недопустимый символ. Попробуйте снова, используя специальные символы из поля выше, если необходимою'
+        return 'Введён недопустимый символ. Попробуйте снова, используя специальные символы из поля выше, если необходимо.'
     else:
         forms = get_forms(wordform)
         if len(forms) <= 0:
@@ -563,9 +564,11 @@ def user_get_form(wordform: str) -> str:
             return output
 
 
+
 def user_build_paradigm(root: str) -> str: # строит парадигму в виде строки для удобного отображения
+    root = root.strip()
     if re.search(rf'[^{cons}{vowels}]', root):
-        return 'Введён недопустимый символ'
+        return 'Введён недопустимый символ. Попробуйте снова, используя специальные символы из поля выше, если необходимо.'
     else:
         if len(root) != 3:
             return 'Введите трёхбуквенный корень!'
@@ -591,4 +594,4 @@ def user_build_paradigm(root: str) -> str: # строит парадигму в 
                 else:
                     output += '\t'
             return output
-
+    
